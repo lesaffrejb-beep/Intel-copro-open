@@ -1,0 +1,3316 @@
+       CONSERVATOIRE NATIONAL DES ARTS ET METIERS
+
+    ÉCOLE SUPÉRIEURE DES GÉOMÈTRES ET TOPOGRAPHES
+
+                          _________________
+
+                             MÉMOIRE
+
+                       Présenté en vue d'obtenir
+
+                 Le DIPLÔME DE MASTER DU CNAM
+
+
+
+      Spécialité : Identification Aménagement et Gestion du Foncier
+
+
+
+                                  par
+
+                         Agathe MALOT
+                         ___________________
+
+
+
+La prise en compte de la diversité des activités lors de la rédaction du
+   règlement de copropriété d'un ensemble immobilier complexe
+
+                        Soutenu le 14 juin 2016
+
+                          _________________
+
+                                 JURY
+
+   PRESIDENT : Madame Elisabeth BOTREL             Présidente du jury
+
+   MEMBRES :      Monsieur Jean-Christophe         Maître de stage
+                  BUREAU
+                  Madame Laurence CATIN            Professeur référent
+                  Madame Corine SAMSON             Professeur ESGT
+                                   Remerciements
+
+
+
+Avant d’entrer dans le cœur du sujet, je tiens à formuler toute ma reconnaissance aux per-
+sonnes qui m’ont apporté leur aide et leur soutien lors de l’élaboration de ce mémoire et
+plus généralement tout au long de ces années d’études.
+
+J’aimerais d’abord exprimer toute ma gratitude à Monsieur Jean-Christophe Bureau, géo-
+mètre-expert, qui m’a fait confiance pour ce travail de fin d’études. Outre sa disponibilité
+permanente, ses conseils et son expérience m’ont été précieux pour mener à bien mes re-
+cherches.
+
+Merci également à Madame Laurence Catin, professeur à l’Institut de la Construction et de
+l’Habitation de l’Ouest, pour m’avoir soutenue, conseillée et orientée tout au long de ce
+travail.
+
+Je tiens ensuite à remercier :
+
+   •   L’ensemble des collaborateurs du cabinet de géomètre-expert de Monsieur Bureau,
+       à savoir Mesdames Vié et Bureau et Monsieur Martin, pour l’accompagnement et
+       la bonne humeur qu’ils m’ont réservés au quotidien, me permettant de réaliser ces
+       vingt semaines de stage dans les meilleures conditions.
+
+   •   Tous les professionnels qui m’ont apporté des éclairages sur des problématiques
+       liées à leurs différentes spécialités : Madame Stéphanie Laporte Leconte, directrice
+       de l’Institut de la Construction et de l’Habitation de l’Ouest, Monsieur Philippe Se-
+       chet, Géomètre expert à Paris, Monsieur Nicolas Page, géomètre expert à Nantes et
+       Monsieur Jean Marc Le Masson, avocat au Barreau de Nantes.
+
+   •   Madame Elisabeth Botrel, pour avoir accepté la présidence de ce jury.
+                               Liste des abréviations
+
+
+ALUR (Loi) : Accès au Logement et un Urbanisme Rénové
+
+Art. : Article
+
+CA : Cour d’appel
+
+Cass. : Cour de cassation
+
+CE : Conseil d’Etat
+
+Civ. : Chambre civile
+
+EDD : Etat descriptif de division
+
+ENE (Loi) : Engagement National pour l’Environnement
+
+PDU : Plan de Déplacement Urbain
+
+PLU : Plan Local d’Urbanisme
+
+RCP : Règlement de Copropriété
+
+SCOT : Schéma de Cohérence Territoriale
+
+SRU (Loi) : Solidarité et au Renouvellement Urbains
+                                                        Table des matières
+
+
+
+Remerciements ...................................................................................................................... 2
+Liste des abréviations ............................................................................................................ 3
+Table des matières ................................................................................................................. 4
+Introduction ........................................................................................................................... 5
+   I.   LES REGLES D’URBANISME APPLICABLES EN COPROPRIETE EN MATIERE DE DESTINATION DE
+   L’IMMEUBLE ET DE STATIONNEMENT .......................................................................................................                    19
+      I.1.        LA DESTINATION D’UN ENSEMBLE IMMOBILIER COMPLEXE ...................................................... 19
+          I.1.1.     Les articles R151-27 et R151-28 du code de l’urbanisme .................................................. 19
+          I.1.2.     La destination de l’immeuble en copropriété ...................................................................... 21
+              I.1.2.a. Les éléments qui interviennent dans le choix de la destination de l’immeuble .............. 21
+              I.1.2.b. Evolution de la destination de l’immeuble ..................................................................... 24
+      I.2.        LES DISPOSITIONS EN MATIERE DE STATIONNEMENT : DE L’URBANISME A LA COPROPRIETE .... 25
+          I.2.1.     Les dispositions du code de l’urbanisme en matière de stationnements ............................. 25
+              I.2.1.a. Généralités ..................................................................................................................... 25
+              I.2.1.b. Dérogations .................................................................................................................... 27
+          I.2.2.     L’article 8 de la loi de 1965 ................................................................................................ 28
+   II. L’AMENAGEMENT DES REGLES D’URBANISME AU TRAVERS DE CLAUSES DANS LE REGLEMENT DE
+   COPROPRIETE ............................................................................................................................................. 29
+      II.1.       LES CLAUSES DU REGLEMENT DE COPROPRIETE PORTANT SUR LES LOTS A DESTINATION
+      COMMERCIALE ........................................................................................................................................ 29
+          II.1.1. Conditions de jouissance des parties privatives .................................................................. 29
+              II.1.1.a. Généralités ..................................................................................................................... 29
+              II.1.1.b. Les restrictions au droit de jouissance............................................................................ 29
+              II.1.1.c. Changement d’affectation : règlementation et procédure............................................... 30
+          II.1.2. L’enseigne : droit accessoire aux parties communes .......................................................... 32
+              II.1.2.a. Généralités ..................................................................................................................... 32
+              II.1.2.b. Clauses illicites réputées non écrites et leurs conséquences........................................... 33
+              II.1.2.c. Clauses licites ................................................................................................................. 34
+          II.1.3. Troubles anormaux du voisinage ........................................................................................ 35
+      II.2.       LA GESTION DES STATIONNEMENTS DANS UN ENSEMBLE IMMOBILIER COMPLEXE ................... 36
+          II.2.1. La répartition des places de stationnement ......................................................................... 37
+              II.2.1.a. Création de lots .............................................................................................................. 37
+              II.2.1.b. Clause d’aggravation de charges .................................................................................... 40
+          II.2.2. Nouveaux concepts de mutualisation des stationnements................................................... 40
+              II.2.2.a. Concept .......................................................................................................................... 40
+              II.2.2.b. Avantages ....................................................................................................................... 41
+              II.2.2.c. Mise en place en copropriété.......................................................................................... 42
+Conclusion ........................................................................................................................... 46
+Bibliographie ....................................................................................................................... 47
+Liste des figures ................................................................................................................... 49
+Table des annexes ................................................................................................................ 50
+
+
+
+
+                                                                              4
+                                             Introduction
+« La notion de copropriété est en soi très ancienne : elle est sans doute née le jour où deux
+personnes ont décidé d’un commun accord de construire une maison de deux étages com-
+prenant un appartement par étage plus un escalier commun » 1.
+
+En effet, lors de la première dynastie Babylonienne il y a plus de 4000 ans, existaient des
+édifices comportant plusieurs étages, mais ces derniers étaient exclusivement composés de
+propriétés privatives juxtaposées. 2 Ce modèle de division de la propriété par étages a en-
+suite perduré au fil des siècles, l’organisation de la gestion étant alors réglée par différentes
+coutumes.
+
+L’article 664 3 du Code civil, en vigueur depuis 1804, évoque le terme de copropriété. On
+retrouve dans ce texte qui fait apparaitre pour la première fois la propriété commune, le
+principe des propriétés superposées.
+Cet article disposait alors que :
+« Lorsque les différents étages d'une maison appartiennent à divers propriétaires, si les
+titres de propriété ne réglant pas le mode des réparations et reconstructions, elles doivent
+être faites ainsi qu'il suit :
+
+    -    Les gros murs et le toit sont à la charge de tous les propriétaires, chacun en pro-
+         portion de la valeur de l'étage qui lui appartient ;
+    -    Le propriétaire de chaque étage fait le plancher sur lequel il marche ;
+    -    Le propriétaire du premier étage fait l'escalier qui y conduit, le propriétaire du se-
+         cond étage fait, à partir du premier, l'escalier qui conduit chez lui et ainsi de
+         te 4 ».
+
+Le législateur ne prévoyait aucun mode de gestion, il n’y avait pas de règlement de copro-
+priété, seulement une répartition des charges d’entretien du gros œuvre. De plus, les dispo-
+sitions de cet article étaient vouées à s’appliquer de manière supplétive dans le cas où les
+titres de propriété ne prévoyaient aucune organisation différente. Mais les limites de ce
+texte se sont révélées dès la fin du XIXe siècle, avec la multiplication des réseaux (eau
+courante, gaz, électricité) et l’apparition des ascenseurs.
+
+Le statut de la copropriété, tel qu’on le connait aujourd’hui en France, naît avec la loi du
+30 juin 1938 5. Cette loi portait sur le régime des sociétés de construction (Chapitre I) et sur
+celui des immeubles divisés par étages (Chapitre II). Le législateur consacrait alors dix
+articles à la copropriété. On y trouvait la notion de division en « appartements » constitués
+d’une partie privative et d’une quote-part, indissociable de la propriété, des parties com-
+munes de l’immeuble. Cette organisation est gérée par le syndicat qui réunit le syndic de
+copropriété lors d’assemblées générales. Le règlement de copropriété, document qui tient
+
+
+
+
+1
+  P. Lebatteux « Les origines de la copropriété » ADJI, pp519
+2
+  P. Lebatteux art. préc. , pp519, spéc. § Copropriété Mosaïque
+3
+  Abrogé par la loi du 30 juin 1938 elle-même abrogée par la loi du 10 juillet 1965
+4
+  Article abrogé par la loi n°1938-06-28, article 13, lui-même abrogé par la loi n°65-557 article 48
+5
+  Loi n°1938-06-28 du 30 juin 1938
+
+
+                                                       5
+un rôle essentiel, apparait avec cette loi mais reste un document facultatif. Cette législation
+comportait toutefois de réelles insuffisances, compte tenu du fait notamment que les amé-
+liorations de l’immeuble devaient être votées à l’unanimité. Les décisions pouvaient alors
+être bloquées ce qui empêchait l’immeuble d’évoluer. Cependant, la limite principale de
+cette loi résidait dans son caractère supplétif. En effet, dans de nombreux articles la men-
+tion « à défaut de convention contraire 6» était précisée.
+
+Le nombre d’immeubles dont la propriété est divisée et la taille de ceux-ci a beaucoup
+augmenté après la seconde guerre mondiale ce qui a poussé à l’apparition de la loi n° 65-
+557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis et de son dé-
+cret d’application du 17 mars 1967. Ces textes ont alors permis d’encadrer les problèmes
+liés à l’entretien des parties communes de ces immeubles et d’organiser leur gestion. La
+principale innovation de cette nouvelle législation se trouve dans l’article 43 qui annonce
+le caractère impératif de celle-ci. 7
+
+Les objectifs de la loi sont de donner des définitions juridiques précises, de garantir les
+droits des copropriétaires contre les clauses abusives que peut contenir un règlement de
+copropriété et de faciliter la gestion collective de l’immeuble. En effet, l’article 8 de cette
+loi impose la rédaction d’un règlement de copropriété ainsi que sa publication au service de
+la publicité foncière.
+
+De plus, de nouvelles règles de majorité sont posées aux articles 24 8, 25 9 et 26 10 de la loi.
+Elles concernent les décisions prises lors des assemblées générales des copropriétaires qui
+sont votées selon leur importance à une certaine majorité. A titre d’illustration, les travaux
+d’amélioration de l’immeuble sont réalisés suite à une décision à la majorité et non plus à
+l’unanimité comme c’était le cas dans la loi du 28 juin 1938. Cette innovation permet ainsi
+de faciliter l’évolution d’une copropriété contrairement à l’ancienne législation de 1938.
+Mais le législateur a prévu d’autres stipulations permettant de gérer et faire évoluer au
+mieux les copropriétés. Ainsi, depuis plus de cinquante ans, cette loi permet de gérer les
+immeubles répondant au statut de la copropriété, mais les contraintes urbanistiques ac-
+tuelles ont conduit à l’élaboration de certaines lois comme la loi ALUR 11 ou la loi de tran-
+sitions énergétiques 12 qui sont venus compléter et modifier la loi de 1965.
+
+Cependant, malgré une actualisation régulière et des améliorations incontestables apportées
+au statut, ces textes sont parfois critiqués et donnent lieu à des contentieux important. En
+effet, la législation actuelle ignore totalement les grandes copropriétés puisqu’elle ne fait
+aucune différence entre une petite copropriété de quelques lots et une grande copropriété
+
+
+
+
+6
+  Les articles 6, 7, 9 et 10 de la loi du 30 juin 1938 en font mention
+7
+  Article 43 de la loi du 10 juillet 1965 : voir annexe 1
+8
+  Majorité des voies des copropriétaires présents ou représentés (chaque copropriétaire vote avec un nombre
+de voix proportionnel à sa quote-part de partie commune). (Voir annexe 1)
+9
+  Majorité des voies de tous les copropriétaires (présents ou absents lors de l’assemblée générale) (Voir an-
+nexe 1)
+10
+   Majorité des membres du syndicat et représentant au moins deux tiers des voies (Voir annexe 1)
+11
+   Loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové
+12
+   Loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte
+
+
+                                                      6
+de plusieurs centaines de lots. Or les années 1960-1970 ont été marquées par une forte
+croissance urbaine.
+
+
+
+
+      Figure 1 : Evolution démographique des espaces périurbains - Source INSEE
+
+
+De très grands ensembles soumis au régime de la copropriété ont alors été créés : les
+grands ensembles et les ensembles immobiliers complexes. Ces grandes copropriétés font
+apparaitre les limites de la loi puisque c’est dans ce genre de bâtiment que « toutes les pa-
+thologies de la copropriété sont aggravées 13 ».
+
+Par exemple, dans ces grandes copropriétés, souvent composées de plusieurs bâtiments, les
+copropriétaires qui ne se sentent pas concernés par certaines résolutions ne se rendent pas
+aux assemblées générales. Cela créé parfois un taux d’absentéisme qui conduit à
+l’impossibilité de voter les résolutions en raison d’un quorum 14 non atteint pour respecter
+les règles de majorité précédemment évoquées.
+
+Un grand ensemble se caractérise par un immeuble composé de plusieurs bâtiments dont
+tous les lots sont destinés au même usage (le plus souvent l’habitation). Un ensemble im-
+mobilier complexe quant à lui répond au besoin de densification de l’espace. C’est la su-
+perposition, sur une même parcelle d’espaces publics et privés, de bureaux, commerces,
+habitations. L’ensemble immobilier complexe est défini par le législateur en 2014 « un
+ensemble immobilier complexe comportant soit plusieurs bâtiments distincts sur dalle, soit
+plusieurs entités homogènes affectées à des usages différents, pour autant que chacune de
+ces entités permette une gestion autonome 15».
+Ces ensembles ont la particularité de faire cohabiter le domaine public et les propriétés
+
+
+
+
+13
+   S. Lelievre, S. Chaix-Bryan, « Division de l’immeuble, le sol, l’espace, le bâti », 103e Congrès des notaires
+de France – Lyon 23-26 septembre 2007- 3e commission, ACNF, 2007, pp 519-750, spéc. pp 785
+14
+   Définition du Larousse : « Nombre de membres présents exigé dans une assemblée délibérante pour que le
+vote soit valable. »
+15
+   Article 28 de la loi du 10 juillet 1965 (Voir annexe 1)
+
+
+                                                       7
+privées. Or, le statut de la copropriété implique une indivision forcée des parties com-
+munes, ce qui est contraire aux principes d’imprescriptibilité et d’inaliénabilité du domaine
+public 16. On trouve deux solutions à ce problème : le déclassement 17 ou la division de
+l’immeuble en volumes.
+
+Aujourd’hui encore, l’aménagement urbain constitue « un enjeu prioritaire pour améliorer
+notre qualité de vie et pour réduire les émissions de gaz à effet de serre, notamment en
+mettant en œuvre la ville durable en réservant nos ressources, nos paysages et notre terri-
+toire 18 ». Cette volonté de protéger l’environnement s’est traduite en France par la promul-
+gation de certaines lois : la loi n° 2000-1208 dite SRU du 13 décembre 2000, les lois Gre-
+nelle 1 et 2 du 3 aout 2009 et du 12 juillet 2010. Ces trois lois ont pour objectif commun de
+continuer à urbaniser les zones déjà urbanisées et de limiter l’étalement urbain pour proté-
+ger au maximum les espaces non urbanisées, agricoles et naturels. Cette volonté de densi-
+fier est traduite par certains urbanistes par l’expression « construire la ville sur la ville 19».
+Par exemple, l’organisation des parcs de stationnement est un enjeu majeur pour lutter
+contre l’étalement urbain. En effet, nous verrons que de nouveaux concepts ont été déve-
+loppés afin de répondre aux dispositions de ces lois. De même, le principal enjeu de
+l’urbanisme est une gestion organisée du foncier et des activités qui le composent. La des-
+tination de l’immeuble parait donc être un critère fondamental pour répondre aux disposi-
+tions urbanistiques actuelles.
+
+Pour illustrer ce mémoire nous nous appuierons sur un projet d’ensemble immobilier com-
+plexe situé dans le quartier Erdre Porterie à Nantes. L’opération complète et achève
+l’extension du centre bourg du secteur et joue ainsi un rôle clé. Ce programme est dense en
+logements et propose l’implantation d’un centre commercial de quartier composé d’un
+supermarché et de cellules commerciales associées. Il est accompagné d’un parc de sta-
+tionnement de plus de 200 places répartis sur deux étages. La notice explicative de ce pro-
+jet spécifie l’importance d’une écriture architecturale unitaire pour intégrer cet ensemble
+dans le tissu urbain existant. Ainsi, on comprend que l’harmonie générale de l’ensemble
+est essentielle. Les lots à usages commerciaux, tous situés au rez-de-chaussée, devront
+s’intégrer harmonieusement dans le projet et ainsi, la question des enseignes extérieures
+apposées en façade constitue un véritable enjeu. De même, la répartition des stationne-
+ments entre les différents usagers doit être établie après une mûre réflexion. Mais la pre-
+mière question qui s’est posée lors de la préparation de ce projet a été de savoir si une divi-
+sion volumétrique était réalisable ou si l’on devait appliquer le statut de la copropriété issu
+de la loi de 1965 .
+
+Afin d’expliquer le choix de la copropriété et non de la division en volumes dans le cadre
+de ce mémoire, nous allons nous intéresser aux critères nécessaires à la naissance de cha-
+
+
+
+
+16
+   Article L3111-1 du Code général de la propriété des personnes publiques : « Les biens des personnes pu-
+bliques mentionnées à l'article L. 1, qui relèvent du domaine public, sont inaliénables et imprescriptibles. »
+17
+   Article L2141-1 du Code général de la propriété des personnes publiques : « Un bien d'une personne pu-
+blique mentionnée à l'article L. 1, qui n'est plus affecté à un service public ou à l'usage direct du public, ne
+fait plus partie du domaine public à compter de l'intervention de l'acte administratif constatant son déclas-
+sement. »
+18
+   www.developpement-durable.fr
+19
+   Thème 4 « Construire la ville sur la ville » http://www.europan-europe.eu/fr/sessions-info/europan-4
+
+
+                                                       8
+cun des deux types de gestion.
+
+Pour cela, il faut étudier les textes se rapportant à chacune de ces gestions.
+
+L’article 1 de la loi du 10 juillet 1065 dispose « La présente loi régit tout immeuble bâti ou
+groupe d'immeubles bâtis dont la propriété est répartie, entre plusieurs personnes, par lots
+comprenant chacun une partie privative et une quote-part de parties communes.
+A défaut de convention contraire créant une organisation différente, la présente loi est
+également applicable aux ensembles immobiliers qui, outre des terrains, des aménage-
+ments et des services communs, comportent des parcelles, bâties ou non, faisant l'objet de
+droits de propriété privatifs ».
+
+Cet article met en évidence deux domaines d’application de la loi de 1965 :
+
+         1. Un domaine d’application obligatoire du statut de la copropriété défini à
+            l’alinéa 1 concerne les immeubles ou groupes d’immeuble bâtis dans lesquels la
+            propriété est divisé en lots, comprenant chacun une partie privative 20 et une
+            quote-part de partie commune 21.
+
+Plusieurs conditions sont nécessaires à l’application obligatoire du statut.
+La première condition est que l’on doit avoir à faire à un immeuble ou groupe d’immeuble
+bâti.
+Le statut n’est donc pas applicable aux terrains nus, la Cour de cassation l’a rappelé en
+2003 22.
+Le statut n’est pas non plus applicable aux immeubles en cours de construction.
+Il faut donc savoir, à quel moment on considère que l’immeuble est considéré comme bâti.
+La Cour de cassation a statué en disant qu’un immeuble est considéré comme bâti à comp-
+ter de son achèvement 23.
+La question qui se pose maintenant est la définition du mot achèvement.
+
+
+
+
+20
+   Article 2 de la loi du 10 juillet 1965 : « Sont privatives les parties des bâtiments et des terrains réservées à
+l'usage exclusif d'un copropriétaire déterminé.
+Les parties privatives sont la propriété exclusive de chaque copropriétaire.»
+21
+   Sont communes les parties des bâtiments et des terrains affectées à l'usage ou à l'utilité de tous les copro-
+priétaires ou de plusieurs d'entre eux.
+Dans le silence ou la contradiction des titres, sont réputées parties communes :
+- le sol, les cours, les parcs et jardins, les voies d'accès ;
+- le gros œuvre des bâtiments, les éléments d'équipement commun, y compris les parties de canalisations y
+afférentes qui traversent des locaux privatifs ;
+- les coffres, gaines et têtes de cheminées ;
+- les locaux des services communs ;
+- les passages et corridors.
+Sont réputés droits accessoires aux parties communes dans le silence ou la contradiction des titres :
+- le droit de surélever un bâtiment affecté à l'usage commun ou comportant plusieurs locaux qui constituent
+des parties privatives différentes, ou d'en affouiller le sol ;
+- le droit d'édifier des bâtiments nouveaux dans des cours, parcs ou jardins constituant des parties communes;
+- le droit d'affouiller de tels cours, parcs ou jardins ;
+- le droit de mitoyenneté afférent aux parties communes.
+22
+   Cass. 3e civ. 17 déc. 2003, pourvoi n°02-17783
+23
+   Cass. 3e civ. 30 sept. 1998
+
+
+                                                        9
+La Cour de Paris a stipulé que le régime de la copropriété serait applicable à partir du mo-
+ment où l’immeuble serait habitable pour partie au moins 24.
+Ainsi, lors du 103ème congrès des notaires, il a été décidé que l’évènement qui serait le fait
+générateur de la naissance de la copropriété serait la livraison du premier lot, et donc,
+l’existence d’au moins deux copropriétaires.
+On doit avoir affaire à un immeuble ou un groupe d’immeuble.
+Que l’on soit dans le cas d’une copropriété verticale ou horizontale, le critère
+d’homogénéité est essentiel. En effet, il s’agit des droits indivis dont disposent les copro-
+priétaires sur le sol.
+
+La seconde condition est la pluralité de propriétaires. En effet, l’article dispose « la pro-
+priété est répartie, entre plusieurs personnes ».
+Il faut au moins deux copropriétaires. Comme nous l’avons vu précédemment, la copro-
+priété nait dès lors que le premier lot est livré et qu’on a donc deux copropriétaires au
+moins.
+
+Enfin, on doit avoir une répartition de l’immeuble « par lots »
+Chaque copropriétaire doit posséder une partie privative et une quote-part de partie com-
+mune.
+
+Dès l’instant où ces conditions sont réunies, le statut de la copropriété est à appliquer de
+manière obligatoire et il est impossible d’y déroger en prévoyant un quelconque autre
+mode de gestion.
+
+           2. Un domaine d’application facultatif du statut de la copropriété défini à l’alinéa
+              2 de l’article 1er. Il concerne, à défaut de convention contraire, les ensembles
+              immobiliers faisant l’objet de droits de propriété privatifs.
+
+Le champ d’application facultatif du statut :
+
+Dans un premier temps il faut s’intéresser à la distinction entre un groupe d’immeubles et
+un ensemble immobilier : pour cela, il faut faire une analyse des titres. En effet, la proprié-
+té du sol n’est pas la même dans les deux cas :
+
+       •   Dans un groupe d’immeubles, la propriété est répartie entre tous : on parle
+           d’homogénéité du sol.
+       •   Dans un ensemble immobilier, la propriété du sol fait l’objet d’attributions di-
+           verses : on parle d’hétérogénéité du sol.
+           Monsieur Sizaire, avocat à la Cour de Paris, en donnait cette définition : « Toutes
+           les parcelles servant d’emprise à l’ensemble immobilier ne sont pas soumises au
+           même régime et (…) peuvent fait l’objet de droits privatifs en vertu desquels soit un
+           copropriétaire, soit un groupe de copropriétaires reçoit le droit d’utiliser, notam-
+           ment en y édifiant des bâtiments à son profit exclusif, une superficie, une parcelle
+           déterminée. »
+
+
+
+
+24
+     CA Paris 9ème Ch. B, 8 février 2011
+
+
+
+                                                10
+Dans un second temps il faut s’intéresser à ce que signifie « une organisation différente ».
+La forme de cette organisation n’est pas stipulée dans l’article 1er de la loi. Toutefois on a
+des indications sur son mode d’établissement :
+
+     •   L’article parle de « convention contraire », c’est-à-dire un document écrit témoi-
+         gnant d’un accord unanime.
+     •   L’article parle d’une « organisation différente », c’est-à-dire une entité juridique
+         autonome, dotée de la personnalité morale. Parmi ces organisations on peut par
+         exemple citer : le syndicat professionnel, l’association loi 1901, l’union de syndi-
+         cat, l’association syndicale libre et l’association foncière urbaine libre (ordonnance
+         du 1er juillet 2004 abrogeant la loi du 21 juin 1865), la division volumétrique, …
+         Nous nous intéresseront principalement à la division volumétrique pour établir un
+         choix entre copropriété et organisation différente. En effet, cette technique au-
+         jourd’hui reconnue et maîtrisée par les praticiens est rendue très accessible par son
+         caractère purement conventionnel et la souplesse qu’elle offre concernant la gestion
+         d’ensemble immobilier complexe.
+
+
+La pratique de la division en volumes est apparue en 1962 à l’initiative de Maitre Thi-
+bierge, notaire à Paris, et Monsieur Cumenge, directeur juridique de l’EPAD, Etablisse-
+ment Public d’Aménagement de La Défense 25.
+Cette technique permet de diviser en trois dimensions l’espace et de conférer une totale
+autonomie à chaque volume créé. Elle a été créée comme une dérogation au statut de la
+copropriété de la loi de 1965. Ainsi, elle est applicable à tout immeuble qui ne rentre pas
+dans les critères du 1er alinéa de l’article 1 de la loi de 1965 à certaines conditions que
+nous allons expliquer.
+
+Monsieur Sizaire, a donné une définition complète de la division en volumes « La division
+en volumes est une technique juridique consistant à diviser la propriété d'un immeuble en
+fractions distinctes, sur le plan horizontal comme sur le plan vertical, à des niveaux diffé-
+rents, qui peuvent se situer au-dessus comme un en dessous du sol naturel, chaque fraction
+s'inscrivant, respectivement, dans l'emprise d'un volume défini géométriquement, en trois
+dimensions, par référence à des plans, des coupes, et des côtes, sans qu'il existe de parties
+communes entre ces différentes fractions 26 ».
+
+Cette technique s’appuie sur les articles 552 et 553 du code civil qui disposent respective-
+ment :
+
+     •   « La propriété du sol emporte la propriété du dessus et du dessous.
+         Le propriétaire peut faire au-dessus toutes les plantations et constructions qu'il
+         juge à propos, sauf les exceptions établies au titre "Des servitudes ou services fon-
+
+
+
+
+25
+   Récemment devenu EPADESA, Établissement public d'aménagement de la Défense Seine Arche suite à la
+fusion de l'Établissement public pour l'aménagement de la région de la Défense et de l'Établissement public
+d'aménagement Seine-Arche.
+26
+   D. Sizaire, Fasc. 520 : Division en volume – nature et principes », Jurisclasseur Copropriété, 16 mars
+1999, spéc. § 1.
+
+
+                                                    11
+         ciers".
+         Il peut faire au-dessous toutes les constructions et fouilles qu'il jugera à propos, et
+         tirer de ces fouilles tous les produits qu'elles peuvent fournir, sauf les modifications
+         résultant des lois et règlements relatifs aux mines, et des lois et règlements de po-
+         lice. »
+     •   « Toutes constructions, plantations et ouvrages sur un terrain ou dans l'intérieur
+         sont présumés faits par le propriétaire à ses frais et lui appartenir, si le contraire
+         n'est prouvé ; sans préjudice de la propriété qu'un tiers pourrait avoir acquise ou
+         pourrait acquérir par prescription soit d'un souterrain sous le bâtiment d'autrui,
+         soit de toute autre partie du bâtiment. »
+
+
+La Commission Relative à la Copropriété 27, a énoncé des recommandations concernant la
+division en volumes (recommandation n°5 du 1er avril 2008) :
+
+             o « que la division volumétrique ne doit donner naissance à aucune partie
+               commune(…) »,
+             o « qu’avant de recourir à la division volumétrique, il convient d’établir et de
+               justifier très clairement dans le document constitutif de l’ensemble immobi-
+               lier complexe que la loi du 10 juillet 1965 ne s’applique pas (…) »,
+             o « que dans la division volumétrique, le droit de propriété s’exerce non sur
+               le sol, mais sur un volume défini selon des cotes planimétriques et altimé-
+               triques»,
+             o « que ce volume identifié par des coordonnées immuables est un immeuble
+               par nature (…) »,
+             o « que chaque volume constitue une propriété distincte (…)»,
+             o « que dans cette hypothèse, deux divisions soient réalisées :
+                    Une division primaire : la division en volumes de l’ensemble immo-
+                        bilier complexe, édifié ou à édifier sur une ou plusieurs parcelles
+                        cadastrales,
+                    Une division secondaire, assiette foncière de la copropriété, est
+                        remplacée par celle de volume immobilier (…)»
+
+Comme nous l’avons vu, la division en volumes est très libre puisqu’elle n’est pas encore
+encadrée. Elle est donc utilisée par de plus en plus de praticiens comme un outil alternatif à
+la copropriété. La Cour de cassation a admis cette option 28 mais à condition que les docu-
+ments 29 soient rédigés avec beaucoup de minutie et que les structures des bâtiments soient
+indépendantes les unes des autres afin de ne créer aucune partie commune 30.
+
+
+
+
+27
+   Cette commission a été supprimée par le décret n° 2014-132 du 17 février 2014
+28
+   Cass. 3e civ., 8 sept. 2010, n°09-15.554: JurisData n°2010-016052; Bull. Civ. 2010, III, n°152
+29
+   Les documents qui composent une division en volumes sont :
+     -    un état descriptif de division en volumes (soumis aux mêmes dispositions que l’état descriptif de
+          division de copropriété),
+     -    l’acte constitutif des servitudes (réseau de servitudes),
+     -     un cahier des charges de la construction, un cahier des règles d’usage et d’occupation,
+
+
+                                                      12
+Après avoir exposé législativement les contraintes de ces deux modes de gestion, l’analyse
+structurelle du bâtiment s’impose pour faire un choix.
+Dans l’exemple de l’ensemble immobilier d’Erdre Porterie, la dalle du bâtiment parking
+repose sur le toit du centre commercial. Or, comme en témoigne le plan joint en page 38 du
+mémoire, quelle que soit la nature des stationnements, qu’ils soient destinés au logement
+ou aux commerces, l’accès au parking est le même. Ainsi, il est impossible de réaliser une
+volumétrie car la dalle est une partie commune, cet ensemble immobilier complexe sera
+donc soumis au régime de copropriété. Mais quels sont les enjeux principaux quant au bon
+fonctionnement d’un ensemble immobilier complexe en copropriété ?
+
+Une mise en copropriété passe par la rédaction d’éléments fondamentaux :
+
+         •   Le Règlement de Copropriété (RCP)
+         •   L’Etat descriptif de Division (EDD)
+         •   Les éventuelles pièces annexes (plans,..)
+
+Le principal enjeu des ensembles immobiliers complexes est de regrouper une diversité
+d’activités avec des habitations sans que pour autant les copropriétaires soient gênés par les
+différentes destinations de l’immeuble. Le but du rédacteur de la copropriété est donc de la
+mettre en place de manière à ce que chaque copropriétaire puisse user de son lot sans être
+freiné par le gigantisme et la complexité de la copropriété. Pour cela, il est impératif que le
+règlement de copropriété soit rédigé de manière à satisfaire les désirs et besoins de tous les
+copropriétaires.
+
+Comme dispose l’article 8 31 de la loi de 1965, le règlement de copropriété présente un ca-
+ractère obligatoire. En application de l’alinéa 1 de l’article 1 de la loi de 1965, tout im-
+meuble répondant aux critères cités dans cet article est soumis au régime de la copropriété
+peu importe si le règlement existe ou non. En conséquence, si ce document n’a pas été
+dressé avant que le statut de la copropriété soit applicable (on parle alors de règlement pré-
+alable), l’établissement du règlement peut être fait par le syndicat ou résulter d’un acte
+judiciaire 32.
+
+Une fois mis en place, le règlement s’applique à tous les copropriétaires, qu’ils soient con-
+sentants ou opposants à celui-ci.
+
+Le règlement de copropriété a pour objet de fixer les droits et obligations des coproprié-
+taires de lots au sein de l’organisation collective. Il détermine la destination des parties
+communes et des parties privatives de l’immeuble ainsi que leur conditions de jouissance.
+
+
+
+
+    -      les statuts de l’organe de gestion, en général une association syndicale libre (ASL) de propriétaires,
+          qui reçoit mission de faire respecter les cahiers des charges.
+30
+   V. Cass. 3e civ., 19 sept. 2012, n°11-13.679 et 11.13-789 : JurisData n°2012-020889. – JC. Chaput et G.
+Durand Pasquier, Volumes ou copropriétés : quelle liberté de choix ?
+31
+   L’article 8 est d’ordre public d’après l’article 43
+32
+   Cass. 3e civ., 15 novembre 1989, n° 87-15.213
+
+
+                                                       13
+Il fixe les règles d’administration des parties communes et enfin, il fait état de la répartition
+des charges 33.
+
+Le rédacteur de la copropriété a la possibilité d’adapter le statut de la loi de 1965 aux
+grandes copropriétés. Nous allons rappeler quelles sont les possibilités offertes par cette loi
+pour simplifier la gestion de l’ensemble et leur modalités de mise en place et d’utilisation.
+
+Dans une grande copropriété, le rédacteur peut choisir de créer par exemple un syndicat
+secondaire. Cette possibilité est donnée par le législateur à l’article 27 34 de la loi de 1965.
+Le second alinéa de ce même article définit le rôle de ce syndicat. Il dispose que « Ce syn-
+dicat a pour objet d'assurer la gestion, l'entretien et l'amélioration interne de ce ou ces
+bâtiments, sous réserve des droits résultant pour les autres copropriétaires des disposi-
+tions du règlement de copropriété ».
+
+Ainsi, la création d’un syndicat secondaire permet de décentraliser la gestion des grandes
+copropriétés. Le but est de créer un organe de gestion de taille inférieure au syndicat prin-
+cipal, permettant aux copropriétaires de gérer les propres intérêts du ou des bâtiments qui
+les concernent et cela permet par exemple de lutter contre la stagnation. En effet, à cause
+de leur gigantisme, les décisions sont difficilement votées en raison des règles de majorité
+et la copropriété est alors bloquée.
+
+Toutefois, il faut que l’immeuble remplisse deux conditions pour que cette possibilité soit
+envisagée :
+
+                          L’immeuble doit comporter plusieurs bâtiments.
+                          Le syndicat doit se réunir en assemblée spéciale.
+
+Concernant la pluralité de bâtiments, une réponse ministérielle, a précisé ce dont il
+s’agissait : « des constructions indépendantes les unes des autres, même si ces construc-
+tions sont desservies par des équipements communs ».
+
+La mise en place d’un tel organe peut se faire :
+
+     •   Dès l’origine de la copropriété, dans le règlement de copropriété.
+     •   Par décision de l’assemblée spéciale des copropriétaires dont les lots composent les
+         bâtiments concernés et selon les dispositions de l’article 25 35 de la loi de 1965.
+         Comme il l’est précisé à l’article 25-1 36 de la loi de 1965, si une décision n’a pas pu
+         être prise selon les dispositions de l’article 25, mais qu’un tiers des voix ont tout de
+
+
+
+
+33
+   Article 10 de la loi de 1965 : Voir annexe 1
+34
+   Article 27 : voir annexe 1
+35
+   Article 25 : « Ne sont adoptées qu'à la majorité des voix de tous les copropriétaires (…) » (voir annexe 1)
+36
+   Article 25 -1 : « Lorsque l'assemblée générale des copropriétaires n'a pas décidé à la majorité prévue à
+l'article précédent mais que le projet a recueilli au moins le tiers des voix de tous les copropriétaires compo-
+sant le syndicat, la même assemblée peut décider à la majorité prévue à l'article 24 en procédant immédia-
+tement à un second vote. » (Voir annexe 1)
+
+
+                                                      14
+        même étés recueillies, la même assemblée peut revoter la décision selon les dispo-
+        sitions de l’article 24 37.
+
+La constitution d’un syndicat secondaire doit être constatée par la rédaction d’un procès-
+verbal d’assemblée spéciale et notifiée à tous les copropriétaires concernés. Comme pour
+ce qui est des décisions prises lors des assemblées et conformément à l’article 42 de la loi
+de 1965, les copropriétaires concernés ont un délai de deux mois pour contester une déci-
+sion prise en assemblée spéciale et dans notre cas la création d’un syndicat secondaire.
+Passé ce délai de deux mois, le syndicat secondaire peut agir. Ce syndicat a la personnalité
+civile 38 et peut donc, au même titre que le syndicat principal, acquérir au sein des bâti-
+ments qui le concernent, des lots ou encore des parties communes spéciales.
+
+Un des conséquences de la création d’un syndicat secondaire est la spécialisation des par-
+ties communes.
+En effet, l’article 4 dispose que « Les parties communes sont l'objet d'une propriété indi-
+vise entre l'ensemble des copropriétaires ou certains d'entre eux seulement; leur adminis-
+tration et leur jouissance sont organisées conformément aux dispositions de la présente
+loi. » et nous laissent donc comprendre que l’on peut spécialiser des parties communes.
+De même, l’article 27 dispose que « Lorsque l'immeuble comporte plusieurs bâtiments, les
+copropriétaires dont les lots composent l'un ou plusieurs de ces bâtiments peuvent, réunis
+en assemblée spéciale, décider, aux conditions de majorité prévues à l'article 25, la consti-
+tution entre eux d'un syndicat, dit secondaire». Ainsi, la loi offre la possibilité de rendre
+autonome chaque bâtiment de la copropriété pour en décentraliser la gestion dans une
+grande copropriété.
+
+Il découle de l’article 4 de la loi de 1965 que deux catégories de parties communes peuvent
+être créées :
+
+                         Les parties communes générales
+                         Les parties communes spéciales
+
+NB : La possibilité de créer ces deux catégories de parties communes n’est plus discutée 39.
+
+Les parties communes spéciales sont nécessaires à la bonne évolution et à l’entretien de
+l’immeuble. En effet, si des copropriétaires possédaient des tantièmes de charges générales
+sur des parties communes dont ils n’ont pas l’usage, ils pourraient refuser de payer les
+charges d’entretien afférentes à ces services.
+
+Pour éviter ça, les parties communes spéciales peuvent être créées soit dès l’origine de la
+copropriété soit dans une copropriété existante.
+
+
+
+
+37
+   Article 24 : « I.- Les décisions de l'assemblée générale sont prises à la majorité des voix exprimées des
+copropriétaires présents ou représentés, s'il n'en est autrement ordonné par la loi. » (Voir annexe 1)
+38
+   Alinéa 3 de l’article 27 de la loi de 1965 (Voir annexe 1)
+39
+   Cass. 3e civ., 21 févr. 1978, n° 76-14.288 : Bull. civ. III, n° 89 ; JCP N 1978, II, p. 267, note Atias
+
+
+                                                     15
+Dans le premier cas, c’est l’initiateur de la copropriété qui décide de spécialiser ou non les
+parties communes. La création des parties communes spéciales, comme le fait remarquer
+Monsieur Bouyeure, « est le plus souvent mises en œuvre lorsque l’immeuble est compo-
+site et notamment, comporte des bâtiments distincts ». 40
+L’initiateur de la copropriété, peut rédiger le règlement de copropriété de manière à ce que
+chacun des bâtiments constitue des parties communes spéciales 41. Dans ce cas, le sol, les
+clôtures et locaux réservés à l'usage des services généraux seront les seules parties com-
+munes générales de la copropriété.
+Toutefois, la possibilité de créer des parties communes spéciales ne nécessite pas force-
+ment la condition de pluralité de bâtiment. En effet, l’article 3 de la loi de 1965 dispose
+que « Sont communes les parties des bâtiments et des terrains affectées à l'usage ou à l'uti-
+lité de tous les copropriétaires ou de plusieurs d'entre eux ».
+
+L’autre possibilité est de créer les parties communes alors que la copropriété existe déjà et
+ce à la demande du syndicat des copropriétaires. Cette création de parties communes spé-
+ciales va entrainer une nouvelle répartition des charges et la modification du règlement de
+copropriété. Rappelons qu’un tel changement, bien qu’il soit à l’initiative des coproprié-
+taires, ne peut s’opérer que s’il est voté à l’unanimité des copropriétaires 42 lors de
+l’assemblée générale.
+
+La mise en place de parties communes spéciales a plusieurs conséquences :
+
+     •   Les décisions portant sur les parties communes de la copropriété (mais pas seule-
+         ment), sont votées en assemblées générales d’après l’article 17 de la loi de 1965 :
+         « Les décisions du syndicat sont prises en assemblée générale des coproprié-
+         taires »
+         Les parties communes spéciales créent entre les copropriétaires concernés un droit
+         de propriété indivis. Les autres copropriétaires, qui ne sont pas concernés par ces
+         parties communes particulières, n’ont aucun droit de propriété indivis sur ces par-
+         ties. 43
+         L’article 22, I, dispose que « Chaque copropriétaire dispose d'un nombre de voix
+         correspondant à sa quote-part dans les parties communes. ».
+         Ainsi, ces dispositions laissent entendre que certaines décisions ne seront prises
+         qu’entre les copropriétaires possédant des quotes-parts de parties communes sur ces
+         dites parties puisque les autres membres du syndicat ne possèdent aucun droit réel
+         sur ces parties communes spéciales 44.
+         Les décisions peuvent être votées soit en assemblée générale soit en assemblée spé-
+         ciale.
+
+
+
+
+40
+   J.R Bouyeure – « La Spécialisation des charges de l’article 10 alinéa 2 de la loi du 10 juillet 1965 » - Ad-
+ministrer n°433, juin 2010
+41
+   Cass. 3e civ. 3 juin 2009, n° 08-16.379
+42
+   Article 26 –dernier alinéa - de la loi de 1965 : « Elle ne peut, sauf à l'unanimité des voix de tous les copro-
+priétaires, décider l'aliénation des parties communes dont la conservation est nécessaire au respect de la
+destination de l'immeuble. »
+43
+   Cl. Giverdon, obs. sous TGI Paris, 12 mars 1984, D. 1984, IR, p.381.
+44
+   CA Paris, 6 septembre 1996, RDI 1996, p.609, obs. Cl. Giverdon
+
+
+                                                       16
+         La création d’un syndicat secondaire et de parties communes spéciales ont pour
+         conséquence commune la spécialisation des charges.
+
+Définies à l’article 10 45 de la loi 1965, il existe deux types de charges en copropriété, dé-
+finies respectivement aux alinéas 1 et 2 de l’article 10 :
+
+     •   Les charges entraînées par les services collectifs et les éléments d’équipement
+         commun
+     •   Les charges relatives à la conservation, à l’entretien et à l’administration des parties
+         communes.
+
+La spécialisation des charges est possible 46 dans certains cas :
+
+     •   « Création d’un syndicat secondaire
+     •   Existence de parties communes spéciales
+     •   Spécialisation contractuelle
+     •   Spécialisation judiciaire »
+
+
+Ainsi, à la lecture de cet article on comprend que certaines charges ne peuvent être suppor-
+tées que par certains copropriétaires.
+
+Les membres du syndicat ne possédant aucune quote-part de partie commune sur certaines
+d’entre elles, les parties communes dites spéciales, ne sont pas tenus de participer aux
+charges afférentes à ces équipements communs 47.
+
+Les adaptations de la loi de 1965 que nous avons brièvement explicitées ne sont pas les
+seules opportunités offertes par le législateur au rédacteur de la copropriété.
+
+En effet, le règlement de copropriété peut contenir, en plus des dispositions obligatoires,
+des clauses facultatives justifiées par la destination de l’immeuble. Celles-ci seront particu-
+lièrement adaptées dans les ensembles immobiliers complexes où diverses destinations
+cohabitent.
+
+Le bon fonctionnement d’une telle copropriété passe donc par la rédaction exemplaire du
+règlement de copropriété.
+
+Ce mémoire n’a pas pour objet de voir les adaptations possibles de la loi de 1965 que nous
+avons rappelés précédemment. Nous cherchons à voir jusqu’où le règlement de copropriété
+peut aller pour fixer les règles de vie de la copropriété à travers des clauses. Dans un en-
+semble immobilier complexe en copropriété deux éléments semblent potentiellement con-
+flictuels et méritent une attention particulière dans le règlement de copropriété.
+
+
+
+
+45
+   L’article 10 est d’ordre public d’après l’article 43
+46
+   J.R Bouyeure – « La Spécialisation des charges de l’article 10 alinéa 2 de la loi du 10 juillet 1965 » - Ad-
+ministrer n°433, juin 2010
+47
+   CA Paris, 23e ch. B., 25 septembre 1986, JurisData n° 1986-025246
+
+
+                                                      17
+ Il s’agit notamment des lots à usages commerciaux ou professionnels, qui peuvent avoir
+des conséquences directes sur la copropriété : harmonie générale de l’immeuble, troubles
+anormaux du voisinage,… De même, les usagers n’ayant pas tous les mêmes intérêts au
+sein de la copropriété, la gestion des stationnements sera fondamentale.
+
+Pour répondre à la problématique nous dresserons une liste des clauses que l’on peut rédi-
+ger dans un règlement de copropriété pour répondre aux intérêts divergents des coproprié-
+taires au sein d’un ensemble immobilier mixte. Ne pouvant pas être exhaustif, nous nous
+limiterons aux possibilités offertes au rédacteur de la copropriété en matière de destination
+de l’immeuble, plus spécialement sur les lots à usages commerciaux, et notamment con-
+cernant la pose d’enseignes commerciales ainsi que sur la gestion des stationnements entre
+propriétaire privé dans la copropriété et utilisateurs occasionnels des stationnements en tant
+que visiteurs des commerces.
+
+Ainsi, dans un premier temps nous nous intéresserons aux règles d’urbanisme qui régissent
+la copropriété en matière de destination de l’immeuble et de stationnements puis nous
+montrerons comment les adapter à un ensemble immobilier complexe au travers du règle-
+ment de copropriété. Pour cela, nous verrons que le rédacteur a la possibilité d’inclure des
+clauses précises et restrictives concernant les lots à usage commerciaux ou professionnels.
+Enfin, nous verrons les différentes possibilités qui lui sont offertes en matière de répartition
+des stationnements.
+
+
+
+
+                                               18
+I. Les règles d’urbanisme applicables en copropriété en matière de des-
+   tination de l’immeuble et de stationnement
+Le droit de l’urbanisme ignore la copropriété et réciproquement. Toutefois, la loi du 10
+juillet 1969, n’est pas un cadre juridique de construction 48 alors que le code de l’urbanisme
+a pour objet de déterminer les règles de construction.
+
+Ainsi, malgré ce paradoxe, avant d’être soumis au régime de la loi du 10 juillet 1965,
+l’immeuble doit être conforme aux règles et lois se rapportant à l’urbanisme. Cette partie
+sera consacrée l’application des règles d’urbanisme avant la mise en œuvre de la copro-
+priété.
+
+Tout immeuble bâti a une destination, un usage et une affectation. Ces trois notions, bien
+qu’elles paraissent similaires, ne le sont pas car elles ne tiennent pas leur source du même
+corps de texte : la destination de l’immeuble vient du Code de l’urbanisme, l’usage découle
+du Code de la Construction et de l’Habitation et enfin, l’affectation est déterminée par les
+contrats.
+On peut donner une définition différente pour chacun de ces termes :
+
+     •   La destination d’une construction vise « ce pour quoi elle avait été conçue, réalisée
+         ou transformée 49».
+     •   L’usage vise l’utilisation effective de bien
+     •   Et l’affectation vise l’utilisation réelle du bien.
+
+Nous nous intéressons dans cette partie à la destination de l’immeuble.
+
+         I.1. La destination d’un ensemble immobilier complexe
+
+                  I.1.1.         Les articles R151-27 et R151-28 du code de l’urbanisme
+
+Selon le code de l’urbanisme, la destination de l’immeuble doit apparaître sur la demande
+de permis de construire. Elle est donc définie avant même la construction de l’immeuble.
+Cela permet de limiter l’étalement urbain en s’assurant de la nécessité d’installation d’une
+telle activité à un tel endroit.
+
+Les différentes destinations possible en urbanisme sont définies à l’article R151-27 et
+R151-28 du code de l’urbanisme et sont au nombre de cinq 50 :
+
+
+
+
+48
+   Rappel de l’article 1er alinéa 1 : « La présente loi régit tout immeuble bâti ou groupe d'immeubles bâ-
+tis(…) »
+49
+   Ecriture du PLU - Jean-François Inserguet, Maître de conférences à l’Université Rennes 2
+50
+   N.B. : Il y en avait neuf avant le décret n°2015-1783 du 28 décembre 2015 : l’habitation, la résidence hôte-
+lière, le bureau, le commerce, l’artisanat, l’industrie, la fonction d’entrepôt, l’exploitation agricole ou fores-
+tière, les constructions et installations nécessaires aux services publics ou d’intérêt collectif.
+
+
+
+                                                       19
+               o Exploitation agricole et forestière :
+
+Concernant cette destination, des définitions des exploitations agricoles et forestières sont
+respectivement données par le Code Rural (article L311-1) et de la Pêche Maritime et le
+Code Forestier (article L332-6).
+
+
+               o Habitation :
+
+Le code de la Construction et de l’Habitation et plus précisément son article R.111-1-
+1 donne une définition précise de ce qu’est une habitation : « Un logement ou habitation
+comprend, d'une part, des pièces principales destinées au séjour ou au sommeil, éventuel-
+lement des chambres isolées et, d'autre part, des pièces de service, telles que cuisines,
+salles d'eau, cabinets d'aisance, buanderies, débarras, séchoirs, ainsi que, le cas échéant,
+des dégagements et des dépendances. »
+
+               o Commerce et activités de service :
+
+Cette destination regroupe un certain nombre d’activités : artisanat et commerce de détail,
+restauration, commerce de gros, activités de services où s'effectue l'accueil d'une clientèle,
+hébergement hôtelier et touristique, cinéma.
+On comprend bien que toutes les activités répondant à cette destination sont des activités
+pour lesquels on a donc une clientèle.
+
+               o Equipement d'intérêt collectif et services publics :
+
+La difficulté de cette destination est de définir exactement ce que la jurisprudence entend
+par « une installation assurant un service d’intérêt général destiné à répondre à un besoin
+collectif » 51.
+Il va s’agir de locaux et bureaux accueillant du public et des administrations publiques, des
+établissements d’enseignement, de santé et d’action sociale, des salles d’art et de spec-
+tacles, des équipements sportifs, ou d’autres équipements recevant du public.
+
+
+               o Autres activités des secteurs secondaire ou tertiaire :
+
+Cette destination comprend des bâtiments industriels, des entrepôts, des bureaux, …
+Chacune de ces activités est définie précisément et peut avoir des conséquences directes
+sur le voisinage immédiat : nuisances sonores, passages de véhicules …
+
+L’activité industrielle vise l’ensemble des activités de production à partir de matières
+brutes.
+
+
+
+
+51
+     Ccl Y.AGUILA sur CE. 23 novembre 2005, req. n°262.105, in BJDU, n°1/2006, p.20
+
+
+                                                   20
+L’entrepôt est bien évidement un local de stockage mais il est définit comme tel à partir
+d’une certaines surface de stockage. Avant ce seuil on parlera plutôt de local accessoire 52.
+
+Concernant les locaux à usage de bureau ils sont définis à l’article R521-1-1 du code de
+l’urbanisme : « Sont considérés comme locaux à usage de bureaux en vue de l'application
+de l'article L. 520-1 et sous réserve de la franchise de 1 000 mètres carrés par établisse-
+ment mentionnée à l'article L. 520-7 :
+1. Tous les locaux et leurs annexes tels que couloirs, dégagements salles de réunion, d'ex-
+position, d'archives, salles d'attente et de réception, où sont exercées des activités de direc-
+tion, de services, de conseil, d'étude, d'ingénierie, de traitement mécanographique ou
+d'informatique de gestion ;²
+2. Quelle que soit leur implantation les bureaux de la direction générale d'une entreprise
+industrielle, de ses services généraux, financiers, juridiques et commerciaux.
+Au sens de la présente réglementation est réputé établissement industriel un ensemble de
+locaux et installations utilisés pour des activités concourant directement à la fabrication
+de produits commercialisables. »
+
+                 I.1.2.        La destination de l’immeuble en copropriété
+
+                              I.1.2.a. Les éléments qui interviennent dans le choix de la des-
+                                      tination de l’immeuble
+
+Dans un immeuble placé sous le régime de la loi de 1965, la destination de l’immeuble est
+instaurée par le règlement de copropriété.
+
+L’article 8 qui dispose qu’« Un règlement conventionnel de copropriété, incluant ou non
+l'état descriptif de division, détermine la destination des parties tant privatives que com-
+munes, ainsi que les conditions de leur jouissance ; il fixe également, sous réserve des dis-
+positions de la présente loi, les règles relatives à l'administration des parties communes.
+Le règlement de copropriété ne peut imposer aucune restriction aux droits des coproprié-
+taires en dehors de celles qui seraient justifiées par la destination de l'immeuble, telle
+qu'elle est définie aux actes, par ses caractères ou sa situation ».
+
+L’article 9 quant à lui dispose : « Chaque copropriétaire dispose des parties privatives
+comprises dans son lot ; il use et jouit librement des parties privatives et des parties com-
+munes sous la condition de ne porter atteinte ni aux droits des autres copropriétaires ni à
+la destination de l'immeuble. »
+
+A la lecture de ces textes, on comprend que seule la destination de l’immeuble peut impo-
+ser des restrictions aux droits des copropriétaires et que le règlement de copropriété doit
+préciser quels sont les droits et les obligations de chacun, aussi bien en ce qui concerne
+
+
+
+
+52
+   Art. R.421.17b du code de l’urbanisme : « b) Les changements de destination d'un bâtiment existant entre
+les différentes destinations définies à l'article R. 151-27 ; pour l'application du présent alinéa, les locaux
+accessoires d'un bâtiment sont réputés avoir la même destination que le local principal et le contrôle des
+changements de destination ne porte pas sur les changements entre sous-destinations d'une même destination
+prévues à l'article R. 151-28 »
+
+
+                                                     21
+leurs parties privatives que les parties communes. Ces droits et ces obligations sont iden-
+tiques pour chaque occupant, peu importe sa situation, qu’il soit propriétaire ou locataire.
+
+La destination de l’immeuble est définie par les actes : règlement de copropriété et état
+descriptif de division (que celui-ci soit inclus ou non dans le règlement).
+
+Plusieurs critères sont à prendre en compte lors de la détermination de la destination de
+l’immeuble :
+
+     •   Il y a d’une part un élément subjectif : la destination est définie dans les actes par le
+         rédacteur du règlement de copropriété. Pour cela, il est nécessaire de rédiger une
+         clause dans laquelle l’usage que les copropriétaires feront des parties privatives se-
+         ra stipulé. En cas d’absence d’une telle clause, il sera possible de déduire la destina-
+         tion de l’immeuble par la destination des parties privatives. Par exemple, si un im-
+         meuble ne comprend que des lots à usage d’habitation (il est possible qu’il y ait
+         aussi des caves ou greniers), alors la destination de l’immeuble sera réservé à cet
+         usage exclusif : l’habitation.
+     •   D’autre part, il y a des éléments objectifs à prendre en considérant. Il s’agit des ca-
+         ractères et de la situation de l’immeuble.
+         Les caractéristiques techniques, la qualité des constructions, les conditions sociales
+         des occupants, la qualité de vie dans l’immeuble (présence ou non d’espace verts,
+         caractère sonore de l’environnement) forment les caractères d’un immeuble. Dans
+         un ensemble immobilier, l’harmonie architecturale rentre en compte aussi comme
+         critère 53.
+         La situation de l’immeuble concerne le quartier, voir la rue, où se situe l’immeuble.
+
+         La conséquence de la prise en compte du critère de situation est que l’on va pouvoir
+         accorder une activité dans un quartier où cette activité est courante bien que toutes
+         les parties privatives soient à usage d’habitation 54.
+
+Ainsi, trois éléments sont à prendre en compte : les actes, les caractères et la situation de
+l’immeuble. L’alinéa 2 de l’article 8 nous laisse supposer que chacun de ces éléments peut
+être pris individuellement. En effet, l’article est ainsi rédigé « (...) la destination de l'im-
+meuble, telle qu'elle est définie aux actes, par ses caractères ou sa situation ». La cour de
+cassation a cassé un arrêt d’appel 55 pour manque de critères légaux car les juges du fond
+s’étaient simplement intéressés aux actes sans prendre en compte les caractères et la situa-
+tion de l’immeuble. Ces trois éléments doivent bien être pris conjointement en compte par
+le rédacteur de la copropriété pour définir la destination de l’immeuble.
+
+La question qui se pose est de savoir s’il existe une hiérarchie dans la prise en compte de
+ces éléments, ou s’il faut tous les considérer de façon égale. Des arrêts 56 rendus par la Cour
+de cassation considèrent que c’est seulement si le règlement de copropriété ne mentionne
+
+
+
+
+53
+   Administrer nov. 2012, p.81, CA Paris, 19e ch. A, 15 avril 1992.
+54
+   TGI Paris, 17 juin 1987 : Loyers et copro. 1987, comm. N°418
+55
+   Cass. 3e civ. 9 juin 2010, n°09-14.206
+56
+   Cass. 3e civ. 17 avril 1991, n°89-19.257 ou Cass. 3e civ. 4 octobre 1995, n°93-14.134
+
+
+                                                      22
+pas, ou pas assez clairement, la destination de l’immeuble qu’il faut prendre en compte la
+situation et les caractères de l’immeuble.
+Plus récemment, la Cour de cassation 57 a rendu arrêt dans lequel il est affirmé que peu
+importe les fondements d’une plainte concernant l’usage d’un local, si cet usage est con-
+forme à la destination inscrite dans les actes et ne porte pas atteinte aux droits des copro-
+priétaires, l’usage peut être maintenu.
+Ainsi, les actes, et le règlement de copropriété notamment, est la preuve la plus parfaite en
+matière de destination de l’immeuble.
+
+Dans le cas d’un ensemble immobilier complexe plusieurs activités cohabitent. Ainsi, la
+destination de l’immeuble permet de définir les différentes activités envisageables au sein
+de la copropriété.
+
+Si l’on reprend l’exemple de l’ensemble immobilier d’Erdre Porterie, le choix de la desti-
+nation de l’immeuble parait évident. Au vue des activités, les destinations d’urbanisme
+« Habitation » et « Commerce et activités de service » sont les plus appropriées.
+
+Le règlement de copropriété peut être encore plus précis dans la définition de cette destina-
+tion en insérant une clause portant sur les conditions de jouissances des parties privatives.
+L’intérêt est d’ajouter des restrictions à la liberté d’usage et de jouissances des lots par les
+copropriétaires. Bien évidemment, pour être licite ces clauses doivent être justifiées par la
+destination de l’immeuble. En effet, l’article 8 de la loi de 1965 dispose que « Le règlement
+de copropriété ne peut imposer aucune restriction aux droits des copropriétaires en dehors
+de celles qui seraient justifiées par la destination de l'immeuble, telle qu'elle est définie
+aux actes, par ses caractères ou sa situation. »
+
+Pour cela, il importe que le règlement de copropriété précise le genre ou le type de
+l’immeuble :
+
+                •   L’immeuble d’habitation exclusivement bourgeoise : uniquement
+                    l’habitation;
+                •   L’immeuble d’habitation bourgeoise simple : autorise l’exercice d’activité
+                    compatible avec la tranquillité des habitants (professions libérales) ;
+                •   L’immeuble mixte : habitation bourgeoise, professionnelle et commerciale ;
+                •   L’immeuble de bureaux : exclut l’habitation ;
+                •   Les centres commerciaux ;
+                •   Les résidences services ;
+                •   (…)
+
+
+
+
+57
+     Cass. 3e civ. 4 juillet 2012 n°11-16.051
+
+
+                                                23
+                            I.1.2.b.   Evolution de la destination de l’immeuble
+
+La destination de l’immeuble, comme nous l’avons vu découle des actes mais aussi de
+l’analyse de la situation et des caractères de l’immeuble. Or ces deux derniers critères, et
+particulièrement la situation de l’immeuble peuvent évoluer avec le temps.
+Plusieurs décisions de justice ont affirmé que l’évolution d’un quartier devait être prise en
+compte pour la détermination de la destination de l’immeuble.
+Dans une de ces décisions 58, il s’agit d’un règlement de copropriété dans lequel une clause
+stipulait que le local commercial situé au rez-de-chaussée de l’immeuble ne pouvait ac-
+cueillir qu’un commerçant d’art. Or, depuis la rédaction de ce règlement, de nombreux
+commerces d’antiquité avaient fermé et des boutiques de luxe les avaient remplacés. Ainsi,
+pour suivre la dynamique du quartier, la clause a été supprimée.
+
+Elle ne peut, en aucun cas, être modifiée par l’absence d’exercice d’une activité autorisée
+par la destination de l’immeuble. L’article 26-b énonce « Sont prises à la majorité des
+membres du syndicat représentant au moins les deux tiers des voix les décisions concer-
+nant : (…)
+b) La modification, ou éventuellement l'établissement, du règlement de copropriété dans la
+mesure où il concerne la jouissance, l'usage et l'administration des parties communes ; »
+
+Toutefois, l’article 26 de la loi de 1965 dispose que « L'assemblée générale ne peut, à
+quelque majorité que ce soit, imposer à un copropriétaire une modification à la destination
+de ses parties privatives ou aux modalités de leur jouissance, telles qu'elles résultent du
+règlement de copropriété ».
+
+Les juges ont retenu que la destination de l’immeuble peut tout de même être adaptée à
+l’évolution des activités au sein de l’immeuble et donc à la situation de fait par le biais
+d’un vote à l’unanimité lors de l’assemblée générale 59. Mais ces dispositions posent pro-
+blème.
+En effet, alors que toutes les modifications du règlement de copropriété doivent être prises
+en assemblée générale, il n’est pas obligatoire pour les copropriétaires d’être présents lors
+de celles-ci.
+
+La loi ALUR a abaissé les règles de majorité afin de faciliter la prise de décision en as-
+semblées générales. Malgré tout, les règles de majorité posent encore problème,
+l’absentéisme est un frein au bon fonctionnement de la copropriété. C’est le cas notamment
+pour les décisions nécessitant de réunir l’unanimité, comme un changement de la destina-
+tion de l’immeuble par exemple.
+
+Ainsi, pour pallier à cet absentéisme, Monsieur Nicolin 60 a proposé à l’Assemblée Natio-
+nale le 7 décembre 2011, une loi visant à rendre obligatoire la représentation de tous les
+copropriétaires lors des assemblées générales.
+
+
+
+
+58
+   Par exemple : CA Paris, 19e ch. B, 27 mai 1992 - RG : n° 91/1544
+59
+   Article de l’ANCC, 23/02/2012 - Modification du règlement de copropriété consécutive à un changement
+de destination de l'immeuble - Majorité
+60
+   Actuel Maire de Roanne, et député de la 5e circonscription de la Loire depuis 1993.
+
+
+                                                  24
+La proposition de loi de Monsieur Nicolin est libellée comme suit 61 :
+
+                                         PROPOSITION DE LOI
+
+                                              Article unique
+
+La première phrase du troisième alinéa de l’article 22 de la loi n° 65-557 du 10 juillet 1965
+fixant le statut de la copropriété des immeubles bâtis est ainsi rédigée :
+
+« Tout copropriétaire ne pouvant participer aux assemblées générales doit déléguer son
+droit de vote à un mandataire, que ce dernier soit ou non membre du syndicat. »
+
+Jusqu’à maintenant, l’article 22 62 de la loi de 1965 offrait aux copropriétaires la possibilité
+de se faire représenter lors des assemblées générales. Toutefois, cet article n’impose pas la
+représentation des copropriétaires, elle l’autorise seulement. La seule conséquence actuelle
+à l’absentéisme est l’acception d’office des décisions prises en assemblée générale. En cas
+de désaccord, les copropriétaires défaillants ou absents ont un délai de deux mois pour
+faire un recours contre la décision 63. Pour responsabiliser les copropriétaires, la jurispru-
+dence a rendu un arrêt 64 en cour de cassation, le 23 mai 2012, rejetant le pourvoi pour faute
+de contestation de la décision dans le délai de deux mois prévu par la loi. Ainsi, la nouvelle
+répartition des charges, évolution qui requiert l’unanimité des voix des copropriétaires a pu
+être votée selon la majorité de l’article 24 (majorité simple).
+
+
+
+         I.2. Les dispositions en matière de stationnement : de l’urbanisme à la
+              copropriété
+
+                 I.2.1.     Les dispositions du code de l’urbanisme en matière de sta-
+                      tionnements
+
+                              I.2.1.a.     Généralités
+
+
+
+
+61
+   Proposition de loi : http://www.assemblee-nationale.fr/13/propositions/pion4049.asp
+62
+   Article 2 alinéa 3 de la loi de 1965: « Tout copropriétaire peut déléguer son droit de vote à un mandataire,
+que ce dernier soit ou non membre du syndicat. »
+63
+   Article 42 alinéa 2 de la loi de 1965 : « Les actions qui ont pour objet de contester les décisions des as-
+semblées générales doivent, à peine de déchéance, être introduites par les copropriétaires opposants ou
+défaillants, dans un délai de deux mois à compter de la notification desdites décisions qui leur est faite à la
+diligence du syndic, dans un délai de deux mois à compter de la tenue de l'assemblée générale. Sauf en cas
+d'urgence, l'exécution par le syndic des travaux décidés par l'assemblée générale en application des articles
+25 et 26 est suspendue jusqu'à l'expiration du délai mentionné à la première phrase du présent alinéa. »
+64
+   Cour de cassation – 3ème chambre civile – 23 mai 2012 – n° 10-28.619
+
+
+                                                      25
+Le premier livre du code de l’urbanisme a été réformé par l’ordonnance du 23 septembre
+2015. Les articles L151-30 à L151-37 et l’article L151-47 65 de l’actuel code de
+l’urbanisme fixent les obligations minimales en matière de stationnement.
+
+Cette ordonnance fait suite à de récentes lois portant sur les performances énergétiques et
+le développement durable. De nombreuses dispositions concernant la directive territoriale
+d’aménagement et de développement durable ont été créés. Par exemple, la loi GRE-
+NELLE 2 avait pour ambition de modifier la consommation énergétique en matière de
+transports.
+
+L’article 102-4 du code de l’urbanisme dispose ainsi « Des directives territoriales d'amé-
+nagement et de développement durables peuvent déterminer les objectifs et orientations de
+l'Etat en matière d'urbanisme, de logement, de transports et de déplacements, de dévelop-
+pement des communications électroniques, de développement économique et culturel, d'es-
+paces publics, de commerce, de préservation des espaces naturels, agricoles et forestiers,
+des sites et des paysages, de cohérence des continuités écologiques, d'amélioration des
+performances énergétiques et de réduction des émissions de gaz à effet de serre dans des
+territoires présentant des enjeux nationaux dans un ou plusieurs de ces domaines. »
+
+L’article L151-47 du code de l’urbanisme énonce que le PLU, au travers de l’article 12 du
+règlement de zone, permet de fixer les obligations minimales en matière de places de sta-
+tionnement.
+N.B : Le règlement de zone du PLU fait parfois référence à la surface totale affectée aux
+stationnements et non à un nombre de place de stationnement. Un arrêt du Conseil d’Etat66
+a précisé que cette surface comprenait à la fois les places de stationnement mais aussi les
+aires de chargement et déchargement.
+
+La loi ALUR a durci les règles concernant les stationnements puisque désormais, dès le
+rapport de présentation il faut dresser « l’inventaire des capacités de stationnement de vé-
+hicules motorisés, de véhicules hybrides et électriques et de vélos des parcs ouverts au pu-
+blic et des possibilités de mutualisation des capacités »67
+
+Avant la loi ALUR, les constructeurs d’immeubles destinés à autre chose que l’habitation
+étaient contraints de fixer les seuils de stationnements, aujourd’hui, ils doivent fixer un
+nombre maximal d’aires de stationnement pour les véhicules motorisés.
+
+Si une commune est munie d’un SCOT, celui-ci peut définir les obligations en matière
+d’aires de stationnement. Il impose donc ces contraintes au PLU dans lequel elles devront
+figurer.
+Elles concernent les contraintes minimales ou maximales de réalisation d’aires de station-
+nement pour les véhicules motorisés et non motorisés.
+
+
+
+
+65
+   Créés par l’ordonnance du 23 septembre 2015, ils remplacent l’ancien article L123-1-12 du code de
+l’urbanisme
+66
+   CE, 6 déc. 1993, n°110992
+67
+   V.C. urb. art. 151-4, dernier al. Issu de l’Ord. n°2015-1174, 23 septembre 2015 relative à la partie législa-
+tive du livre Ier du Code de l’urbanisme
+
+
+                                                      26
+Ces dispositions concernant le SCOT ne sont applicables que si la commune n’est pas do-
+tée d’un PDU 68.
+Dans les communes dotées d’un PDU, ceux-ci délimitent les secteurs où les PLU doivent
+prévoir ou non des places de stationnement.
+
+                              I.2.1.b.     Dérogations
+
+En matière de développement durable, une des solutions envisagées est la rationalisation
+des aires de stationnement. Cela permettrait de diminuer les déplacements polluants en
+incitant les utilisateurs à emprunter des transports en commun et ainsi diminuer les gaz à
+effet de serre.
+
+L’article L151-32 dispose notamment « Lorsque les conditions de desserte par les trans-
+ports publics réguliers le permettent, le règlement peut fixer un nombre maximal d'aires de
+stationnement pour les véhicules motorisés à réaliser lors de la construction de bâtiments
+destinés à un usage autre que d'habitation ».
+
+Ces dispositions sont intégrées dans les documents d’urbanisme tels que les PLU et les
+SCOT.
+
+Le premier alinéa de l’article L151-33 stipule que les places de stationnements imposées
+par le règlement du PLU peuvent être réalisées soit sur le terrain d’assiette soit dans son
+environnement immédiat. Cet environnement correspond à une zone de 300 mètres 69 au-
+tour du terrain.
+
+Le deuxième alinéa de ce même article dispose que si les dispositions du précédent alinéa
+ne sont pas envisageables pour des raisons qui peuvent être juridiques, administratives,
+techniques ou encore architecturales, le constructeur « peut être tenu quitte de ces obliga-
+tions en justifiant, pour les places qu'il ne peut réaliser lui-même, soit de l'obtention d'une
+concession à long terme dans un parc public de stationnement existant ou en cours de réa-
+lisation et situé à proximité de l'opération, soit de l'acquisition ou de la concession de
+places dans un parc privé de stationnement répondant aux mêmes conditions. »
+
+N.B : Concernant la concession à long terme, la jurisprudence 70 a précisé qu’une conces-
+sion pour dix ans n’est pas une concession à long terme au sens des dispositions de l’article
+précité.
+
+Enfin, pour encourager l’utilisation de véhicules électriques, la loi relative à la transition
+énergétique a déterminé que l’obligation fixée par le PLU peut être réduit d’un minimum
+de 15% en contrepartie de la mise à disposition de véhicules électriques et de leur système
+de recharge. Cette possibilité est retranscrite dans l’article L151-31 du code de
+l’urbanisme.
+
+
+
+
+68
+   L’article L151-32 dispose « Lorsque les conditions de desserte par les transports publics réguliers le per-
+mettent, le règlement peut fixer un nombre maximal d'aires de stationnement pour les véhicules motorisés à
+réaliser lors de la construction de bâtiments destinés à un usage autre que d'habitation ».
+69
+   Circulaire n°78-163, 29 déc. 1978
+70
+   CE, 30 juin 1993, n°130372
+
+
+                                                      27
+               I.2.2.      L’article 8 de la loi de 1965
+
+Les immeubles soumis au régime de la copropriété doivent évidemment respecter les
+règles d’urbanisme puisque ce sont celles-ci qui régissent les règles des immeubles bâtis ou
+en construction. Ainsi, l’article 8 de la loi de 1965 expose la nécessité de conformité entre
+le PLU et autres documents d’urbanisme et la mise en place de la copropriété.
+Ainsi il dispose : « II. - Le règlement de copropriété des immeubles dont le permis de cons-
+truire est délivré conformément à un plan local d'urbanisme ou à d'autres documents d'ur-
+banisme imposant la réalisation d'aires de stationnement prévoit qu'une partie des places
+de stationnement adaptées prévues au titre de l'obligation d'accessibilité définie à l'article
+L. 111-7-1 du code de la construction et de l'habitation est incluse dans les parties com-
+munes. Le règlement de copropriété des immeubles prévoit, dans des conditions définies
+par décret, les modalités selon lesquelles ces places de stationnement adaptées sont louées
+de manière prioritaire aux personnes handicapées habitant la copropriété. »
+
+En matière de stationnement, la loi relative à la transition énergétique pour la croissance
+verte a modifié l’article 24 de la loi de 1965 en y ajoutant : « i) La décision d'équiper les
+places de stationnement couvertes ou d'accès sécurisé avec des bornes de recharge pour
+véhicules électriques ».
+
+Nous verrons dans la seconde partie de ce mémoire les possibilités offertes au rédacteur de
+la copropriété pour encadrer les lots à usage commercial et les possibilités concernant ges-
+tion des places de stationnement au sein d’un ensemble immobilier complexe en coproprié-
+té.
+
+
+
+
+                                              28
+II. L’aménagement des règles d’urbanisme au travers de clauses dans le
+    règlement de copropriété
+Comme nous l’avons précédemment dit, tout règlement de copropriété, doit être conforme
+aux règles qui lui sont supérieures. En effet, il est interdit de priver, par une quelconque
+clause, les copropriétaires ou le syndicat des prérogatives qui leur sont conférées par la loi.
+
+De la sorte, il est interdit de retirer à une copropriétaire les avantages attachés à sa qualité
+de membre du syndicat et notamment le droit de voter lors des assemblées générales. Ain-
+si, le syndicat ne peut jamais perdre ses pouvoirs légaux et est réputé non écrite toute
+clause autorisant un copropriétaire à réaliser des travaux sans l’autorisation du syndicat.
+
+La première chose à définir lorsqu’un immeuble est mis en copropriété est sa destination.
+Les distinctions de destination que nous avons énumérées précédemment nous permettent
+de comprendre et d’affirmer que, selon les activités prévues au sein d’un bâtiment, plu-
+sieurs destinations peuvent cohabiter et notamment dans les bâtiments qui composent notre
+étude : les ensembles complexes immobiliers.
+
+       II.1.    Les clauses du règlement de copropriété portant sur les lots à
+           destination commerciale
+
+               II.1.1.     Conditions de jouissance des parties privatives
+
+                          II.1.1.a.   Généralités
+
+Dans un ensemble immobilier complexe dans lequel cohabitent plusieurs activités, la des-
+tination mixte d’habitation bourgeoise, professionnelle et commerciale semble la plus
+adapté. La possibilité est ainsi offerte par le règlement de copropriété aux copropriétaires
+d’exercer aussi bien une activité d’habitation qu’une activité commerciale dans la copro-
+priété.
+
+La destination des parties privatives doit impérativement figurer dans le règlement de co-
+propriété. L’affectation des lots en copropriété ne dépend pas du droit discrétionnaire du
+copropriétaire. En effet, le règlement de copropriété doit préciser :
+
+   •   D’une part la destination des locaux principaux
+   •   D’autre par la destination des locaux accessoires
+   •   Enfin, les conditions de jouissance des parties privatives.
+
+Trois arrêts jurisprudentiels du 10 décembre 1989 stipulent qu’un changement
+d’affectation des parties privatives est possible à condition de respecter les stipulations du
+règlement de copropriété, les droits des autres copropriétaires et la destination de
+l’immeuble.
+
+
+                          II.1.1.b. Les restrictions au droit de jouissance
+
+Il est possible qu’au sein d’une même copropriété dont la destination est mixte, une clause
+stipule que certains lots, souvent dans les étages, soient exclusivement réservés à l’usage
+
+
+                                               29
+d’habitation. Le règlement interdit donc toute forme d’activité commerciale ou profession-
+nelle dans ces lots 71.
+De même, certains lots peuvent être exclusivement réservés à une activité professionnelle.
+
+Les clauses restreignant le libre de choix des commerces sont interdites dès lors qu’elles ne
+sont pas justifiées par les caractéristiques de l’immeuble.
+
+Ainsi, les clauses excluant l’exercice de certaines activités commerciales sont réputés va-
+lides si l’activité refusée génère des nuisances incompatibles avec la destination de
+l’immeuble et porte ainsi atteinte aux droits des copropriétaires 72.
+Un règlement pourra donc interdire l’exercice d’un « sex-shop » dans un immeuble mixte
+de destination bourgeoise. En effet, le caractère bourgeois ne permet pas l’installation de
+ce type d’activité. Une clause bourgeoise ne saurait donc être accompagnée d’une clause
+autorisant tout type d’activité 73.
+
+La liste des commerces interdits dans le règlement de copropriété peut être éventuellement
+complétée mais interdire une activité revient à porter atteinte aux conditions de jouissance
+des parties privatives. La décision doit donc être adoptée à l’unanimité des copropriétaires
+pour être valable 74.
+NB : Le règlement de copropriété peut prévoir un quorum spécifique pour cette question.
+Ainsi, une telle modification pourra se faire selon une majorité et non l’unanimité dans
+certaines copropriétés 75.
+
+La jurisprudence, constante à ce sujet, précise qu’une clause de non concurrence insérée
+dans le règlement de copropriété est systématiquement réputée non écrite.
+
+
+                             II.1.1.c.   Changement d’affectation : règlementation et procédure
+
+Les modifications du règlement de copropriété ne peuvent être adoptées qu’en assemblée
+générale.
+
+Concernant les parties communes, leur condition de jouissance, leur usage et leur adminis-
+tration, peuvent être modifiés suite à un vote à la majorité de l’article 26.
+
+Toute autre modification du règlement de copropriété, peut être entreprise lors d’une as-
+semblée générale à condition de réunir l’unanimité et de respecter les dispositions d’ordre
+public et la morale.
+
+Cela concerne par exemple le changement d’affectation d’un lot. Pour ce faire, il faudra
+s’assurer que ce changement soit compatible avec les autres dispositions du règlement de
+copropriété.
+
+
+
+
+71
+   CA Paris, 23e ch. B, 4 février 1999 : Gaz. Pal., 17-18 septembre 1999, somm. P.35, note J. Rémy
+72
+   Cass. 3e civ. 2 juillet 2013, n°11-26.363
+73
+   CA Paris 23e ch. Sect. B, 8 janvier 2004, n°2003/09360
+74
+   CA Paris 2e ch., 30 octobre 2013, n°12/01789
+75
+   CA Paris, 4 octobre 1993
+
+
+                                                     30
+Un tel changement est soumis aux dispositions de l’article L631-7 76 du code de la Cons-
+truction et de l’Habitation dans les villes concernées par cet article. En effet, dans ces dé-
+partements, un local d’habitation ne peut être librement transformé en bureau ou commerce
+sans l’obtention d’une autorisation de l’administration compétente.
+
+Une telle modification peut également entrainer la nécessité de l’obtention d’un permis de
+construire. Dans ce cas, le copropriétaire doit préalablement obtenir l’autorisation du syn-
+dicat des copropriétaires avant de déposer sa demande de permis.
+
+Une fois la faisabilité du projet exécutée, le modificatif peut être rédigé. Il existe différents
+cas pour un changement d’affectation de lot :
+
+     •   Changement d’affectation sans privatisation de droits accessoires
+         Par exemple, il s’agit de transformer un local professionnel en appartement ou in-
+         versement. Dans ce cas le numéro du lot reste inchangé 77. Si on change la consis-
+         tance du lot, les quotes-parts de partie communes peuvent être réévaluées. Si on ne
+         touche pas à la consistance du lot, les quotes-parts de parties communes resteront
+         inchangées. Il sera toutefois possible de créer une aggravation de charges dans le
+         cas où on transformerait une habitation en local professionnel ce qui entrainerai par
+         exemple une utilisation supplémentaire de l’ascenseur.
+         Ces modifications seront votées selon les modalités de l’article 25.
+
+     •   Changement d’affectation avec privatisation de droits accessoires aux parties com-
+         munes.
+         C’est le cas par exemple lorsqu’on transforme un garage en local commercial.
+         Parmi les droits accessoires aux parties communes mentionnés à l’article 3 de la loi
+         de 1965, on trouve « le droit d'édifier des bâtiments nouveaux dans des cours,
+
+
+
+
+76
+   Article L631-776 du CCH : « La présente section est applicable aux communes de plus de 200 000 habi-
+tants et à celles des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. Dans ces
+communes, le changement d'usage des locaux destinés à l'habitation est, dans les conditions fixées par l'ar-
+ticle L. 631-7-1, soumis à autorisation préalable.
+Constituent des locaux destinés à l'habitation toutes catégories de logements et leurs annexes, y compris les
+logements-foyers, logements de gardien, chambres de service, logements de fonction, logements inclus dans
+un bail commercial, locaux meublés donnés en location dans les conditions de l'article L. 632-1.
+Pour l'application de la présente section, un local est réputé à usage d'habitation s'il était affecté à cet usage
+au 1er janvier 1970. Cette affectation peut être établie par tout mode de preuve. Les locaux construits ou
+faisant l'objet de travaux ayant pour conséquence d'en changer la destination postérieurement au 1er janvier
+1970 sont réputés avoir l'usage pour lequel la construction ou les travaux sont autorisés.
+Toutefois, lorsqu'une autorisation administrative subordonnée à une compensation a été accordée après le
+1er janvier 1970 pour changer l'usage d'un local mentionné à l'alinéa précédent, le local autorisé à changer
+d'usage et le local ayant servi de compensation sont réputés avoir l'usage résultant de l'autorisation.
+Sont nuls de plein droit tous accords ou conventions conclus en violation du présent article.
+Le fait de louer un local meublé destiné à l'habitation de manière répétée pour de courtes durées à une clien-
+tèle de passage qui n'y élit pas domicile constitue un changement d'usage au sens du présent article. »
+77
+   Instruction n°72 du 1er aout 1979 : « Les articles 4 et 7 du décret du 21 mai 1979, qui modifient l'article
+71-B en réécrivant le troisième alinéa du 1 et en remplaçant par deux alinéas le dernier alinéa du 2, font en
+sorte qu'à compter de l'entrée en vigueur de la loi, les modifications relatives à la seule quote-part de parties
+communes n'entraînent plus l'obligation d'un nouveau numérotage. L'acte modificatif et le tableau qui le
+résume ne devront donc plus faire apparaître dans ce cas, aux lieu et place de la correspondance entre les
+numéros anciens et nouveaux, que la nouvelle quote-part. »
+
+
+                                                       31
+           parcs ou jardins constituant des parties communes ».
+           Ainsi, ce lot sera créé à parti des droits à construire qui sont une partie commune et
+           ces modifications nécessitent la majorité de l’article 26.
+           Bien que le garage soit un lot à l’origine, il ne constitue pas de surface de plancher
+           contrairement à un local commercial.
+
+Au même titre que le règlement lui-même, toute modification de celui-ci doit être publiée
+au service de la publicité foncière.
+
+                    II.1.2.       L’enseigne : droit accessoire aux parties communes
+
+                                II.1.2.a.   Généralités
+
+Dans un souci de protection du patrimoine, des règles ont été établies dès 1902 concernant
+le droit de publicité pour les commerces. Aujourd’hui, le droit de publicité est codifié aux
+articles L581-1 et suivants du code de l’environnement.
+
+Ces articles avaient été rédigés suite à la loi du 29 décembre 1979 78. L’article L581-2 pré-
+cise notamment que c’est dans un souci de protection du cadre de vie que des règles sont
+fixées en matière de publicité, enseigne et pré-enseigne : « Afin d'assurer la protection du
+cadre de vie, le présent chapitre fixe les règles applicables à la publicité, aux enseignes et
+aux pré-enseignes, visibles de toute voie ouverte à la circulation publique, au sens précisé
+par décret en Conseil d'Etat. Ses dispositions ne s'appliquent pas à la publicité, aux en-
+seignes et aux pré-enseignes situées à l'intérieur d'un local, sauf si l'utilisation de celui-ci
+est principalement celle d'un support de publicité.»
+
+Depuis, la loi sur l’Engagement National pour l’Environnement et le décret du 30 janvier
+2012 relatif à la publicité extérieure, aux enseignes et aux pré-enseignes se sont inscrits
+dans un ensemble plus vaste de lutte contre la pollution visuelle et de réduction de facture
+énergétique nationale.
+
+La publicité est définie à l’article L581-3 du code de l’environnement comme étant « toute
+inscription, forme ou image, destinée à informer le public ou à attirer son attention, les
+dispositifs dont le principal objet est de recevoir lesdites inscriptions, formes ou images
+étant assimilées à des publicités ».
+
+Ce même article définit une enseigne comme étant « toute inscription, forme ou image
+apposée sur un immeuble et relative à une activité qui s'y exerce ».
+
+Ainsi, une enseigne est un signe extérieur qui permet d’individualiser un commerce ou un
+autre type d’établissement. L’enseigne un élément qui fait partie d’un fonds de commerce :
+elle ne saurait donc être rattachée à l’immeuble dans lequel le fonds de commerce est ex-
+
+
+
+
+78
+     Loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et pré-enseignes
+
+
+                                                       32
+ploité. L’enseigne ne doit pas être matériellement dissociée du fonds de commerce sous
+peine de requalification en pré-enseigne 79.
+
+La distinction entre la publicité et l’enseigne est essentielle. Le code de l’environnement
+prévoit des règles pour certains types d’enseignes et de publicités ce qui permet déjà de
+dresser une liste pour chacune de ces catégories. C’est la dimension, la zone d’implantation
+la visibilité de ces affichages qui vont permettre de différencier une enseigne d’une publi-
+cité. A cet égard, certaines enseignes ont été requalifiées par le juge en publicité. Par
+exemple, l'association Paysages de France a vu son enseigne, composé d’un totem de
+grande hauteur avec un disque à large diamètre en hauteur requalifiée en publicité 80.
+
+On considère le droit à l’enseigne comme « une prolongation nécessaire de l’activité pro-
+fessionnelle 81 ». Ainsi, on considère que l’autorisation donnée au titulaire d’un bail com-
+mercial de pouvoir signaler la présence d’un commerce est un accessoire nécessaire du bail
+et il n’est pas nécessaire qu’il soit mentionné au contrat 82.
+
+En copropriété, le droit d’apposer une enseigne est donc un droit accessoire aux parties
+privatives.
+
+                             II.1.2.b. Clauses illicites réputées non écrites et leurs consé-
+                                     quences
+
+L’article de la loi de 1965 dispose que « Chaque copropriétaire dispose des parties priva-
+tives comprises dans son lot; il use et jouit librement des parties privatives et des parties
+communes sous la condition de ne porter atteinte ni aux droits des autres copropriétaires
+ni à la destination de l'immeuble ».
+
+Un règlement de copropriété ne peut contenir une clause interdisant l’apposition de pan-
+neaux publicitaires ou d’enseignes 83 sur les différents murs de l’immeuble en copropriété.
+En effet, une telle clause n’est pas justifiée par la destination de l’immeuble et constitue
+une restriction aux droits des copropriétaires.
+
+A cet égard l’article 43 84 de la loi de 1965 dispose que « Toutes clauses contraires aux
+dispositions des articles 6 à 37, 41-1 à 42 et 46 et celles du décret prises pour leur appli-
+cation sont réputées non écrites. Lorsque le juge, en application de l'alinéa premier du
+présent article, répute non écrite une clause relative à la répartition des charges, il pro-
+cède à leur nouvelle répartition ».
+
+
+
+
+79
+   CE, 4 mars 2013, Sté Pharmacie Matignon, req. N°353423
+80
+   TA, Grenoble, 05 février 2003, Assoc. Paysages de France, req. N°2413 et n°2982
+81
+   Cass. 3e civ. 18 juin 1975, D. 1975. IR.207
+82
+   CA Paris, 16e ch. A, 7 février 2007, n°2007-334518
+83
+   TGI Paris, 19 février 1975
+84
+   Modifié par loi n°2006-872 du 13 juillet 2006 portant sur l’engagement national pour le logement
+
+
+                                                     33
+Toutefois, la jurisprudence a précisé en 2006 85 que « Les clauses du règlement de copro-
+priété doivent recevoir application tant qu’elles n’ont pas été déclarées non écrite par le
+juge ».
+
+Ainsi, le caractère illicite d’une clause peut courir dans le temps si personne ne demande à
+faire reconnaitre son illicéité. Par conséquent, tant qu’elle n’a pas été reconnue illicite et
+donc non-écrite par le juge une clause illicite doit être appliquée par le syndicat même si
+elle est contraire à l’évolution d’une législation. Ceci est dû au caractère intangible du rè-
+glement de copropriété.
+
+La mise à jour du règlement de copropriété en cas d’évolution législative est cependant
+indispensable. En effet, la loi ALUR a par exemple modifié les règles de majorité concer-
+nant les travaux d’amélioration. Avant cette loi, un tel projet préconisait la double majorité
+en assemblée générale, aujourd’hui la majorité de l’article 25 suffit. Si le règlement n’a pas
+été adapté à la nouvelle législation et que la décision est prise conformément à la loi
+ALUR, un copropriétaire pourrait faire annuler la décision car elle est contraire au règle-
+ment de copropriété qui préconise la double majorité.
+
+                              II.1.2.c.    Clauses licites
+
+Les droits accessoires aux parties privatives sont les éléments d’un immeuble qui sont pla-
+cés à l’extérieur du lot privatif mais dont l’usage reste exclusif à ce lot.
+
+L’enseigne est la propriété exclusive du copropriétaire et est donc à sa charge. Toutefois
+les enseignes sont des atteintes irrégulières aux parties communes puis qu’elles sont appo-
+sées sur les façades qui sont des parties communes.
+
+Un copropriétaire ne saurait nuire à l’harmonie générale de l’immeuble.
+
+Dans un immeuble à usage mixte, même si le règlement prévoit la liberté de pose
+d’enseignes ou de plaques professionnelles, l’autorisation d’apposer une enseigne sur la
+façade doit être valablement accordée lors d’une assemblée générale 86. Cette décision doit
+être prise selon les modalités de l’article 25 87.
+
+Le règlement de copropriété peut stipuler les modalités de pose des panneaux publicitaires
+et enseignes : implantation, dimension, matériaux 88, …
+Une telle clause peut s’accompagner d’un plan faisant figurer les emplacements autorisés.
+
+Pour éviter les litiges dans les immeubles à destination mixte comme dans un ensemble
+immobilier complexe, Christian Attias proposait en 2001, « Le principe devrait être clai-
+rement posé et fermement consacré : dès lors que l'exploitation d'un commerce, l'exercice
+d'une profession sont compatibles avec la destination de l'immeuble et, comme tels, autori-
+
+
+
+
+85
+   Cass. 3e civ. 21 juin 2006, n°05-13.606
+86
+   CA Paris 11 avril 2002, n°2202-173805
+87
+   CA Paris – 4 juillet 2012 – n° 10/06721
+88
+   Paris, 11 avr. 2002: Loyers et copro. 2002, no 214.
+
+
+                                                         34
+sés, les titulaires des lots ainsi utilisés bénéficient de tous les accessoires normaux de leurs
+échoppes ou cabinets. Le notariat pourrait peut-être contribuer à l'élimination d'une partie
+du contentieux, en établissant une sorte de fiche signalétique de l'immeuble à faire figurer
+en tête du règlement de copropriété. Y seraient mentionnées les principales caractéris-
+tiques de l'immeuble et leurs conséquences (nombre des lots principaux, avec leur destina-
+tion ; nombre des caves et des emplacements de stationnement privatifs et communs ; pré-
+sence d'un concierge, d'ascenseurs ; enseignes commerciales et plaques professionnelles
+autorisées ou non (emplacements) ; ...). »
+
+Dans un immeuble dont la destination est compatible avec l’exercice d’un commerce ou
+d’une autre activité professionnelle, on rencontre deux situations :
+
+     •   Dans la première 89, le règlement de copropriété ne contient aucune clause régle-
+         mentant l'apposition des enseignes ou des plaques professionnelles. Le coproprié-
+         taire est donc tenu de demander l'autorisation de l’ensemble du syndicat en assem-
+         blée générale. Celle-ci statuera sur les conditions de pose de l’enseigne ou de la
+         plaque professionnelle selon la majorité de l'article 25 de la loi du 10 juillet 1965.
+     •   Dans la seconde 90, le règlement de copropriété accorde « de plein droit » la possibi-
+         lité d’apposer une enseigne. En réalité, le règlement n’offre pas aux copropriétaires
+         la libre disposition de poser une enseigne. Il peut alors autoriser la pose d’enseigne
+         et fixer des contraintes la concernant. Par exemple, il peut stipuler que les plaques
+         professionnelles ne seront apposées qu’à l’entrée des appartements, ce qui signifie
+         qu’elles ne pourront l’être à l’extérieur de l’immeuble. Toutefois, le règlement ne
+         peut en aucun cas destituer l’assemblée générale de ses pouvoirs et il faudra la con-
+         sulter pour poser un enseigne sur la façade.
+
+                 II.1.3.       Troubles anormaux du voisinage
+
+Le principe selon lequel personne ne doit causer de trouble anormal de voisinage est appli-
+cable entre tous les copropriétaires 91.
+
+Ainsi, avant d’accorder toute autorisation concernant l’installation d’un commerce ou la
+pause d’une enseigne, l’assemblée générale doit s’assurer que les caractéristiques de celle-
+ci ne risquent pas de généré une gêne.
+
+On peut citer plusieurs exemples de trouble anormal de voisinage engendrés par des com-
+merces ou locaux professionnels en copropriété :
+
+     •   Une enseigne lumineuse risque par exemple, d’éblouir en raison de la lumière vive
+         comme ça peut être le cas pour la croix verte d’une pharmacie 92.
+     •   Les volets roulants mécaniques qui permettent l’ouverture et la fermeture des
+         commerces peuvent constituer un trouble sonore anormal notamment lorsque le dé-
+
+
+
+
+89
+   Cour de cassation – 3ème chambre civile – 24 octobre 1990 – n° 88-17.514
+90
+   Cass. 3ème ch. Civ. – 16 janvier 1991 – n° 89-13.610
+91
+   Cass. civ. 24 octobre 1990, RDI 1991, p.92 obs. P. Capoulade et Cl. Giverdon
+92
+   CA Paris, 30 octobre 1991n n°1991-023696
+
+
+                                                     35
+         faut d’entretien de ceux-ci entraine un bruit supérieur au seuil de tolérance fixé par
+         la loi 93.
+     •   Concernant les lots à usage de restaurant, les troubles les plus souvent rapportés
+         sont des troubles :
+              o sonores : cela peut concerner les bruits de cuisines 94, de terrasses 95,…
+                   Certaines activités commerciales comme la boulangerie par exemple néces-
+                   sitent de commencer l’activité très tôt. Ainsi, cela peut engendrer des nui-
+                   sances sonores que ce soit matériel 96, le bruit des chariots par exemple ou
+                    encore du fait de la clientèle 97.
+             o olfactifs : les vapeurs de cuisson peuvent générer des odeurs dérangeantes,
+                   dans les restaurants asiatique notamment, certains juges les décrivent
+                   comme « des odeurs caractéristiques s’agissant de l’élaboration d’une cui-
+                   sine fortement odorante 98 »
+             o de passage : la restauration rapide en livraison rajoute aux troubles précé-
+                   demment cités la multiplication du passage du service de livraison, ce qui
+                   peut être gênant surtout si la rue est étroite 99.
+     •   Certaines activités libérales comme des cabinets médicaux peuvent entrainer des
+         nuisances en raison des nombreux passages de la patientèle dans les parties com-
+         munes de l’immeuble.
+
+Pour éviter de telles nuisances, le règlement de copropriété d’un immeuble à destination
+mixte peut comporter une clause stipulant « Sont formellement exclus : tous établissements
+dangereux, insalubres, de nature à incommoder par le bruit ou l’odeur les personnes habi-
+tant la maison 100 ».
+
+
+
+         II.2.   La gestion des stationnements dans un ensemble immobilier
+             complexe
+
+Dans l’exemple d’Erdre Porterie, l’accès au stationnement est commun 101, les propriétaires
+des logements et des commerces disposent d’un unique parc de stationnement. Plusieurs
+possibilités sont offertes au rédacteur de la copropriété.
+Le problème qui se pose dans une telle configuration est l’usage inégal qui est fait des sta-
+tionnements entre les copropriétaires des logements et les visiteurs des lots de supermar-
+chés ou autres commerces.
+
+
+
+
+93
+   CA Paris, 21 novembre 2003, n°2003-229628
+94
+   CA Caen, 21 novembre 1995, n°1995-051136
+95
+   CA Montpellier, 3 juillet 1996, n°1996-034747
+96
+   CA Caen, 2 octobre 2007, n°2007-347861
+97
+   TGI Moulins, 17 mars 1992, n°1992-049924
+98
+   CA Reims, 14 septembre 1992, n°1992-045481
+99
+   CA Paris, 24 juin 1998, n°1998-021447
+100
+    Administrer Avril 2016, p. 45
+101
+    Voir figure n°2, page 38
+
+
+                                                   36
+                 II.2.1.        La répartition des places de stationnement
+
+
+                              II.2.1.a.   Création de lots
+
+
+La première possibilité offerte au législateur est la plus courante dans les immeubles en
+copropriété; il s’agit de créer des lots à partir des places de stationnement.
+
+Comme en témoignent les plan ci-dessous, le maitre d’ouvrage de l’ensemble immobilier
+complexe d’Erdre Porterie a prévu de répartir les zones de stationnement en fonction des
+activités d’habitations ou commerciales.
+
+En effet, dans ce cas de figure les propriétaires des lots de parkings ont la liberté de jouir
+de leurs lots comme ils le souhaitent tant qu’ils respectent le règlement de copropriété con-
+cernant la destination de l’immeuble 102.
+
+Dans ce cas de figure plusieurs possibilités sont encore offertes au législateur :
+
+      •   Il peut répartir les stationnements de manière à ce qu’il y ait un lot par place de sta-
+          tionnement. Chaque copropriétaire pourra alors acquérir ou non un ou plusieurs lot
+          de parking.
+      •   Il peut créer autant de lot de stationnement qu’il y a de lot à usage d’habitation et
+          créer un lot global avec tous les autres stationnements pour les lots du centre com-
+          mercial. Pour cela, si comme dans l’exemple que nous utilisons les stationnements
+          se répartissent sur plusieurs étages, le plus simple pour le rédacteur est de prévoir
+          des créer des lots par étages. Par exemple, le premier niveau de parking sera un lot
+          global pour les lots à usage commercial et les autres niveaux seront répartis en lots
+          comprenant une place par lot.
+
+
+
+
+102
+    Article 9 de la loi de 1965 : « Chaque copropriétaire dispose des parties privatives comprises dans son lot
+; il use et jouit librement des parties privatives et des parties communes sous la condition de ne porter at-
+teinte ni aux droits des autres copropriétaires ni à la destination de l'immeuble. »
+
+
+                                                      37
+Figure n°2 : Plan des stationenments – Rez-de-chaussée
+Figure n°3 : Plan des stationenments – Premier niveau
+                          II.2.1.b.    Clause d’aggravation de charges
+
+
+La principale conséquence d’une telle répartition au travers d’une clause va être une ag-
+gravation de charges.
+En effet, les rampes et autres voies de circulation du parking resteront quelle que soit la
+répartition des lots, des parties communes. Les utilisateurs du centre commercial auront
+beaucoup plus tendance à user de ces parties communes que les propriétaires des lots à
+usages d’habitation. Ainsi, le règlement pourra prévoir une clause dite d’aggravation de
+charges sur partie communes.
+
+La jurisprudence est constante à ce sujet. Une clause d'aggravation de charges fait partie
+intégrante du règlement de copropriété. Elles permettent d’imposer des frais supplémen-
+taire à un copropriétaire qui fait un usage excessif d’un équipement commune ou d’une
+partie commune.
+Pour être licite, une telle clause doit être prévue par le règlement de copropriété ou adoptée
+à l'unanimité 103.
+
+Toutefois, cette répartition ne parait pas être la plus avantageuse dans les ensembles im-
+mobiliers complexes. Les lots rattachés aux habitations seront alors souvent vacants la
+journée et le/les lots réservés au supermarché pourront s’avérer insuffisant. En effet, dans
+un entretien téléphonique accordé à un élève ESGT en 2014 104, M. Grisey105 confiait que
+pour un parc de stationnement de 200 places dans un immeuble à destination de logements,
+100 places sont inoccupées la journée.
+
+
+                II.2.2.        Nouveaux concepts de mutualisation des stationnements
+
+
+                          II.2.2.a.    Concept
+Les nouvelles mesures pour l’environnement ont mené les collectivités locales et les
+maîtres d’ouvrage à mutualiser les stationnements. Ce concept, élaboré par SARECO106,
+consiste à limiter l’offre de stationnement privé associé à tout nouveau projet immobilier
+en créant des parkings mutualisés répondant aux besoins des projets immobiliers proches.
+Cela signifie qu’un parc de stationnement sera partagé entre plusieurs usagers.
+
+
+
+
+103
+    Paris, 10 nov. 2005: Loyers et copr. 2006, no 64, obs. Vigneron.
+104
+    Arthur Besnard, promotion 2014
+105
+    Services Conseil Expertises Territoriale
+106
+    SARECO est une société de conseil et d’études, spécialisée dans le stationnement depuis sa création
+en 1976.
+                           Figure 4 : Concept de la mutualisation 107
+
+La gestion d’un parking mutualisé peut se faire de deux manières :
+
+      •   La première possibilité est la gestion nominative des places de stationnement dans
+          un parc de stationnement public. Les places seront attribuées spécifiquement. La
+          mutualisation se fait alors sur les équipements communs (rampe et autres accès no-
+          tamment), ce qui permet de faire des économies sur la construction.
+      •   La seconde possibilité est la gestion foisonnée des places de stationnement. Les
+          places ne seront alors pas attribuées spécifiquement, plusieurs usagers se les parta-
+          gent alternativement. Ce type de mutualisation permet de réduire le nombre de
+          places par rapport à une gestion privative lors de la construction du parc de sta-
+          tionnement. Ce type d’organisation nécessite une réflexion plus poussée quant à la
+          gestion du parking : le dimensionnement du parking doit être géré de manière plus
+          fine et le nombre d’abonnés/ détenteurs de badges d’accès doit être limité.
+
+                         II.2.2.b.      Avantages
+
+La mutualisation des stationnements offre de nombreux avantages.
+Le premier, déjà évoqué, est évidemment l’économie réalisée en terme de nombre de place
+stationnement. D’après Éric Gantelet 108, l’économie pourrait atteindre jusqu’au tiers des
+places.
+Le second intérêt, surement le plus évocateur des politiques actuelles, est de dissocier les
+logements et les places de stationnement. Ne plus accorder une place de stationnement par
+
+
+
+
+107
+    Mieux partager l’espace grâce à la mutualisation du stationnement – p.78 – Éric GANTELET et Philippe
+TAITHE – Ville Rail et transport du 14/11/2011
+108
+    Président du bureau d’études SARECO
+
+
+                                                   41
+logement permet d’éloigner l’utilisateur de ses habitudes excessives en matière de dépla-
+cement automobile.
+SARECO a mené une étude 109 sur trois villes françaises, Lyon, Dijon et St Etienne, qui a
+permis de montrer que l’usage de la voiture a tendance à diminuer lorsque le stationnement
+ne se trouve pas à proximité immédiate du logement.
+
+
+
+
+               Figure 5 : Sensibilité des résidents à la distance de stationnement
+
+
+La mutualisation des stationnements permet d’éviter la vacance des parkings. En effet,
+l’offre et la demande évolue avec les années et le calibrage des parkings privatifs ne ré-
+pond plus à la demande actuelle. Cela permet ainsi une utilisation en continu des parkings
+et évite ainsi la dégradation et la désertion des parkings vides.
+Enfin, moins de parcs de stationnements permet plus de libertés urbanistiques puisque l’on
+créé moins de rampes d’accès et donc moins de contraintes pour réaliser de nouveaux pro-
+jets.
+
+                           II.2.2.c.        Mise en place en copropriété
+
+Pour qu’une telle gestion fonctionne il faut que l’immeuble accueille des usagers qui n’ont
+pas les mêmes besoins en matière de stationnement tout au long de la journée. Mettre en
+place un système de foisonnement au sein d’une copropriété nécessite de répondre à plu-
+sieurs critères.
+Tout d’abord, le rédacteur de la copropriété doit définir les stationnements comme des par-
+ties communes de l’immeuble en copropriété. En effet, on ne peut imposer à un coproprié-
+taire de louer son lot pour la journée par exemple car ce serait une atteinte au droit de la
+propriété 110 qui est, selon la constitution, inviolable111.
+Le règlement de copropriété peut instaurer certaines restrictions d’usage des parties com-
+munes à condition que cela soit justifié par la destination de l’immeuble. Pour rendre légal
+
+
+
+
+109
+    Etude « Quel lien entre conditions de stationnement et choix du lieu de résidence ? » - www.sareco.fr
+110
+    Le droit de propriété est défini à l’article 544 du Code civil : « La propriété est le droit de jouir et dispo-
+ser des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou
+par les règlements. »
+111
+    Déclaration des droits de l'homme : « La propriété étant un droit inviolable et sacré, nul ne peut en être
+privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition
+d'une juste et préalable indemnité. »
+
+
+                                                        42
+le foisonnement, la destination de l’immeuble pourrait alors être formulée comme suit dans
+le règlement de copropriété : « L’immeuble est destiné à l’usage mixte d’habitation, de
+bureaux, commerces et de stationnements foisonnés ».
+
+Il n’est pas intéressant de foisonner l’ensemble des places de stationnements
+puisqu’environ 50% des usagers n’utilisent pas leur voiture et la laissent stationnée chez
+eux en journée. Un foisonnement total obligerait les usagers à déplacer leur voiture et ceci
+est contraire aux démarches environnementales visant à limiter les déplacements indivi-
+duels au profit des transports en communs.
+
+Toutefois, ce mode de gestion est difficile à mettre en place puisqu’en tant que partie
+commune, les charges afférentes aux stationnements seront répartis entre tous les copro-
+priétaires, peu importe qu’ils en aient ou non l’utilité. De plus, les copropriétaires peuvent
+être freinés par le fait de voir des usagers extérieurs chez eux, ce qui, pour des raisons de
+sécurité, pour entrainer l’intervention d’un exploitant de parking extérieur ce qui, à fortiori
+augmenterai les charges de la copropriété.
+
+La réponse ministérielle 112 qui suit permet de constater les règles applicables selon les
+modes de gestion du stationnement : « Lorsque la copropriété a ouvert son parking à la
+circulation publique, suite à une délibération de l’assemblée générale et d'un signalement
+au maire, le Code de la route s'applique et les forces de l’ordre peuvent intervenir. Lors-
+que la copropriété a, au contraire, conservé le statut privatif de son parking (propriété
+privée, défense d'entrée, panneau d'interdiction de stationner ou installation d'une barrière
+interdisant l'accès aux véhicules des non -résidents...), les véhicules stationnés ne peuvent
+être évacués qu’à la demande du propriétaire de l’emplacement (Code de la route : L.325-
+12 et R.325-47 à R.325-52). »
+
+Le règlement peut fixer des règles concernant la gestion des stationnements foisonnée pour
+éviter que des utilisateurs ne profitent de cette gestion de manière excessive. Le règlement
+pourra comporter une clause permettant de fixer des horaires de stationnement par type
+d’usagers par exemple.
+
+Après un accord entre les parties, la clause pourrait être rédigée de la sorte 113 :
+
+« 1.3. STATIONNEMENTS
+
+Le requérant déclare qu’il s’est engagé vis-à-vis de la SAMOA (Aménageur de la ZAC
+« île de Nantes ») aux termes de son acte d’acquisition du terrain d’assiette de l’ensemble
+immobilier objet des présentes, à destiner 20 des 39 places de stationnement en sous-sol à
+être « foisonnées » pour une occupation partagée entre occupants des lots bureaux et com-
+merces et occupants des logements de l’immeuble.
+Ce parking foisonné propose aux automobilistes « abonnés » qui seront donc, pour une
+période de trois années, exclusivement des résidents de l’ensemble immobilier de station-
+
+
+
+
+112
+      Rép. Min n° 17865 : JO AN du 26.11.13
+113
+      Clause tiré d’un règlement de copropriété réalisé par le Cabinet Air&Géo à Nantes
+
+
+                                                       43
+ner leur véhicule en sous-sol suivant leur besoin, lesquels seront ensuite facturés mensuel-
+lement en fonction de l’utilisation réelle du parking et de la durée du stationnement.
+Les abonnés disposeront d’une carte d’accès au sous-sol et pourront y stationner dès lors
+que le parking n’est pas complet.
+Cette solution, propose une mutualisation des stationnements permettant ainsi une utilisa-
+tion plus importante des places de stationnement (journée semaine, nuit semaine, week-
+end).
+
+A cet égard, le requérant expose qu’il acquerra de la société dénommée Nantes-Métropole
+Gestion Equipements (NGE) le matériel nécessaire à l’exploitation foisonnée du parking et
+notamment, sans que cette liste soit limitative : Signalétique extérieure, boucle (contrôle de
+présence), feu de signalisation, barrière et bornes de contrôle d’accès, dispositif de dé-
+compte des temps de présence, etc.
+Ces éléments d’équipements seront donc la propriété du syndicat des copropriétaires et
+constitueront une partie commune spéciale aux lots à usage de stationnement.
+
+Un local situé au sous-sol de l’ensemble immobilier sera également mis à disposition de
+NGE pour les besoin de sa prestation de services.
+
+Le requérant déclare également que la maintenance du matériel nécessitera un entretien
+spécifique qui sera assuré obligatoirement par un prestataire agréé par NGE (THALES….)
+selon projet de contrat de maintenance dont une numérisation est demeurée ci-après an-
+nexée (Annexe n°5), lequel sera soumis à la ratification de la première assemblée générale
+de l’ensemble des copropriétaires de l’immeuble puisque la souscription de ce contrat
+concours à la destination de celui-ci .
+
+Il sera en outre conclu avec la société NGE un contrat de prestation de services, le presta-
+taire s’obligeant notamment à assurer le bon fonctionnement du matériel, à gérer le parking
+à distance ou à intervenir sur site 7 jours sur 7, 24 heures sur 24 selon projet de contrat de
+maintenance prestation de service dont une numérisation est jointe aux présentes (Annexe
+n°6), lequel sera soumis à la ratification de la première assemblée générale de
+l’ensemble des copropriétaires de l’immeuble puisque la souscription de ce contrat con-
+cours à la destination de celui-ci .
+
+Le coût de ces contrats de maintenance et de gestion prestation de service constitueront des
+charges communes spéciales qui se répartiront entre l’ensemble des propriétaires de sta-
+tionnements au prorata de leurs millièmes tels que déterminés aux présentes.
+
+Le requérant déclare que les 20 places de stationnements foisonnées sont destinées à être
+cédées à un investisseur unique. Il appartiendra donc à ce dernier de supporter seul le coût
+du contrat de gestion à conclure avec NGE (décompte des badges abonnés…). Etant ici
+précisé qu’il sera fait obligation à ce propriétaire de maintenir, savoir :
+
+   -   L’exploitation des vingt places de stationnement pendant 3 ans
+   -   De maintenir l’exclusivité au profit des occupants des logements, bureaux et com-
+       merce de l’ensemble immobilier pendant une durée minimale de 3 ans à compter de
+       la livraison des biens acquis par lui ;
+   -   De maintenir les conditions tarifaires (location à l’heure, à la journée…) pendant
+       une durée minimale d’un an à compter de cette date.
+
+
+
+
+                                              44
+A toutes fins utiles, il est rappelé que les places en foisonnement sont privatives et ne pour-
+ront pas être utilisées par les copropriétaires de l’immeuble sans que ces derniers n’aient
+conclu un contrat d’abonnement.
+
+Enfin le requérant précise que le parking ne constitue pas un parking public mais reste un
+parking privé. Si, pour les 20 places de stationnement foisonnées, une location à l'heure ou
+à la journée est possible, celle-ci est réservée en priorité, et pendant une période minimale
+de trois ans aux utilisateurs de l’immeuble et à des utilisateurs ayant conclus un contrat
+d’abonnement avec le propriétaire desdites places. Les locations interviendront donc uni-
+quement au profit d’utilisateurs contractant de droit privé ayant parfaite connaissance du
+parc de stationnement. »
+
+
+
+
+                                              45
+                                       Conclusion
+
+
+La destination de l’immeuble, exposée dans le règlement de copropriété doit être le fil
+conducteur lors de la rédaction de celui-ci. Une grande attention doit donc être apportée
+quant au choix de la destination.
+
+Outre les éventuelles adaptations du statut de la copropriété proposées par la loi de 1965
+(syndicat secondaire, parties communes spéciales, …), la possibilité est offerte au rédac-
+teur de la copropriété de faciliter la gestion et l’évolution de l’ensemble immobilier com-
+plexe par le biais de clauses, qui doivent évidemment être compatibles avec la destination
+de l’immeuble.
+
+Cette démonstration nous a clairement montré les difficultés d’intégration et de gestion des
+lots à usages commerciaux et du parc de stationnement.
+
+Toutefois, les difficultés inhérentes à la gestion des ensembles immobiliers mixtes en co-
+propriété, bien que limitées par la possibilité d’intégrer ce type de clauses au règlement de
+copropriété, restent malgré tout bien présentes.
+
+En effet, bien que la gestion en copropriété offre un cadre légal et règlementaire ainsi
+qu’une équité par le biais de son système démocratique (vote en assemblée générale) ce qui
+permet de rassurer les praticiens ou les copropriétaires, elle comporte encore de nombreux
+inconvénients. Dans ces très grands ensembles, les majorités sont difficiles à obtenir en
+raison du fort taux d’absentéisme aux assemblées générales et il est difficile de faire
+s’entendre des copropriétaires aux intérêts si divergents.
+Ces ensembles immobiliers complexes étant de plus en plus nombreux, les législateurs ne
+devraient-ils pas créer une loi spécifique à la gestion de ces ensembles ou assouplir les
+contraintes de la division en volumes pour en permettre la mise en place systématique dans
+ce type d’ensemble ?
+
+Les géomètres experts à l'interface de la compétence technique et juridique ont un rôle de
+conseil à jouer dans la gestion de ces ensembles complexes. Et pour certains, ce pourrait
+être l'occasion de transformer une contrainte en opportunités de développement de nou-
+velles activités.
+
+
+
+
+                                              46
+                                   Bibliographie
+
+Articles et notes :
+
+   -   P. Lebatteux « Les origines de la copropriété » - AJDI pp.519
+   -   J.R. Bouyeure « La spécialisation des charges de l’article 10 alinéa 2 de la loi du
+       10 juillet 1095 » - Administrer n°433, juin 2010
+   -   Administrer n°459, novembre 2012
+   -   Administrer n°497, avril 2016
+   -   F. Bérenger « Les troubles anormaux du voisinage » - Administrer n°455, juin 2012
+   -   D. Sizaire, « Fasc. 520 : Division en volume – nature et principes », Jurisclasseur
+       Copropriété, 16 mars 1999
+   -   JC. Chaput et G. Durand Pasquier, « Volumes ou copropriété : quelle liberté de
+       choix ? »
+   -   J.F. Inserguet – « Ecriture du PLU »
+   -   Article de l’ANCC – 23 février 2012 « Modification du règlement de copropriété
+       consécutive à un changement de destination de l’immeuble – Majorité »
+   -   T. Simon « Exigences du POS ou du PLU en matière de stationnement : comment
+       s’en affranchir ? » - Jurisclasseur Décembre 2015
+   -   La bibliothèque permanente des Editions Législatives – Elnet – Copropriété (géné-
+       ralités) – Consulté le 23.03-.16
+   -   La bibliothèque permanente des Editions Législatives – Elnet – Règlement de co-
+       propriété – Consulté le 23.03-.16
+   -   Juriclasseur copropriété –LexisNexis – Règlement de copropriété – Consulté le
+       30.03.2016
+
+
+
+Codes et lois :
+
+   -   Code de la copropriété - Dalloz (2016)
+   -   Code civil
+   -   Code Générale de la Propriété des Personnes Publiques
+   -   Code de l’urbanisme
+   -   Code Rural et de la Pêche maritime
+   -   Code Forestier
+   -   Code de la Construction et de l’Habitat
+
+
+Mémoires :
+
+   -   Stanislas Doizy – Changement d’affectation dans les ensembles immobiliers,
+       ESGT 2014
+   -   Julien Chevalier – La loi de 1965 pour la Gestion des Grands Ensembles – ESGT
+       2012
+   -   Pauline Roblin – Evolution des modes de gestion des ensembles immobiliers exis-
+       tants : illustration en matière commerciale – DPLG 2015
+   -   Florian Cesbron – L’adaptation de la copropriété aux nouveaux enjeux de la cons-
+       truction – ESGT 2012
+
+
+                                           47
+   -   Arthur Besnard - Les difficultés inhérentes aux modifications et aux adaptations
+       des règlements de copropriété – ESGT 2014
+
+
+
+Rapports :
+
+   -   S. Lelièvre, S. Chaix-Bryan « Division de l’immeuble, le sol, l’espace, le bâti », -
+       103e Congrès des Notaires de France – Lyon septembre 2007
+   -   E. Gantelet et P. Taithe « Mieux partager l’espace grâce à la mutualisation du sta-
+       tionnement »
+Sites internet :
+
+   -   https://www.legifrance.gouv.fr/
+   -   http://www.elnet.fr.proxybib.cnam.fr/
+   -   http://www.dalloz.fr.proxybib.cnam.fr/
+   -   http://www.lexisnexis.fr/
+   -   http://www.insee.fr/fr/
+   -   http://www.larousse.fr/
+   -   http://www.developpement-durable.gouv.fr/
+   -   http://www.europan-europe.eu/fr/sessions-info/europan-4
+   -   http://www.ancc.fr
+   -   http://www.assemblee-nationale.fr/13/propositions/pion4049.asp
+   -   http://www.legavox.fr/blog/maitre-joan-dray/
+   -   http://www.universimmo.com/accueil/unijur135.asp
+   -   http://www.sareco.fr
+
+
+
+
+                                             48
+                                  Liste des figures
+
+
+
+Figure n° 1 : Evolution démographique des espaces périurbains - Source INSEE
+
+Figure n°2 : Plan des stationnements – Rez-de-chaussée
+
+Figure n°3 : Plan des stationnements – Premier niveau
+
+Figure n° 4 : Concept de la mutualisation
+
+Figure n°5 : Distance du lieu de stationnement au logement
+
+
+
+
+                                            49
+                               Table des annexes
+
+
+Annexe 1 : Loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des im-
+meubles bâtis
+
+Annexe 2 : Mieux partager l’espace grâce à la mutualisation du stationnement – Éric
+GANTELET et Philippe TAITHE – Ville Rail et transport du 14/11/2011
+
+
+
+
+                                          50
+                                              Annexe 1
+
+ Loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles
+                                       bâtis
+
+Article 1
+
+La présente loi régit tout immeuble bâti ou groupe d'immeubles bâtis dont la propriété est
+répartie, entre plusieurs personnes, par lots comprenant chacun une partie privative et une
+quote-part de parties communes.
+
+A défaut de convention contraire créant une organisation différente, la présente loi est
+également applicable aux ensembles immobiliers qui, outre des terrains, des aménagements et
+des services communs, comportent des parcelles, bâties ou non, faisant l'objet de droits de
+propriété privatifs.
+
+Article 2
+
+Sont privatives les parties des bâtiments et des terrains réservées à l'usage exclusif d'un
+copropriétaire déterminé.
+
+Les parties privatives sont la propriété exclusive de chaque copropriétaire.
+
+Article 3
+
+Sont communes les parties des bâtiments et des terrains affectées à l'usage ou à l'utilité de tous
+les copropriétaires ou de plusieurs d'entre eux.
+
+Dans le silence ou la contradiction des titres, sont réputées parties communes :
+
+- le sol, les cours, les parcs et jardins, les voies d'accès ;
+
+- le gros œuvre des bâtiments, les éléments d'équipement commun, y compris les parties de
+canalisations y afférentes qui traversent des locaux privatifs ;
+
+- les coffres, gaines et têtes de cheminées ;
+
+- les locaux des services communs ;
+
+- les passages et corridors.
+
+Sont réputés droits accessoires aux parties communes dans le silence ou la contradiction des
+titres :
+
+- le droit de surélever un bâtiment affecté à l'usage commun ou comportant plusieurs locaux
+qui constituent des parties privatives différentes, ou d'en affouiller le sol ;
+
+- le droit d'édifier des bâtiments nouveaux dans des cours, parcs ou jardins constituant des
+parties communes ;
+- le droit d'affouiller de tels cours, parcs ou jardins ;
+
+- le droit de mitoyenneté afférent aux parties communes.
+
+Article 8
+
+I. - Un règlement conventionnel de copropriété, incluant ou non l'état descriptif de division,
+détermine la destination des parties tant privatives que communes, ainsi que les conditions de
+leur jouissance ; il fixe également, sous réserve des dispositions de la présente loi, les règles
+relatives à l'administration des parties communes.
+
+Le règlement de copropriété ne peut imposer aucune restriction aux droits des copropriétaires
+en dehors de celles qui seraient justifiées par la destination de l'immeuble, telle qu'elle est
+définie aux actes, par ses caractères ou sa situation.
+
+II. - Le règlement de copropriété des immeubles dont le permis de construire est délivré
+conformément à un plan local d'urbanisme ou à d'autres documents d'urbanisme imposant la
+réalisation d'aires de stationnement prévoit qu'une partie des places de stationnement adaptées
+prévues au titre de l'obligation d'accessibilité définie à l'article L. 111-7-1 du code de la
+construction et de l'habitation est incluse dans les parties communes.
+
+Le règlement de copropriété des immeubles prévoit, dans des conditins définies par décret, les
+modalités selon lesquelles ces places de stationnement adaptées sont louées de manière
+prioritaire aux personnes handicapées habitant la copropriété.
+
+NOTA :
+
+Conformément à l'article 18 de l'ordonnance n° 2014-1090 du 26 septembre 2014, l'article 8
+de la loi n° 65-557 du 10 juillet 1965 dans sa rédaction résultant de la présente ordonnance,
+est applicable respectivement aux logements et aux copropriétés des immeubles bâtis dont la
+demande de permis de construire est déposée à compter du 1er janvier 2015.
+
+Article 8-1
+
+Le règlement de copropriété des immeubles dont le permis de construire a été délivré
+conformément à un plan local d'urbanisme ou d'autres documents d'urbanisme imposant la
+réalisation d'aires de stationnement peut prévoir une clause attribuant un droit de priorité aux
+copropriétaires à l'occasion de la vente de lots exclusivement à usage de stationnement au sein
+de la copropriété.
+
+Dans ce cas, le vendeur doit, préalablement à la conclusion de toute vente d'un ou plusieurs
+lots à usage de stationnement, faire connaître au syndic par lettre recommandée avec demande
+d'avis de réception son intention de vendre, en indiquant le prix et les conditions de la vente.
+
+Cette information est transmise sans délai à chaque copropriétaire par le syndic par lettre
+recommandée avec demande d'avis de réception, aux frais du vendeur. Elle vaut offre de
+vente pendant une durée de deux mois à compter de sa notification.
+
+Article 8-2
+Le syndic établit une fiche synthétique de la copropriété regroupant les données financières et
+techniques essentielles relatives à la copropriété et à son bâti, dont le contenu est défini par
+décret. Le syndic met à jour la fiche synthétique de la copropriété chaque année.
+
+Le syndic met cette fiche à disposition des copropriétaires.
+
+Le défaut de réalisation de la fiche synthétique est un motif de révocation du syndic. Les
+contrats de syndic prévoient obligatoirement une pénalité financière forfaitaire automatique à
+l'encontre du syndic chaque fois que celui-ci ne met pas la fiche synthétique à disposition d'un
+copropriétaire dans un délai de quinze jours à compter de la demande. Cette pénalité est
+déduite de la rémunération du syndic lors du dernier appel de charges de l'exercice.
+
+Ces dispositions ne sont pas applicables aux syndics administrant des immeubles à destination
+totale autre que d'habitation.
+NOTA :
+
+Conformément à l'article 54 IV de la loi n° 2014-366 du 24 mars 2014, l'article 8-2 de la loi
+n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis est
+applicable à compter du :
+
+1° 31 décembre 2016, pour les syndicats de copropriétaires comportant plus de 200 lots ;
+
+2° 31 décembre 2017, pour les syndicats de copropriétaires comportant plus de 50 lots ;
+
+3° 31 décembre 2018, pour les autres syndicats de copropriétaires.
+
+Article 9
+
+Chaque copropriétaire dispose des parties privatives comprises dans son lot ; il use et jouit
+librement des parties privatives et des parties communes sous la condition de ne porter
+atteinte ni aux droits des autres copropriétaires ni à la destination de l'immeuble.
+
+Toutefois, si les circonstances l'exigent et à condition que l'affectation, la consistance ou la
+jouissance des parties privatives comprises dans son lot n'en soient pas altérées de manière
+durable, aucun des copropriétaires ou de leurs ayants droit ne peut faire obstacle à l'exécution,
+même à l'intérieur de ses parties privatives, des travaux régulièrement et expressément
+décidés par l'assemblée générale en vertu des a et b du II de l'article 24, des f, g et o de
+l'article 25 et de l'article 30.
+
+Pour la réalisation des travaux d'intérêt collectif réalisés sur les parties privatives, le syndicat
+exerce les pouvoirs du maître d'ouvrage jusqu'à réception des travaux.
+
+Les travaux entraînant un accès aux parties privatives doivent être notifiés aux copropriétaires
+au moins huit jours avant le début de leur réalisation, sauf impératif de sécurité ou de
+conservation des biens.
+
+Les copropriétaires qui subissent un préjudice par suite de l'exécution des travaux, en raison
+soit d'une diminution définitive de la valeur de leur lot, soit d'un trouble de jouissance grave,
+même s'il est temporaire, soit de dégradations, ont droit à une indemnité.
+Cette indemnité, qui est à la charge de l'ensemble des copropriétaires, est répartie, s'agissant
+des travaux décidés dans les conditions prévues par les a et b du II de l'article 24, des f, g et o
+de l'article 25 et par l'article 30, en proportion de la participation de chacun au coût des
+travaux.
+
+Article 9-1
+
+Chaque copropriétaire est tenu de s'assurer contre les risques de responsabilité civile dont il
+doit répondre en sa qualité soit de copropriétaire occupant, soit de copropriétaire non-
+occupant. Chaque syndicat de copropriétaires est tenu de s'assurer contre les risques de
+responsabilité civile dont il doit répondre.
+
+Article 10
+
+Les copropriétaires sont tenus de participer aux charges entraînées par les services collectifs et
+les éléments d'équipement commun en fonction de l'utilité que ces services et éléments
+présentent à l'égard de chaque lot.
+
+Ils sont tenus de participer aux charges relatives à la conservation, à l'entretien et à
+l'administration des parties communes proportionnellement aux valeurs relatives des parties
+privatives comprises dans leurs lots, telles que ces valeurs résultent des dispositions de
+l'article 5.
+
+Le règlement de copropriété fixe la quote-part afférente à chaque lot dans chacune des
+catégories de charges.
+
+Tout règlement de copropriété publié à compter du 31 décembre 2002 indique les éléments
+pris en considération et la méthode de calcul permettant de fixer les quotes-parts de parties
+communes et la répartition des charges.
+
+Article 10-1
+
+Par dérogation aux dispositions du deuxième alinéa de l'article 10, sont imputables au seul
+copropriétaire concerné :
+
+a) Les frais nécessaires exposés par le syndicat, notamment les frais de mise en demeure, de
+relance et de prise d'hypothèque à compter de la mise en demeure, pour le recouvrement d'une
+créance justifiée à l'encontre d'un copropriétaire ainsi que les droits et émoluments des actes
+des huissiers de justice et le droit de recouvrement ou d'encaissement à la charge du débiteur ;
+
+b) Les honoraires du syndic afférents aux prestations qu'il doit effectuer pour l'établissement
+de l'état daté à l'occasion de la mutation à titre onéreux d'un lot ou d'une fraction de lot. Les
+honoraires ou frais perçus par le syndic au titre des prestations susmentionnées ne peuvent
+excéder un montant fixé par décret ;
+
+c) Les dépenses pour travaux d'intérêt collectif réalisés sur les parties privatives notamment
+en application du c du II de l'article 24 et du f de l'article 25 ;
+
+d) Les astreintes prévues à l'article L. 1331-29 du code de la santé publique et aux articles L.
+129-2 et L. 511-2 du code de la construction et de l'habitation lorsque les mesures ou travaux
+prescrits par un arrêté pris en application du II de l'article L. 1331-28 du code de la santé
+publique ou des articles L. 129-1 ou L. 511-1 du code de la construction et de l'habitation et
+ayant fait l'objet d'un vote en assemblée générale n'ont pu être réalisés du fait de la défaillance
+dudit copropriétaire. Les astreintes sont alors fixées par lot.
+
+Le copropriétaire qui, à l'issue d'une instance judiciaire l'opposant au syndicat, voit sa
+prétention déclarée fondée par le juge, est dispensé, même en l'absence de demande de sa part,
+de toute participation à la dépense commune des frais de procédure, dont la charge est répartie
+entre les autres copropriétaires.
+
+Le juge peut toutefois en décider autrement en considération de l'équité ou de la situation
+économique des parties au litige.
+
+
+Article 24
+
+I.-Les décisions de l'assemblée générale sont prises à la majorité des voix exprimées des
+copropriétaires présents ou représentés, s'il n'en est autrement ordonné par la loi.
+
+II.-Sont notamment approuvés dans les conditions de majorité prévues au I :
+
+a) Les travaux nécessaires à la conservation de l'immeuble ainsi qu'à la préservation de la
+santé et de la sécurité physique des occupants, qui incluent les travaux portant sur la stabilité
+de l'immeuble, le clos, le couvert ou les réseaux et les travaux permettant d'assurer la mise en
+conformité des logements avec les normes de salubrité, de sécurité et d'équipement définies
+par les dispositions prises pour l'application de l'article 1er de la loi n° 67-561 du 12 juillet
+1967 relative à l'amélioration de l'habitat ;
+
+b) Les modalités de réalisation et d'exécution des travaux rendus obligatoires en vertu de
+dispositions législatives ou réglementaires ou d'un arrêté de police administrative relatif à la
+sécurité ou à la salubrité publique, notifié au syndicat des copropriétaires pris en la personne
+du syndic ;
+
+c) Les modalités de réalisation et d'exécution des travaux notifiés en vertu de l'article L. 313-
+4-2 du code de l'urbanisme, notamment la faculté pour le syndicat des copropriétaires
+d'assurer la maîtrise d'ouvrage des travaux notifiés portant sur les parties privatives de tout ou
+partie des copropriétaires et qui sont alors réalisés aux frais du copropriétaire du lot concerné ;
+
+d) Les travaux d'accessibilité aux personnes handicapées ou à mobilité réduite, sous réserve
+qu'ils n'affectent pas la structure de l'immeuble ou ses éléments d'équipement essentiels ;
+
+e) L'autorisation donnée à certains copropriétaires d'effectuer, à leurs frais, des travaux
+d'accessibilité aux personnes handicapées ou à mobilité réduite qui affectent les parties
+communes ou l'aspect extérieur de l'immeuble et conformes à la destination de celui-ci, sous
+réserve que ces travaux n'affectent pas la structure de l'immeuble ou ses éléments
+d'équipement essentiels ;
+
+f) Les adaptations du règlement de copropriété rendues nécessaires par les modifications
+législatives et réglementaires intervenues depuis son établissement. La publication de ces
+modifications du règlement de copropriété est effectuée au droit fixe ;
+g) La décision d'engager le diagnostic prévu à l'article L. 731-1 du code de la construction et
+de l'habitation ainsi que ses modalités de réalisation ;
+
+h) Les opérations d'amélioration de l'efficacité énergétique à l'occasion de travaux affectant
+les parties communes ;
+
+i) La décision d'équiper les places de stationnement couvertes ou d'accès sécurisé avec des
+bornes de recharge pour véhicules électriques.
+
+III.-Lorsque le règlement de copropriété met à la charge de certains copropriétaires seulement
+les dépenses d'entretien d'une partie de l'immeuble ou celles d'entretien et de fonctionnement
+d'un élément d'équipement, il peut être prévu par ledit règlement que ces copropriétaires seuls
+prennent part au vote sur les décisions qui concernent ces dépenses. Chacun d'eux vote avec
+un nombre de voix proportionnel à sa participation auxdites dépenses.
+
+Article 24-1
+
+Lorsqu'un réseau de communications électroniques interne à l'immeuble distribue des services
+de télévision, l'ordre du jour de l'assemblée générale comporte de droit, si l'installation ne
+permet pas encore l'accès aux services nationaux en clair de télévision par voie hertzienne
+terrestre en mode numérique et si le distributeur de services dispose d'une offre en mode
+numérique, l'examen de toute proposition commerciale telle que visée à la deuxième phrase
+du deuxième alinéa de l'article 34-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la
+liberté de communication.
+
+Par dérogation au h de l'article 25 de la présente loi, la décision d'accepter cette proposition
+commerciale est acquise à la majorité prévue au premier alinéa du I de l'article 24.
+
+Article 24-2
+
+Lorsque l'immeuble n'est pas équipé de lignes de communications électroniques à très haut
+débit en fibre optique, toute proposition émanant d'un opérateur de communications
+électroniques d'installer de telles lignes en vue de permettre la desserte de l'ensemble des
+occupants par un réseau de communications électroniques à très haut débit ouvert au public
+dans le respect des articles L. 33-6 et L. 34-8-3 du code des postes et des communications
+électroniques est inscrite de droit à l'ordre du jour de la prochaine assemblée générale.
+
+L'assemblée générale est tenue de statuer sur toute proposition visée au premier alinéa.
+
+Par dérogation au h de l'article 25 de la présente loi, la décision d'accepter cette proposition
+est acquise à la majorité prévue au premier alinéa du I de l'article 24.
+
+L'assemblée générale peut également, dans les mêmes conditions, donner mandat au conseil
+syndical pour se prononcer sur toute proposition future émanant d'un opérateur de
+communications électroniques en vue d'installer des lignes de communication électroniques à
+très haut débit mentionnées au premier alinéa du présent article. Tant qu'une telle installation
+n'a pas été autorisée, l'ordre du jour de l'assemblée générale comporte de droit un projet de
+résolution donnant au conseil syndical un tel mandat.
+Article 24-3
+
+Lorsque l'immeuble reçoit des services de télévision par voie hertzienne terrestre par une
+antenne collective, l'ordre du jour de l'assemblée générale comporte, avant la fin de la mise en
+œuvre dans la commune du schéma national d'arrêt de la diffusion analogique et de
+basculement vers le numérique, un projet de résolution sur les travaux et les modifications
+nécessaires à la réception, par l'antenne collective de l'immeuble, des services de télévision
+par voie hertzienne terrestre en mode numérique.
+
+Par dérogation au h de l'article 25, la décision de réaliser les travaux et modifications prévus à
+l'alinéa précédent est acquise à la majorité prévue au premier alinéa du I de l'article 24.
+
+L'assemblée générale peut également, dans les mêmes conditions, donner mandat au conseil
+syndical ou, à défaut, au syndic pour conduire, dans la limite d'un montant de dépenses, les
+modifications nécessaires à la continuité de la réception par l'antenne collective des services
+de télévision lors de l'arrêt de la télévision analogique ou lors des changements des fréquences
+d'émission des services de télévision par voie hertzienne terrestre en mode numérique.
+
+Article 24-4
+
+Pour tout immeuble équipé d'une installation collective de chauffage ou de refroidissement, le
+syndic inscrit à l'ordre du jour de l'assemblée générale des copropriétaires qui suit
+l'établissement d'un diagnostic de performance énergétique prévu à l'article L. 134-1 du code
+de la construction et de l'habitation ou d'un audit énergétique prévu à l'article L. 134-4-1 du
+même code la question d'un plan de travaux d'économies d'énergie ou d'un contrat de
+performance énergétique.
+
+Avant de soumettre au vote de l'assemblée générale un projet de conclusion d'un tel contrat, le
+syndic procède à une mise en concurrence de plusieurs prestataires et recueille l'avis du
+conseil syndical.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+Article 24-5
+
+Lorsque l'immeuble possède des emplacements de stationnement d'accès sécurisé à usage
+privatif et n'est pas équipé des installations électriques intérieures permettant l'alimentation de
+ces emplacements pour permettre la recharge des véhicules électriques ou hybrides ou des
+installations de recharge électrique permettant un comptage individuel pour ces mêmes
+véhicules, le syndic inscrit à l'ordre du jour de l'assemblée générale la question des travaux
+permettant la recharge des véhicules électriques ou hybrides et des conditions de gestion
+ultérieure du nouveau réseau électrique, ainsi que la présentation des devis élaborés à cet
+effet.
+
+Article 24-6
+
+Lorsque l'immeuble est situé dans l'un des secteurs mentionnés au a du 2° de l'article L. 515-
+16 du code de l'environnement, le syndic inscrit à l'ordre du jour de l'assemblée générale
+l'information sur l'exercice par les copropriétaires du droit de délaissement prévu au même
+article.
+Il notifie en même temps que l'ordre du jour un état actualisé des lots délaissés. Cet état
+comprend le nombre de copropriétaires ayant exercé leur droit de délaissement, ainsi que les
+quotes-parts des parties communes qu'ils représentent, et mentionne les dispositions du
+deuxième alinéa du III de l'article 18 de la présente loi et de l'article L. 515-16-1 du code de
+l'environnement.
+
+Article 24-7
+
+Sauf dans le cas où le syndicat des copropriétaires assure la maîtrise d'ouvrage des travaux
+portant sur les parties communes et les parties privatives de l'immeuble en application du c du
+II de l'article 24, le syndicat des copropriétaires peut délibérer sur la création ou l'adhésion à
+une association foncière urbaine prévue au 5° de l'article L. 322-2 du code de l'urbanisme.
+Dans ce cas, par dérogation à l'article 14, l'association foncière urbaine exerce les pouvoirs du
+syndicat des copropriétaires portant sur les travaux de restauration immobilière relatifs aux
+parties communes de l'immeuble jusqu'à leur réception définitive.
+
+Article 24-8
+
+Lorsque, en application de l'article L. 1331-29 du code de la santé publique ou des articles L.
+129-2 ou L. 511-2 du code de la construction et de l'habitation, une astreinte applicable à
+chaque lot a été notifiée au syndicat des copropriétaires, pris en la personne du syndic, par une
+autorité publique, le syndic en informe immédiatement les copropriétaires.
+
+Lorsque l'inexécution des travaux et mesures prescrits par l'arrêté de police administrative
+résulte de la défaillance de certains copropriétaires, le syndic en informe l'autorité publique
+compétente, en lui indiquant les démarches entreprises et en lui fournissant une attestation de
+défaillance. Sont réputés défaillants les copropriétaires qui, après avoir été mis en demeure
+par le syndic, n'ont pas répondu aux appels de fonds nécessaires à la réalisation des travaux
+dans le délai de quinze jours après la sommation de payer. Au vu de l'attestation de
+défaillance, l'autorité publique notifie le montant de l'astreinte aux copropriétaires défaillants
+et procède à sa liquidation et à son recouvrement comme il est prévu aux mêmes articles L.
+1331-29, L. 129-2 et L. 511-2.
+
+Lorsque l'assemblée générale des copropriétaires n'a pas été en mesure de voter les modalités
+de réalisation des travaux prescrits par un des arrêtés de police administrative mentionnés aux
+mêmes articles et que le syndicat des copropriétaires est lui-même défaillant, chacun des
+copropriétaires est redevable du montant de l'astreinte correspondant à son lot de copropriété
+notifié par l'autorité publique compétente.
+
+Article 24-9
+
+Lorsque l'immeuble est pourvu d'un chauffage commun à tout ou partie des locaux occupés à
+titre privatif et fournissant à chacun de ces locaux une quantité de chaleur réglable par
+l'occupant et est soumis à l'obligation d'individualisation des frais de chauffage en application
+de l'article L. 241-9 du code de l'énergie, le syndic inscrit à l'ordre du jour de l'assemblée
+générale la question des travaux permettant de munir l'installation de chauffage d'un tel
+dispositif d'individualisation, ainsi que la présentation des devis élaborés à cet effet.
+Article 25
+
+Ne sont adoptées qu'à la majorité des voix de tous les copropriétaires les décisions concernant
+:
+
+a) Toute délégation du pouvoir de prendre l'une des décisions visées à l'article 24, ainsi que,
+lorsque le syndicat comporte au plus quinze lots à usage de logements, de bureaux ou de
+commerces, toute délégation de pouvoir concernant la mise en application et le suivi des
+travaux et contrats financés dans le cadre du budget prévisionnel de charges. Dans ce dernier
+cas, les membres du conseil syndical doivent être couverts par une assurance de responsabilité
+civile ;
+
+b) L'autorisation donnée à certains copropriétaires d'effectuer à leurs frais des travaux
+affectant les parties communes ou l'aspect extérieur de l'immeuble, et conformes à la
+destination de celui-ci ;
+
+c) La désignation ou la révocation du ou des syndics et des membres du conseil syndical ;
+
+d) Les conditions auxquelles sont réalisés les actes de disposition sur les parties communes ou
+sur des droits accessoires à ces parties communes, lorsque ces actes résultent d'obligations
+légales ou réglementaires telles que celles relatives à l'établissement de cours communes,
+d'autres servitudes ou à la cession de droits de mitoyenneté ;
+
+e) La modification de la répartition des charges visées à l'alinéa 1er de l'article 10 ci-dessus
+rendue nécessaire par un changement de l'usage d'une ou plusieurs parties privatives ;
+
+f) A moins qu'ils ne relèvent de la majorité prévue par l'article 24, les travaux d'économies
+d'énergie ou de réduction des émissions de gaz à effet de serre. Ces travaux peuvent
+comprendre des travaux d'intérêt collectif réalisés sur les parties privatives et aux frais du
+copropriétaire du lot concerné, sauf dans le cas où ce dernier est en mesure de produire la
+preuve de la réalisation de travaux équivalents dans les dix années précédentes.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent f.
+
+g) La suppression des vide-ordures pour des impératifs d'hygiène ;
+
+h) L'installation d'une station radioélectrique nécessaire au déploiement d'un réseau
+radioélectrique ouvert au public ou l'installation ou la modification d'une antenne collective
+ou d'un réseau de communications électroniques interne à l'immeuble dès lors qu'elles portent
+sur des parties communes ;
+
+i) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer
+dans les parties communes ;
+
+j) L'installation ou la modification des installations électriques intérieures permettant
+l'alimentation des emplacements de stationnement d'accès sécurisé à usage privatif pour
+permettre la recharge des véhicules électriques ou hybrides, ainsi que la réalisation des
+installations de recharge électrique permettant un comptage individuel pour ces mêmes
+véhicules ;
+k) L'installation de compteurs d'eau froide divisionnaires.
+
+l) L'installation de compteurs d'énergie thermique ou de répartiteurs de frais de chauffage ;
+
+m) L'autorisation de transmettre aux services chargés du maintien de l'ordre les images
+réalisées en vue de la protection des parties communes, dans les conditions prévues à l'article
+L. 126-1-1 du code de la construction et de l'habitation ;
+
+n) L'ensemble des travaux comportant transformation, addition ou amélioration ;
+
+o) La demande d'individualisation des contrats de fourniture d'eau et la réalisation des études
+et travaux nécessaires à cette individualisation.
+
+Article 25-1
+
+Lorsque l'assemblée générale des copropriétaires n'a pas décidé à la majorité prévue à l'article
+précédent mais que le projet a recueilli au moins le tiers des voix de tous les copropriétaires
+composant le syndicat, la même assemblée peut décider à la majorité prévue à l'article 24 en
+procédant immédiatement à un second vote.
+
+Lorsque le projet n'a pas recueilli au moins le tiers des voix de tous les copropriétaires, une
+nouvelle assemblée générale, si elle est convoquée dans le délai maximal de trois mois, peut
+statuer à la majorité de l'article 24.
+
+Le présent article n'est pas applicable aux décisions mentionnées aux n et o de l'article 25.
+
+Article 26
+
+Sont prises à la majorité des membres du syndicat représentant au moins les deux tiers des
+voix les décisions concernant :
+
+a) Les actes d'acquisition immobilière et les actes de disposition autres que ceux visés à
+l'article 25 d ;
+
+b) La modification, ou éventuellement l'établissement, du règlement de copropriété dans la
+mesure où il concerne la jouissance, l'usage et l'administration des parties communes ;
+
+c) Les modalités d'ouverture des portes d'accès aux immeubles. En cas de fermeture totale de
+l'immeuble, celle-ci doit être compatible avec l'exercice d'une activité autorisée par le
+règlement de copropriété ;
+
+d) La suppression du poste de concierge ou de gardien et l'aliénation du logement affecté au
+concierge ou au gardien lorsqu'il appartient au syndicat. Les deux questions sont inscrites à
+l'ordre du jour de la même assemblée générale.
+
+Lorsqu'en vertu d'une clause du règlement de copropriété la suppression du service de
+conciergerie porte atteinte à la destination de l'immeuble ou aux modalités de jouissance des
+parties privatives, la suppression du poste de concierge ou de gardien et l'aliénation du
+logement affecté au concierge ou au gardien lorsqu'il appartient au syndicat ne peuvent être
+décidées qu'à l'unanimité.
+L'assemblée générale ne peut, à quelque majorité que ce soit, imposer à un copropriétaire une
+modification à la destination de ses parties privatives ou aux modalités de leur jouissance,
+telles qu'elles résultent du règlement de copropriété.
+
+Elle ne peut, sauf à l'unanimité des voix de tous les copropriétaires, décider l'aliénation des
+parties communes dont la conservation est nécessaire au respect de la destination de
+l'immeuble.
+
+Article 26-3
+
+Par dérogation aux dispositions de l'avant-dernier alinéa de l'article 26, l'assemblée générale
+décide, à la double majorité qualifiée prévue au premier alinéa dudit article, les aliénations de
+parties communes et les travaux à effectuer sur celles-ci, pour l'application de l'article 25 de la
+loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la
+ville.
+
+NOTA :
+
+Le dernier alinéa de l'article 26 a été supprimé par l'article 59 de la loi n° 2014-366 du 24
+mars 2014. Son avant-dernier alinéa est donc devenu le dernier.
+
+Article 26-4
+
+L'assemblée générale ne peut, sauf à l'unanimité des voix des copropriétaires, décider la
+souscription d'un emprunt au nom du syndicat des copropriétaires pour le financement soit de
+travaux régulièrement votés concernant les parties communes ou de travaux d'intérêt collectif
+sur parties privatives régulièrement votés, soit des actes d'acquisition conformes à l'objet du
+syndicat et régulièrement votés.
+
+Par dérogation au premier alinéa, l'assemblée générale peut également, à la même majorité
+que celle nécessaire au vote des travaux concernant les parties communes ou de travaux
+d'intérêt collectif sur parties privatives, voter la souscription d'un emprunt au nom du syndicat
+des copropriétaires lorsque cet emprunt a pour unique objectif le préfinancement de
+subventions publiques accordées au syndicat pour la réalisation des travaux votés.
+
+Par dérogation au premier alinéa, l'assemblée générale peut, à la même majorité que celle
+nécessaire au vote soit des travaux concernant les parties communes ou de travaux d'intérêt
+collectif sur parties privatives, soit des actes d'acquisition conformes à l'objet du syndicat,
+voter la souscription d'un emprunt au nom du syndicat des copropriétaires au bénéfice des
+seuls copropriétaires décidant d'y participer.
+
+Les copropriétaires qui décident de participer à l'emprunt doivent notifier leur décision au
+syndic en précisant le montant de l'emprunt qu'ils entendent solliciter, dans la limite de leur
+quote-part des dépenses. A peine de forclusion, la notification au syndic doit intervenir dans
+le délai de deux mois à compter de la notification du procès-verbal d'assemblée générale pour
+les copropriétaires opposants ou défaillants et, pour les autres copropriétaires, à compter de la
+tenue de l'assemblée générale.
+Article 26-5
+
+Les prêts mentionnés à l'article 26-4 sont conformes aux prescriptions des articles L. 312-4, L.
+312-6, L. 313-1 et L. 313-2 du code de la consommation. Le contrat de prêt conclu en
+application du même article 26-4, conforme aux conditions générales et particulières du projet
+de contrat de prêt jointes à l'ordre du jour de l'assemblée générale, ne peut être signé par le
+syndic avant l'expiration du délai de recours de deux mois prévu au deuxième alinéa de
+l'article 42.
+
+Article 26-6
+
+Le montant de l'emprunt mentionné à l'article 26-4, qui ne peut excéder le montant total des
+quotes-parts de dépenses des copropriétaires décidant d'y participer, est versé par
+l'établissement bancaire au syndicat des copropriétaires, représenté par le syndic.
+
+Seuls les copropriétaires bénéficiant de l'emprunt sont tenus de contribuer :
+
+1° A son remboursement au syndicat, en fonction du montant pour lequel ils participent à
+l'emprunt et selon la grille générale établie pour la répartition des quotes-parts de dépenses
+selon les principes prévus aux articles 10, 10-1 et 30 ;
+
+2° Au paiement au syndicat des intérêts, des frais et des honoraires y afférents, en fonction du
+montant pour lequel ils participent à l'emprunt et selon la grille spécifique établie pour la
+répartition des accessoires.
+
+L'assemblée générale peut autoriser le syndic, dans les conditions prévues au IV de l'article
+18, à déléguer à l'établissement prêteur la faculté de prélever les sommes dues au titre du
+remboursement de l'emprunt collectif et du paiement des accessoires directement sur les
+comptes bancaires des copropriétaires y participant, ainsi qu'à mettre en œuvre les voies de
+recouvrement en cas d'impayé.
+
+Article 26-7
+
+Le syndicat des copropriétaires est garanti en totalité, sans franchise et sans délai de carence,
+par un cautionnement solidaire après constat de la défaillance d'un copropriétaire bénéficiant
+de l'emprunt mentionné à l'article 26-4 pour les sommes correspondant à son remboursement
+ainsi qu'au paiement des accessoires.
+
+Le cautionnement solidaire ne peut résulter que d'un engagement écrit fourni par une
+entreprise d'assurance spécialement agréée, par un établissement de crédit, une société de
+financement ou une institution mentionnée à l'article L. 518-1 du code monétaire et financier.
+
+Le cautionnement solidaire prévu aux deux premiers alinéas est facultatif lorsque le prêt
+souscrit par le syndicat a pour unique objectif le préfinancement de subventions publiques
+accordées au syndicat pour la réalisation des travaux votés. Les décisions attributives de
+subventions sont alors obligatoirement communiquées à l'organisme prêteur par le syndic.
+Au regard du privilège prévu au 1° bis de l'article 2374 du code civil, les sommes
+correspondant au remboursement de l'emprunt ainsi qu'au paiement des accessoires sont
+assimilées au paiement des charges et travaux. Après mise en œuvre de la caution, celle-ci est
+subrogée de plein droit dans l'exercice du privilège du syndicat des copropriétaires prévu au
+même 1° bis.
+
+Article 26-8
+
+Lors d'une mutation entre vifs du lot d'un copropriétaire bénéficiant de l'emprunt mentionné à
+l'article 26-4, même si cette mutation est réalisée par voie d'apport en société, les sommes
+restant dues par le copropriétaire au titre du remboursement de l'emprunt ainsi que du
+paiement des accessoires deviennent immédiatement exigibles. Toutefois, en cas d'accord du
+prêteur et de la caution, l'obligation de payer ces sommes peut être transmise au nouveau
+copropriétaire avec son accord. Le notaire informe le syndic de ces accords.
+NOTA :
+
+Loi n° 2012-387 du 22 mars 2012, article 103 II et III : les modalités d'application de ces
+dispositions sont fixées par décret en Conseil d'Etat, elles sont applicables à l'expiration d'un
+délai de deux mois suivant la publication dudit décret. Le décret d'application n° 2013-205 du
+11 mars 2013 a été publié au JORF du 13 mars 2013 (entrée en vigueur de l'article 26-8 : 13
+mai 2013).
+
+Article 27
+
+Lorsque l'immeuble comporte plusieurs bâtiments, les copropriétaires dont les lots composent
+l'un ou plusieurs de ces bâtiments peuvent, réunis en assemblée spéciale, décider, aux
+conditions de majorité prévues à l'article 25, la constitution entre eux d'un syndicat, dit
+secondaire.
+
+Ce syndicat a pour objet d'assurer la gestion, l'entretien et l'amélioration interne de ce ou ces
+bâtiments, sous réserve des droits résultants pour les autres copropriétaires des dispositions du
+règlement de copropriété. Cet objet peut être étendu avec l'accord de l'assemblée générale de
+l'ensemble des copropriétaires statuant à la majorité prévue à l'article 24.
+
+Le syndicat secondaire est doté de la personnalité civile. Il fonctionne dans les conditions
+prévues par la présente loi. Il est représenté au conseil syndical du syndicat principal, s'il en
+existe un.
+
+Article 28
+
+I.-Lorsque l'immeuble comporte plusieurs bâtiments et que la division de la propriété du sol
+est possible :
+
+a) Le propriétaire d'un ou de plusieurs lots correspondant à un ou plusieurs bâtiments peut
+demander que ce ou ces bâtiments soient retirés du syndicat initial pour constituer une
+propriété séparée. L'assemblée générale statue sur la demande formulée par ce propriétaire à
+la majorité des voix de tous les copropriétaires ;
+
+b) Les propriétaires dont les lots correspondent à un ou plusieurs bâtiments peuvent, réunis en
+assemblée spéciale et statuant à la majorité des voix de tous les copropriétaires composant
+cette assemblée, demander que ce ou ces bâtiments soient retirés du syndicat initial pour
+constituer un ou plusieurs syndicats séparés. L'assemblée générale du syndicat initial statue à
+la majorité des voix de tous les copropriétaires sur la demande formulée par l'assemblée
+spéciale.
+
+II.-Dans les deux cas, l'assemblée générale du syndicat initial statue à la même majorité sur
+les conditions matérielles, juridiques et financières nécessitées par la division.
+
+L'assemblée générale du ou des nouveaux syndicats, sauf en ce qui concerne la destination de
+l'immeuble, procède, à la majorité de l'article 24, aux adaptations du règlement initial de
+copropriété et de l'état de répartition des charges rendues nécessaires par la division.
+
+La répartition des créances et des dettes est effectuée selon les principes suivants :
+
+1° Les créances du syndicat initial sur les copropriétaires anciens et actuels et les hypothèques
+du syndicat initial sur les lots des copropriétaires sont transférées de plein droit aux syndicats
+issus de la division auquel le lot est rattaché, en application du 3° de l'article 1251 du code
+civil ;
+
+2° Les dettes du syndicat initial sont réparties entre les syndicats issus de la division à hauteur
+du montant des créances du syndicat initial sur les copropriétaires transférées aux syndicats
+issus de la division.
+
+III.-Si l'assemblée générale du syndicat initial décide de constituer une union de syndicats
+pour la création, la gestion et l'entretien des éléments d'équipements communs qui ne peuvent
+être divisés, cette décision est prise à la majorité de l'article 24.
+
+Le règlement de copropriété du syndicat initial reste applicable jusqu'à l'établissement d'un
+nouveau règlement de copropriété du syndicat ou de chacun des syndicats selon le cas.
+
+La division ne prend effet que lorsque sont prises les décisions mentionnées aux alinéas
+précédents. Elle emporte la dissolution du syndicat initial.
+
+IV.-Après avis du maire de la commune de situation de l'immeuble et autorisation du
+représentant de l'Etat dans le département, la procédure prévue au présent article peut
+également être employée pour la division en volumes d'un ensemble immobilier complexe
+comportant soit plusieurs bâtiments distincts sur dalle, soit plusieurs entités homogènes
+affectées à des usages différents, pour autant que chacune de ces entités permette une gestion
+autonome. Si le représentant de l'Etat dans le département ne se prononce pas dans les deux
+mois, son avis est réputé favorable.
+
+La procédure ne peut en aucun cas être employée pour la division en volumes d'un bâtiment
+unique.
+
+En cas de division en volumes, la décision de constituer une union de syndicats pour la
+création, la gestion et l'entretien des éléments d'équipements à usage collectif est prise à la
+majorité mentionnée à l'article 25.
+
+Par dérogation au troisième alinéa de l'article 29, les statuts de l'union peuvent interdire à ses
+membres de se retirer de celle-ci.
+                           Annexe 2
+
+
+
+Mieux partager l’espace grâce à la mutualisation du stationnement
+
+
+
+              Par Éric GANTELET et Philippe TAITHE
+                                                                                       LA BOÎTE À OUTILS
+
+[ VOITURE ET VOIRIE ]
+
+Mieux partager l’espace grâce
+à mutualisation du stationnement
+Par Eric GANTELET, président du bureau d’études Sareco, et Philippe TAITHE,
+cabinet d’avocats Benesty Taithe Panassac
+
+
+
+On parle beaucoup d’autopartage et le concept commence à se développer en France.
+Une version plus légère de partage consiste à partager sa place de stationnement ou son parking.
+Moins impactant en termes de bouleversement des pratiques de mobilité, le concept de « mutualisation » des parcs
+de stationnement n’en reste pas moins complexe à mettre en œuvre. Son développement, dans les nouveaux
+quartiers notamment, peut constituer un premier pas accompagnant les évolutions du rapport
+des automobilistes à leur voiture et un levier pour libérer les quartiers du poids des automobiles.
+
+
+
+La place accordée dans la ville aux       ment a acquis un nouveau statut : les      porteur de contradictions : une part
+voitures particulières est en train       acteurs ont appris à le considérer non     seulement du stationnement est au-
+d’évoluer, notamment dans les agglo-      plus seulement comme un mal né-            jourd’hui placée sous maîtrise pu-
+mérations françaises. A l’ère du « tout   cessaire, consommateur d’espace,           blique tandis que le reste, sous maî-
+voiture », qui n’a guère épargné les      mais comme indissociable des pra-          trise le plus souvent d’opérateurs
+villes jusque dans les années 1990,       tiques de déplacement. De fait, il est à   privés, échappe à l’action politique
+succède depuis plus de dix ans une        la fois cause et conséquence des           large et concertée au-delà de l’ins-
+démarche de questionnement sur            usages de la voiture, tantôt indispen-     truction des permis de construire. Cet
+l’aménagement urbain, qui vise à          sable, tantôt indésirable, souvent po-     état de fait a entraîné, d’une part, des
+mieux répartir l’espace entre les         lémique, éminemment politique.             dérives dans les usages du station-
+différents modes de transport et les      Fruit des orientations suivies à la fin    nement sur voirie et, d’autre part, la
+différents usages.                        du XXe siècle, l’organisation du sta-      dégradation et la désertion de cer-
+Dans cette démarche, le stationne-        tionnement est en France un thème          tains parkings privés.
+
+> Qu’est-ce qu’un parc mutualisé ?
+La mutualisation du stationnement         immobilier, accompagnée de la créa-        ■ La gestion d’un parking com-
+est un concept qui consiste en la         tion de parkings mutualisés rassem-        mun ou « mutualisé » peut s’envi-
+limitation de l’offre privée sous         blant les besoins complémentaires de       sager de deux façons :
+immeuble associée à chaque projet         plusieurs projets proches.                                                           >
+
+
+                                                    SOMMAIRE
+             • Voiture et voirie. Mieux partager l’espace grâce à la mutualisation du stationnement
+         • Veille juridique. Taxis : les pouvoirs des maires en matière d’autorisation de stationnement
+                           • L’anglais du transport. Algiers: A Metro for the White CIty
+                                                      • Agenda
+                                                  • Offres d’emploi
+                                                  • Appels d’offres
+
+
+
+                                                                                         Ville Rail & Transports - 14/12/2011 • 75
+LA BOÎTE À OUTILS
+
+ Le concept de mutualisation                                                          • Sous forme d’une gestion nomi-
+                                                                                      native des places : c’est-à-dire que
+                                                                                      chaque équipement dispose de
+                                                                                      places privatives identifiées et exclu-
+                                                                                      sivement utilisées pour son usage
+                                                                                      propre. Le gain de la mutualisation
+                                                                                      provient alors, entre autres, d’une éco-
+                                                                                      nomie de construction (« effet
+                                                                                      d’échelle » : mutualisation des rampes
+                                                                                      et des accès notamment) et permet
+                                                                                      une plus grande liberté au niveau ur-
+                                                                                      banistique en limitant les effets de
+                                                                                      coupure liés aux rampes d’accès,
+                                                                                       notamment ;
+
+                                                                                      • Sous forme d’une gestion foison-
+ Méthode de dimensionnement de la capacité                                            née des places : c’est-à-dire qu’une
+ des parkings mutualisés                                                              place peut être utilisée alternative-
+                                                                                      ment par plusieurs usagers fréquen-
+                                                                                      tant les différents équipements (par
+                                                                                      exemple, les résidents la nuit, les ac-
+                                                                                      tifs des bureaux en journée de se-
+                                                                                      maine, les clients des commerces le
+                                                                                      samedi). Le foisonnement permet de
+                                                                                      réduire le nombre de places
+                                                                                      construites par rapport à une gestion
+                                                                                      privative ; en contrepartie, il exige une
+                                                                                      gestion plus fine : nombre d’abon-
+                                                                                      nés/de badges distribués, nombre
+                                                                                      d’usagers horaires accueillis en fonc-
+                                                                                      tion du niveau de remplissage du
+                                                                                      parking, etc.
+
+> Les avantages liés à la mutualisation du stationnement
+De manière intrinsèque, la mutualisa-       Les secteurs en mutation, à l’heure       pour les logements peut être liée à
+tion du stationnement peut s’avérer         actuelle, sont marqués par des            une volonté de dissocier les loge-
+un outil utile en tant qu’elle permet un    contraintes de sol lourdes : friche in-   ments des garages, afin de « mettre
+dimensionnement optimisé de l’offre         dustrielle avec des terrains pollués,     la voiture à distance ». Dans ce cadre,
+privative. Elle présente de multiples       présence d’eau assez rapidement dès       les enquêtes montrent que les rési-
+avantages.                                  qu’on creuse… La création de parcs        dents ont tendance à limiter leur fré-
+                                            mutualisés peut limiter l’impact de ces   quence d’utilisation de la voiture,
+■ Optimisation économique                   contraintes sur les projets et sur leur   notamment pour les très courtes dis-
+En faisant jouer la banalisation des        coût.                                     tances. Ces parcs peuvent ainsi s’avé-
+places entre des usages qui s’y prê-                                                  rer des outils intéressants pour ac-
+tent, on peut espérer réaliser une éco-     ■ Un accompagnement plus effi-            compagner les démotorisations
+nomie pouvant atteindre jusqu’à un          cace des politiques de mobilité           parfois souhaitées/attendues dans le
+tiers des places.                           La mutualisation du stationnement         cadre d’améliorations des niveaux de
+
+
+ Quand le parking se transforme en centrale de mobilité
+ Les parkings mutualisés peuvent dans certains cas se transformer également en des lieux offrant des prestations venant
+ en complément des offres classiques du transport. De véritables pôles multimodaux où différents services à la mobilité
+ peuvent être proposés: autopartage, covoiturage, location de voitures de longue durée, gardiennage/location de vélos,
+ information sur les transports en commun, livraison déportée… Le parking devient alors un outil essentiel au service
+ de la politique de la ville.
+
+
+76 • Ville Rail & Transports - 14/12/2011
+                                                                                                  VOITURE ET VOIRIE
+
+
+ Quelques conseils
+ Si le concept de mutualisation est séduisant et fait souvent consensus, sa mise en œuvre opérationnelle peut se révéler plus
+ ardue. Il entre difficilement dans les montages « habituels » des opérations d’aménagement.
+ • Sa mise en place dans les nouveaux quartiers doit passer par :
+ – une nécessaire implication des partenaires très en amont, le sujet étant innovant et complexe pour les
+ promoteurs, habitués qu’ils sont aux montages « tout privé »,
+ – une réflexion importante sur le montage opérationnel (notamment sur le porteur financier du projet),
+ – un peu de communication auprès des automobilistes, pour beaucoup, encore attachés à « leur » place privative.
+ • Deux points à surveiller particulièrement :
+ – la question du phasage : il s’agit d’un point d’achoppement fréquent. Le parking mutualisé doit souvent être construit
+ avant que l’ensemble de l’opération soit achevé. Il est nécessaire de prévoir soit des parkings provisoires, soit un portage
+ financier pour les périodes intermédiaires,
+ – le contexte réglementaire : la réalisation d’un parking mutualisé peut par exemple dans certains cas être conditionné à
+ la révision des normes du PLU (article 12).
+
+
+desserte en transport en commun.           la demande. Au contraire, les parcs à       parkings sous immeuble est difficile,
+Plus globalement ces parkings sont         usage privatif et notamment de bail-        celle des parkings mutualisés est
+également l’occasion de mettre à dis-      leurs sociaux, dont le calibrage ne cor-    mieux organisable : démolition-
+position de leurs usagers des services     respond pas à la demande actuelle et        reconstruction quand il s’agit de parc
+plus performants et modulables que         encore moins à celle future, sont sou-      en silo, parkings conçus de façon à
+ceux envisageables dans des parkings       vent largement inexploités et dégra-        être « mutables »...
+sous immeubles.                            dés. En fixant dès le lancement de
+                                           l’opération une offre connue et ratio-      ■ Plus de liberté urbanistique
+■ Une meilleure adéquation aux             nalisée à destination de chaque pu-         La création d’un parking commun per-
+besoins et à leurs évolutions dans         blic, on se prémunit contre le grand        met de limiter l’impact des rampes
+le temps                                   nombre de places vides dans les             d’accès sur les espaces publics. De
+Les immeubles et leur population évo-      parcs privés, qui alimente le cercle vi-    plus, la mutualisation du stationne-
+luent, tandis que la capacité des ga-      cieux de la dégradation progressive et      ment permet de réduire la place de la
+rages privés associés reste stable. La     de la désertion, conduisant de surcroît     voiture dans le quartier, d’y diminuer
+mutualisation permet une meilleure         à un envahissement de la voirie.            la circulation automobile et donc de
+adaptation dans la durée de l’offre à      Par ailleurs, si la mutation d’usage des    créer un cadre de vie plus convivial.
+
+ Les entrepôts Macdonald, à Paris
+ Il s’agit d’une opération de 165 000 m². Le sous-sol du bâtiment existant est réaménagé en deux niveaux de parkings:
+ En R-1, 600 places de parkings privatifs résidentiels cédés aux opérateurs logements (pas de gestion foisonnée
+ des places attenantes aux logements),
+ En R-2, parking privé mutualisé sans places nominatives de 700 places ouvert au public et commercialisé auprès
+ d’un investisseur/exploitant, couvrant les besoins des bureaux, commerces, activités ainsi qu’une partie
+ des besoins du quartier attenant.
+
+
+> Maîtrise publique ou maîtrise privée ?
+D’une façon générale, le parking           sur la base de places banalisées.           vention a priori nécessaire d’un ex-
+commun ou « mutualisé » peut se                                                        ploitant de parking va augmenter les
+trouver :                                  • sous maîtrise privée, ce qui              charges de la copropriété, etc.
+                                           n’exclut pas nécessairement le fait         Il est alors parfois préférable d’envi-
+• sous maîtrise publique : le parc         que le parking soit ouvert au public.       sager la constitution d’associations
+a dans ce cas souvent vocation à ac-       Pour une copropriété, une ouverture         syndicales libres (ASL) ou d’asso-
+cueillir un public composé d’usagers       au public dans le cadre d’une ges-          ciations foncières urbaines libres
+horaires (il est payant pour du sta-       tion foisonnée des places va être gé-       (AFUL), qui prévoient dès le départ
+tionnement de courte durée) mais il        néralement plus délicate à mettre en        la banalisation des places et leur
+existe des cas de parkings d’abon-         place : certains résidents vont se          ouverture au public, et dont les sta-
+nés maîtrisés par la collectivité ou       montrer réticents à voir entrer des         tuts s’imposent aux acquéreurs de
+des parcs à usage mixte, le tout           usagers extérieurs chez eux, l’inter-       places.
+
+                                                                                            Ville Rail & Transports - 14/12/2011 • 77
+LA BOÎTE À OUTILS
+JD Billaud/Nautilus
+
+
+
+
+               Le parking des Machines, sur l’Ile de Nantes
+               La présence d’eau à faible profondeur engendre sur l’Ile de Nantes des difficultés constructives pour la création
+               de parkings souterrains. La collectivité a donc souhaité mettre en place des normes faibles pour les parkings privés associés
+               à la création d’un parking public silo mutualisé de 900 places. Le montage adopté a été le suivant:
+               – construction par un des promoteurs d’un parc de stationnement de 900 places: utilisation d’une partie des places
+               pour son compte propre (300 places),
+               – vente en état de futur achèvement (VEFA) à la collectivité du reste des places (600 places),
+               – mise en affermage du parc de stationnement par la ville et amodiations d’une partie des places pour les opérations
+               non autonomes en parking.
+
+
+> Un contexte réglementaire contraint
+Le Code de l’urbanisme introduit au                      • En second lieu, si tel ne peut être       qu’elle limite les possibilités de créa-
+travers de son article L 123-12-1 une                    le cas en raison d’une impossibilité, il    tion de places de stationnement sur
+hiérarchie des solutions de stationne-                   peut s’exonérer de cette obligation par     les terrains privés au travers des ca-
+ment mises en place pour satisfaire                      la prise de concession à long terme         hiers des charges de cession, de telle
+les obligations prévues en la matière                    ou l’achat de places de stationnement       sorte que les promoteurs sont alors
+au PLU                                                   dans un parc voisin. Cette disposition      conduits à prendre des concessions
+                                                         devrait permettre la mutualisation          à long terme dans les parcs publics,
+• En premier lieu, une personne dé-                      « publique » en favorisant par ce biais     ce qui peut contribuer largement à
+posant un permis de construire doit                      la construction de parcs publics. Elle la   leur financement, sans obérer leur ca-
+être en mesure de réaliser ses places                    limite néanmoins fortement par cette        pacité de mutualisation.
+de stationnement sur le terrain qui ac-                  exigence d’impossibilité qui peut être
+cueille la construction ou sur un ter-                   juridique, administrative, technique ou     • En troisième lieu, si aucune de
+rain dans un périmètre de l’ordre de                     architecturale. Dans certaines hypo-        ces deux premières hypothèses n’a pu
+300 mètres. Cette disposition permet                     thèses, cette impossibilité peut être       être mise en œuvre, il peut s’acquitter
+la mutualisation « privée » par la                       « créée », le cas échéant, par la col-      de la participation pour non-
+construction de parcs communs à dif-                     lectivité publique dans le cadre d’une      réalisation d’aires de stationnement. Il
+férentes opérations dans un périmè-                      opération d’aménagement lorsqu’elle         s’agit donc simplement d’une ultime
+tre relativement proche.                                 dispose de la maîtrise foncière et          alternative.
+
+78 • Ville Rail & Transports - 14/12/2011
+                                                                                                VOITURE ET VOIRIE
+
+> Les montages possibles
+
+ Le parking mutualisé de la porte des Lilas, à Paris
+           La ZAC de la porte des Lilas
+     à Paris comprend l’aménagement
+            d’un secteur de 25 hectares
+    pour une surface globale construite
+       de 125 000 m² SHON (surface
+     hors œuvre nette). Dans ce cadre,
+   un parc de stationnement mutualisé
+          de 250 places a été construit.
+            Ce parc dessert à la fois les
+      besoins des employés de bureau
+       (en journée de semaine) et ceux
+        des activités de loisir – cinéma
+         et cirque permanent (en soirée
+          et le week-end). Le parc reste
+   dans le giron privé avec un montage
+                      astucieux présenté
+               dans le schéma ci-contre.
+
+
+On distingue plusieurs types de mon-        de la construction directement par        dans le « giron » privé, mais avec
+tage en fonction notamment du por-          la ville.                                 « obligation » faite à l’investisseur le
+teur de l’investissement.                                                             construisant de l’ouvrir sur l’extérieur
+                                            • Portage par l’aménageur : dans          pour couvrir les besoins des autres
+• Portage par la collectivité : le          ce cas, le parking est intégré au bilan   promoteurs (par exemple, le parking
+montage peut passer soit par la réali-      de Zac et fait partie des équipements     des entrepôts Macdonald).
+sation par un promoteur d’un parc de        à financer.                               Les montages imaginés peuvent être
+stationnement et sa revente à la ville,                                               plus ou moins complexes et sont à
+qui se charge de la commercialisation       • Portage par un promoteur : il           adapter à chaque cas d’espèce (voir
+des places, soit par la prise en charge     s’agit dans ce cas de parkings restant    encadré ci-dessous).
+
+> Conclusion
+Si la mutualisation du stationnement        collectivités publiques, qui craignent    des écoquartiers, notamment.
+constitue aujourd’hui un concept sé-        l’échec de leurs opérations d’aména-      Le rôle des collectivités publiques
+duisant et reconnu, sa mise en œu-          gement en cas de stationnement            n’en reste pas moins déterminant en
+vre est souvent freinée par une forme       « insuffisant ».                          la matière soit par incitation, soit par
+de frilosité générale, celle des pro-       Elle n’en finira pas moins sans doute     intervention directe par la réalisation
+moteurs qui craignent de ne pouvoir         par s’imposer directement ou indi-        de parcs mutualisés, ce qui n’em-
+vendre bureaux ou logements sans            rectement, de par l’évolution de          pêche que certaines opérations pri-
+places attitrées, celle des acheteurs       la place de la voiture au sein de la      vées ont d’ores et déjà mesuré les
+et plus généralement celle des pos-         cité, de son coût, du caractère de plus   avantages de la mutualisation en la
+sesseurs de places plus ou moins uti-       en plus contraint des opérations          mettant en œuvre directement,
+lisées qui ne cherchent pas à en ren-       urbaines limitant les possibilités de     comme on peut régulièrement le
+tabiliser l’utilisation, voire celle des    stationnement ou le développement         constater.                            ❏
+
+ Sareco
+ Le cabinet Sareco est un bureau d’études spécialisé dans le domaine du stationnement depuis plus de trente-cinq ans.
+ Il consacre une part conséquente de son activité au développement de parkings mutualisés sur le plan conceptuel
+ et sur celui de sa mise en œuvre. L’essentiel des exemples présentés dans cet article est issu de ses études. Sareco
+ organise régulièrement en collaboration avec le cabinet Benesty Taithe Panassac des formations sur la mise en œuvre
+ de parcs mutualisés.
+ Tél.: 01 42 46 22 66 – egantelet@sareco.fr www.sareco.fr
+
+
+                                                                                          Ville Rail & Transports - 14/12/2011 • 79
+ La prise en compte de la diversité des activités lors de la rédaction du
+    règlement de copropriété d'un ensemble immobilier complexe
+
+
+                       Mémoire de Master du CNAM, MALOT 2016
+
+
+
+
+                                           Résumé
+
+Les ensembles immobiliers complexes peuvent être gérés soit en copropriété soit en division
+en volumes.
+Le choix de la copropriété s’impose parfois, malgré la divergence d’intérêts des propriétaires.
+La gestion de l’immeuble est alors soumise au régime de la copropriété issu de la loi du 10
+juillet 1965 et de son décret d’application du 17 mars 1967.
+Outres les adaptations possibles (création du syndicat secondaire, de parties communes
+spéciales…) pour simplifier la gestion des grands ensembles, le rédacteur du règlement de
+copropriété est libre d’ajouter à ce dernier des clauses particulières qui doivent toutefois être
+compatibles avec le règlement de copropriété. Ces clauses porteront sur les éléments qui
+nécessitent l’attention la plus particulière dans les ensembles immobiliers complexes, les lots
+à destination commerciale et la gestion des stationnements notamment.
+
+Mots clés : Copropriété, ensembles immobiliers complexes, règlement de copropriété,
+clauses, destination
+
+                                          Abstract
+All the real estate complex assets can be managed either by condominium or by division by
+volumes.
+The choice of the condominium sometimes can be constrained despite the divergence of the
+owners’ interests.
+The management of the building is submitted to the system of condominium derived from the
+law of 10th of July 1965 and from the legislative decree of 17th of March 1967.
+In addition to possible adjustments (creation of a secondary union, special common parts...)
+and in order to simplify the management of large buildings, the editor of the condominium
+rules is able to add particular clauses that must be compatible with the condominium
+regulation. These clauses will concern in particular the elements which require the most
+particular intention in this type of building: commercial lots and parking management.
+
+Keywords: condominium, real estate complex, condominium regulation, clauses, destination
+

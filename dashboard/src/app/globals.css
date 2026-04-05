@@ -1,0 +1,238 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════
+   NOTHING DESIGN TOKENS — wiki-copro dashboard
+   Monochrome, typographie first. Forme = fond.
+   ═══════════════════════════════════════════════════ */
+
+@theme {
+  /* Fonts — system stack (Space Grotesk/Mono via CDN when network available) */
+  --font-body: 'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Space Mono', 'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+}
+
+:root {
+  /* ── Surfaces ── */
+  --bg-0: #000000;        /* OLED black — fond principal */
+  --bg-1: #0a0a0a;        /* cards, panneaux */
+  --bg-2: #141414;        /* hover, actif */
+  --bg-3: #1a1a1a;        /* input, sélection */
+
+  /* ── Bordures ── */
+  --border: #1f1f1f;
+  --border-hi: #333333;
+
+  /* ── Texte — 3 couches ── */
+  --tx-hi: #ffffff;       /* Display : KPIs, titres */
+  --tx-md: #e0e0e0;       /* Body : contenu principal */
+  --tx-lo: #666666;       /* Metadata : dates, tags, labels */
+  --tx-muted: #404040;    /* Placeholders, désactivé */
+
+  /* ── Accent ── */
+  --accent: #ffffff;
+  --accent-hover: #cccccc;
+
+  /* ── Statuts sémantiques (seules couleurs autorisées) ── */
+  --ok: #22c55e;
+  --warn: #f59e0b;
+  --err: #ef4444;
+  --info: #3b82f6;
+
+  /* ── DISC colors (très subtils, jamais saturés) ── */
+  --disc-d: #ef4444;      /* Dominance */
+  --disc-i: #f59e0b;      /* Influence */
+  --disc-s: #22c55e;      /* Steadiness */
+  --disc-c: #3b82f6;      /* Compliance */
+
+  /* ── Spacing — grille 4px ── */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-6: 1.5rem;
+  --s-8: 2rem;
+  --s-12: 3rem;
+  --s-16: 4rem;
+
+  /* ── Typography scale ── */
+  --text-display: 3rem;
+  --text-heading: 1.5rem;
+  --text-body: 1rem;
+  --text-meta: 0.6875rem;
+  --text-mono: 0.875rem;
+}
+
+/* ── Reset & base ── */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: var(--bg-0);
+  color: var(--tx-md);
+  font-family: var(--font-body);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--bg-0);
+  min-height: 100vh;
+}
+
+/* ── Scrollbar Nothing-style ── */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-0);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-hi);
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--tx-muted);
+}
+
+/* ── Selection ── */
+::selection {
+  background: var(--tx-hi);
+  color: var(--bg-0);
+}
+
+/* ── Focus ring ── */
+:focus-visible {
+  outline: 1px solid var(--border-hi);
+  outline-offset: 2px;
+}
+
+/* ── Utilities ── */
+.font-display {
+  font-size: var(--text-display);
+  font-family: var(--font-mono);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  color: var(--tx-hi);
+  line-height: 1;
+}
+
+.font-heading {
+  font-size: var(--text-heading);
+  font-family: var(--font-body);
+  font-weight: 500;
+  color: var(--tx-hi);
+  line-height: 1.2;
+}
+
+.font-meta {
+  font-size: var(--text-meta);
+  font-family: var(--font-body);
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--tx-lo);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+  font-size: var(--text-mono);
+  color: var(--tx-md);
+}
+
+/* ── Card ── */
+.card {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  transition: border-color 0.15s ease;
+}
+
+.card:hover {
+  border-color: var(--border-hi);
+}
+
+/* ── Segment bar ── */
+.seg-active {
+  color: var(--tx-hi);
+}
+.seg-inactive {
+  color: var(--tx-muted);
+}
+
+/* ═══════════════════════════════════════════════════
+   ANIMATIONS — forme = fond qui remonte à la surface
+   ═══════════════════════════════════════════════════ */
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.25; }
+}
+
+@keyframes growBar {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+
+@keyframes scanIn {
+  from { opacity: 0; clip-path: inset(0 100% 0 0); }
+  to   { opacity: 1; clip-path: inset(0 0% 0 0); }
+}
+
+/* ── Entrance stagger ── */
+.stagger-0 { animation: fadeUp 0.35s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.stagger-1 { animation: fadeUp 0.35s 0.06s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.stagger-2 { animation: fadeUp 0.35s 0.12s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.stagger-3 { animation: fadeUp 0.35s 0.18s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.stagger-4 { animation: fadeUp 0.35s 0.24s cubic-bezier(0.16, 1, 0.3, 1) both; }
+.stagger-5 { animation: fadeUp 0.35s 0.30s cubic-bezier(0.16, 1, 0.3, 1) both; }
+
+/* ── Animated fill bar ── */
+.bar-fill {
+  transform-origin: left center;
+  animation: growBar 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: 0.3s;
+}
+
+/* ── Signal banner backgrounds ── */
+.signal-warn { background: rgba(245, 158, 11, 0.04); }
+.signal-ok   { background: rgba(34, 197, 94, 0.04); }
+.signal-err  { background: rgba(239, 68, 68, 0.04); }
+
+/* ── Tappable row ── */
+.row-tap {
+  transition: background 0.12s ease;
+  cursor: pointer;
+}
+.row-tap:hover {
+  background: var(--bg-2);
+}
+
+/* ── Domain cell hover ── */
+.domain-cell {
+  transition: background 0.15s ease;
+  cursor: default;
+}
+.domain-cell:hover {
+  background: var(--bg-2) !important;
+}

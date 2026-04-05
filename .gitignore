@@ -1,0 +1,46 @@
+# Données sensibles — NE JAMAIS PUBLIER
+wiki/meta/
+
+# Outputs générés (optionnel selon usage)
+# outputs/
+# Décommenter si on ne veut pas versionner les rapports générés
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Éditeurs
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.vscode/
+
+# Temporaires
+*.tmp
+*.bak
+
+# Claude Code logs
+.claude/command-log.txt
+
+# Gros médias (stocker sur Drive, référencer par lien dans source:)
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.mp4
+*.mov
+
+# Exports Granola bruts avant traitement via granola-import.sh
+raw/granola-raw/
+
+# Dashboard — build artifacts
+dashboard/.next/
+dashboard/node_modules/
+dashboard/tsconfig.tsbuildinfo

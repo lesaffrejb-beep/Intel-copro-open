@@ -1,0 +1,118 @@
+name: wiki-lint
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wiki/**'
+      - 'raw/**'
+      - 'scripts/**'
+      - 'dashboard/**'
+  pull_request:
+    paths:
+      - 'wiki/**'
+      - 'raw/**'
+      - 'scripts/lint.sh'
+      - 'scripts/metrics.sh'
+      - 'scripts/sources-catalog.sh'
+      - 'dashboard/**'
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Nécessaire pour pouvoir committer les rapports générés
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ripgrep python3
+
+      - name: Make scripts executable
+        run: chmod +x scripts/*.sh
+
+      - name: Run wiki linter
+        id: lint
+        run: |
+          ./scripts/lint.sh
+          echo "lint_status=ok" >> "$GITHUB_OUTPUT"
+        continue-on-error: true
+
+      - name: Run metrics dashboard
+        run: ./scripts/metrics.sh
+
+      - name: Run sources catalog
+        run: ./scripts/sources-catalog.sh
+
+      - name: Upload reports as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: wiki-reports-${{ github.run_number }}
+          path: |
+            outputs/lint-report.md
+            outputs/metrics.md
+            outputs/sources-catalog.md
+
+      - name: Commit reports to repo
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/lint-report.md outputs/metrics.md outputs/sources-catalog.md
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans les rapports — skip commit."
+          else
+            git commit -m "chore: mise à jour automatique des rapports wiki [skip ci]"
+            git push
+          fi
+
+      - name: Job summary
+        run: |
+          echo "## Wiki Health Summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f outputs/metrics.md ]; then
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            cat outputs/metrics.md >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if [ -f outputs/lint-report.md ]; then
+            echo "### Lint" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            tail -20 outputs/lint-report.md >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Fail si erreurs critiques de lint
+        if: steps.lint.outcome == 'failure'
+        run: |
+          echo "❌ Le linter a détecté des erreurs critiques. Voir outputs/lint-report.md pour le détail."
+          exit 1
+
+  dashboard:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: dashboard
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: dashboard/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: TypeScript check
+        run: npx tsc --noEmit
+
+      - name: Build production
+        run: npm run build
