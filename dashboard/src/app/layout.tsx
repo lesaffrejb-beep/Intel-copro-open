@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Le Présent — wiki-copro',
-  description: 'Dashboard de gestion de copropriété · Antoine Immobilier',
+  description: 'Dashboard de gestion de copropriété · copro-intel',
 }
 
 export default function RootLayout({

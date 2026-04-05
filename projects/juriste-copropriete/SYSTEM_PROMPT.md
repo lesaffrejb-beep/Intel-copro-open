@@ -1,5 +1,5 @@
 ---
-source: Construit pour Project Claude — usage interne Jean-Baptiste
+source: Construit pour Project Claude — usage Project Claude
 date_ajout: 2026-04-03
 statut: template
 tags: [project-claude, juriste, copropriete, loi-65-557]

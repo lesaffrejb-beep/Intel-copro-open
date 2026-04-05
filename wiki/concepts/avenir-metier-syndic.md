@@ -121,11 +121,11 @@ Le rapport CNH souleve un point technique important sur la couverture des fonds 
 - Proposition : alleger le contrat type ALUR pour les petites coproprietes en limitant les obligations a la preparation/tenue d'une AG annuelle et a l'etablissement de la comptabilite
 - Le rapport souligne que ces immeubles representent un enjeu majeur pour la transition energetique, notamment en communes rurales
 
-## Application pratique pour Antoine Immobilier
+## Application pratique pour un cabinet syndic
 
 1. **Valoriser le temps passé** sur les dossiers complexes (PPT, sinistres, copropriétés en difficulté) — documenter pour préparer une future refacturation
 2. **Se positionner sur le prêt collectif** dès que le décret d'application sera publié
-3. **Quota formation** : anticiper les heures transition énergétique dans le plan de formation 2026
+3. **Quota formation** : anticiper les heures transition énergétique dans le plan de formation
 4. **Petites copropriétés** : évaluer le portefeuille, identifier celles sous 10 lots non immatriculées, proposer une mise à niveau
 5. **Communication** : améliorer l'extranet et tester un push mail mensuel sur les décisions AG
 

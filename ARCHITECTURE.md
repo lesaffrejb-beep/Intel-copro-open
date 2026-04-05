@@ -1,4 +1,4 @@
-# ARCHITECTURE — copro-intel-angers
+# ARCHITECTURE — copro-intel
 
 > Document de référence système. Dernière mise à jour : 2026-04-04.
 > Ce fichier est le brief pour tout développeur IA qui reprend ce projet.
@@ -9,7 +9,7 @@
 
 ### Ce que c'est
 
-`copro-intel-angers` est une **base de connaissance vivante en Markdown**, versionnée sous Git, construite par et pour Jean-Baptiste Lesaffre — en reconversion vers la gestion de copropriété (syndic), stagiaire chez Antoine Immobilier (Angers) à partir du 13 avril 2026.
+`copro-intel` est une **base de connaissance vivante en Markdown**, versionnée sous Git, construite par et pour un gestionnaire en reconversion vers la gestion de copropriété (syndic), stagiaire dans un cabinet syndic régional.
 
 Ce n'est pas un wiki statique. C'est un **système auto-améliorant** :
 - Chaque document source ingéré enrichit le wiki.
@@ -26,7 +26,7 @@ Ce n'est pas un wiki statique. C'est un **système auto-améliorant** :
 
 ### Pour qui
 
-- **JB d'abord** : outil quotidien de stage, terrain d'entraînement, préparation examens GPI Bloc 3.
+- **L'auteur d'abord** : outil quotidien de stage, terrain d'entraînement, préparation examens.
 - **Tout développeur IA qui reprend** : ce document est le brief complet. Lire aussi `AGENTS.md` et `README.md`.
 
 ### Principes fondateurs
@@ -236,7 +236,7 @@ Agents spécialisés complémentaires (dans `prompts/agents/`) :
 | **Priorité** | **P2 — juin 2026** |
 | **Stack** | n8n workflow : cron → Perplexity API → Claude API → commit `outputs/veille/` |
 
-La **décision d'ingestion reste humaine** : le Veilleur propose, JB valide avant `ingest.sh`.
+La **décision d'ingestion reste humaine** : le Veilleur propose, l'utilisateur valide avant `ingest.sh`.
 
 ---
 
@@ -276,7 +276,7 @@ La **décision d'ingestion reste humaine** : le Veilleur propose, JB valide avan
 
 ### Phase 1 — Fondations (avril-mai 2026)
 
-**Objectif** : système opérationnel dès J+1 du stage (13 avril)
+**Objectif** : système opérationnel dès J+1 du stage
 
 | Tâche | Priorité | Agent |
 |-------|----------|-------|
@@ -384,7 +384,7 @@ La **décision d'ingestion reste humaine** : le Veilleur propose, JB valide avan
 
 | KPI | Signal "ça marche" | Comment mesurer |
 |-----|--------------------|-----------------|
-| **Mémoire externalisée** | "Je n'ai plus à réexpliquer le contexte à Pierre-Henri" | Nb articles wiki cités dans des échanges réels avec le superviseur |
+| **Mémoire externalisée** | "Je n'ai plus à réexpliquer le contexte au superviseur" | Nb articles wiki cités dans des échanges réels avec le superviseur |
 | **Précision juridique** | Zéro erreur de citation en AG ou dans un courrier | Nb `[À VÉRIFIER]` → 0 sur articles `status: validated` |
 | **Progression documentée** | Le wiki de semaine 8 répond mieux que ma mémoire de semaine 1 | `git log --since="8 weeks ago" --oneline -- wiki/` |
 | **Couverture sources** | 79 PDFs tous compilés en articles | `./scripts/sources-catalog.sh` : 100% ingérés + 100% compilés |

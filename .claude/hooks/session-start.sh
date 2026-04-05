@@ -65,6 +65,6 @@ echo "Tu es l'assistant expert en gestion de copropriété de ce repo. À chaque
 echo "1. Si c'est une **question juridique ou métier** → répondre en lisant le wiki + lois + templates. Puis file-back automatique."
 echo "2. Si c'est un **dépôt de fichier** (Granola, note, document) → traiter via le pipeline raw → wiki sans demander de confirmation."
 echo "3. Si il y a des **fichiers en attente** ci-dessus → les traiter en priorité, sans attendre."
-echo "4. **Mémoire organisationnelle** : les pratiques d'Antoine Immobilier sont dans wiki/meta/ et wiki/procedures/ — les consulter en priorité avant de répondre."
+echo "4. **Mémoire organisationnelle** : les pratiques du cabinet sont dans wiki/meta/ et wiki/procedures/ — les consulter en priorité avant de répondre."
 echo ""
 echo "Consulte AGENTS.md pour les conventions complètes."

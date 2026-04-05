@@ -1,4 +1,4 @@
-# INDEX.md — Inventaire opérationnel du repo `copro-intel-angers`
+# INDEX.md — Inventaire opérationnel du repo `copro-intel`
 
 > Mise à jour : 2026-04-03
 > Format : `chemin | type | statut | description`
@@ -54,13 +54,13 @@
 
 | Chemin | Type | Statut | Description |
 |---|---|---|---|
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/01_RCP/` | Template dossier | ⬜ Vide | Règlement + modificatifs |
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/02_PV_AG/` | Template dossier | ⬜ Vide | PV d’assemblées générales |
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/03_Contrats/` | Template dossier | ⬜ Vide | Contrats syndic/prestataires |
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/04_Assurance/` | Template dossier | ⬜ Vide | Polices et sinistres |
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/05_Budget/` | Template dossier | ⬜ Vide | Budgets / annexes comptables |
-| `Antoine-Immobilier/_TEMPLATE_RESIDENCE/06_Sinistres_en_cours/` | Template dossier | ⬜ Vide | Dossiers sinistres actifs |
-| `Résidences/` | Dossier opérationnel | ⬜ Vide | Espace libre pour résidences hors Antoine Immobilier |
+| `Cabinet/_TEMPLATE_RESIDENCE/01_RCP/` | Template dossier | ⬜ Vide | Règlement + modificatifs |
+| `Cabinet/_TEMPLATE_RESIDENCE/02_PV_AG/` | Template dossier | ⬜ Vide | PV d’assemblées générales |
+| `Cabinet/_TEMPLATE_RESIDENCE/03_Contrats/` | Template dossier | ⬜ Vide | Contrats syndic/prestataires |
+| `Cabinet/_TEMPLATE_RESIDENCE/04_Assurance/` | Template dossier | ⬜ Vide | Polices et sinistres |
+| `Cabinet/_TEMPLATE_RESIDENCE/05_Budget/` | Template dossier | ⬜ Vide | Budgets / annexes comptables |
+| `Cabinet/_TEMPLATE_RESIDENCE/06_Sinistres_en_cours/` | Template dossier | ⬜ Vide | Dossiers sinistres actifs |
+| `Résidences/` | Dossier opérationnel | ⬜ Vide | Espace libre pour résidences |
 | `Livrables/` | Dossier livrables | ⬜ Vide | Rapports, présentations, mémoires |
 
 ## Pilotage

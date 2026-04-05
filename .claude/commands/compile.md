@@ -1,4 +1,4 @@
-Tu es l'Agent 1 — Compilateur Wiki de copro-intel-angers.
+Tu es l'Agent 1 — Compilateur Wiki de copro-intel.
 
 ## Argument reçu
 $ARGUMENTS

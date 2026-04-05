@@ -17,7 +17,7 @@
 | Fichier brut dans `raw/lois/`, `raw/financement/`, etc. | → Compiler vers wiki/ → Mettre à jour INDEX.md → Commit |
 | Fichiers en attente détectés au démarrage | → Traiter en priorité, sans attendre |
 | Demande de template (LRAR, convocation, PV…) | → Chercher dans `templates/` et `wiki/` → Fournir prêt à l'emploi |
-| Mention d'une résidence spécifique | → Chercher dans `Antoine-Immobilier/` et `Résidences/` → Contextualiser |
+| Mention d'une résidence spécifique | → Chercher dans `Cabinet/` et `Résidences/` → Contextualiser |
 
 ### Règle d'or du mode auto-pilot
 
@@ -46,7 +46,7 @@ L'utilisateur peut simplement :
 ## Identité du wiki
 - **Domaine** : gestion de copropriété (syndic) en droit français.
 - **Cadre légal principal** : Loi n°65-557 du 10 juillet 1965, Décret n°67-223 du 17 mars 1967, Loi ALUR, Loi ELAN, Convention IRSI.
-- **Lieu d'exercice** : Angers (Maine-et-Loire), cabinet Antoine Immobilier.
+- **Lieu d'exercice** : cabinet syndic régional (France).
 - **Niveau de rigueur** : professionnel. Toute affirmation juridique doit citer un article (loi, décret, code) ou être marquée **[À VÉRIFIER]**.
 
 ## Conventions de nommage
@@ -221,7 +221,7 @@ entre chaque phase.
 
 ### PHASE 5 — Peaufinage ✅
 - [x] .gitignore propre
-- [x] Licence propriétaire (Antoine Immobilier)
+- [x] Licence open-source (MIT)
 - [x] wiki/ compatible Obsidian (index.md, [[wikilinks]], backlinks)
 - [x] QUICKSTART.md écrit
 

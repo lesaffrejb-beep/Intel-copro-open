@@ -1,7 +1,7 @@
 # Portfolio — Base de connaissances copropriété
 
 **Date d'export** : 2026-04-05
-**Projet** : wiki-copro — Antoine Immobilier, Angers
+**Projet** : copro-intel — base de connaissances syndic
 
 ## Vue d'ensemble
 
