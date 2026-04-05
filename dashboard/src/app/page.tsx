@@ -116,7 +116,7 @@ export default async function CockpitPage() {
                 letterSpacing: '0.04em',
               }}
             >
-              Antoine Immobilier · Angers
+              copro-intel · syndic
             </div>
           </div>
         </div>

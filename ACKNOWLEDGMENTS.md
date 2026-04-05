@@ -174,11 +174,10 @@ Merci à leurs auteurs et à [HAL](https://hal.science) pour l'accès ouvert.
 
 ## Le contexte humain
 
-Ce wiki a été construit dans le cadre d'un stage chez **Antoine Immobilier**
-(Angers, Maine-et-Loire), cabinet de syndic de copropriété. Merci à l'équipe
-pour la confiance et le terrain d'apprentissage.
+Ce wiki a été construit dans le cadre d'un stage dans un cabinet syndic de
+copropriété. Merci à l'équipe pour la confiance et le terrain d'apprentissage.
 
-Formation : **GPI Bloc 3 / INEAD** — Gestionnaire de Patrimoine Immobilier.
+Formation : cursus en gestion de patrimoine immobilier.
 
 ---
 

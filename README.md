@@ -1,6 +1,6 @@
-# copro-intel-angers — LLM Knowledge Base (Syndic)
+# copro-intel — LLM Knowledge Base (Syndic)
 
-Base de connaissances personnelle pour capitaliser les apprentissages métier en gestion de copropriété (stage Antoine Immobilier, Angers), avec workflow quotidien piloté par Markdown + Git + Claude Code.
+Base de connaissances personnelle pour capitaliser les apprentissages métier en gestion de copropriété (stage dans un cabinet syndic), avec workflow quotidien piloté par Markdown + Git + Claude Code.
 
 ## Objectifs
 1. Ne rien oublier : procédures, erreurs, cas terrain, jurisprudence.
@@ -61,7 +61,7 @@ cat prompts/file-back.md
 - Granola : transcriptions meetings/RDV/récaps.
 - Documents internes : procédures cabinet (scan/OCR si nécessaire).
 - Textes légaux : Loi 65-557, Décret 67-223, jurisprudence, conventions.
-- Formation : Bloc 3 GPI / INEAD.
+- Formation : cursus en gestion de patrimoine immobilier.
 - Veille réglementaire et métier.
 
 ## Intégration outils
@@ -88,15 +88,11 @@ chmod +x scripts/*.sh
 
 ## Données sensibles
 
-> **Le dossier `wiki/meta/` ne doit JAMAIS être partagé publiquement.**
-
-Ce dossier contient des notes de contexte organisationnel : culture du cabinet,
-préférences du superviseur, carte des interlocuteurs, prestataires de confiance
-avec retours d'expérience. Tous les fichiers de `wiki/meta/` portent
-`sensitivity: internal` dans leur frontmatter YAML.
-
-Si le repo est rendu public, ajouter `wiki/meta/` au `.gitignore` **avant** de
-publier, ou utiliser un repo séparé privé pour ces fichiers.
+> **Le dossier `wiki/meta/` a été supprimé pour la publication open-source.**
+>
+> Il contenait des notes de contexte organisationnel propres au cabinet
+> (culture, interlocuteurs, prestataires). Si vous forkez ce repo pour votre
+> propre cabinet, recréez-le avec vos données internes.
 
 ## Contraintes techniques
 - UTF-8, Markdown strict, compatible Obsidian + GitHub.

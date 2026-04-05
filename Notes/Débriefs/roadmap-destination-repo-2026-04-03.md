@@ -15,7 +15,7 @@ Construire une base documentaire **navigable par humain + LLM + Obsidian**, avec
 - `wiki/` = compilation LLM (synthèses)
 
 ## État actuel (2026-04-03)
-- Arborescence cible recréée (`raw/`, `wiki/`, `Antoine-Immobilier/_TEMPLATE_RESIDENCE/`, `Résidences/`, `Livrables/`, `Notes/Brut/`).
+- Arborescence cible recréée (`raw/`, `wiki/`, `Cabinet/_TEMPLATE_RESIDENCE/`, `Résidences/`, `Livrables/`, `Notes/Brut/`).
 - Fichiers templates opérationnels présents et utilisables.
 - Prompts Projects Claude présents et exploitables.
 - Ressources RAG classées (lois, financement, contexte local, guides).

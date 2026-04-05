@@ -20,7 +20,7 @@ count_words_in() { find "$1" -type f -name '*.md' -exec cat {} + 2>/dev/null | w
 echo "# Portfolio — Base de connaissances copropriété"
 echo ""
 echo "**Date d'export** : $DATE_NOW"
-echo "**Projet** : wiki-copro — Antoine Immobilier, Angers"
+echo "**Projet** : copro-intel — base de connaissances syndic"
 echo ""
 
 # --- Vue d'ensemble ---

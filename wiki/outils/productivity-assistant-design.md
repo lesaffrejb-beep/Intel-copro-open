@@ -4,7 +4,7 @@ category: concept
 tags: [vision, architecture, productivity, ai-chief-of-staff, mcp, google-workspace, veille, dashboard]
 created: 2026-04-04
 updated: 2026-04-04
-source: "session claude code — brainstorm JB"
+source: "session claude code — brainstorm"
 status: draft
 ---
 

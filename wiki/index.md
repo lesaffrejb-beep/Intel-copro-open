@@ -124,8 +124,7 @@ status: draft
 - [[design-system-dashboard]] — Design system Nothing-inspired pour futur dashboard
 
 ## Méta (interne)
-- [[antoine-immo-culture]]
-- [[audit-strategique-antoine-immobilier]]
+> _Fichiers supprimés pour la publication open-source. Recréez `wiki/meta/` avec vos données internes si vous forkez ce repo._
 
 ## Décisions
 - [[prochaine-passe-priorisee-2026-04-04]] — Priorisation de la prochaine passe de compilation
